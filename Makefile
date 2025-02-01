@@ -1,6 +1,6 @@
 # Makefile for playwright-interactions project
 
-.PHONY: help clean build sources
+.PHONY: help clean build sources test package install check-updates
 
 .DEFAULT_GOAL := help
 
@@ -32,3 +32,9 @@ package: ## Package the project into a JAR
 install: ## Install project locally
 	@echo "Installing project..."
 	./mvnw install
+
+check-updates: ## Check for dependency updates (libraries, plugins, etc.)
+	@echo "Checking for dependency updates..."
+	./mvnw versions:display-dependency-updates
+	./mvnw versions:display-plugin-updates
+	./mvnw versions:display-property-updates
