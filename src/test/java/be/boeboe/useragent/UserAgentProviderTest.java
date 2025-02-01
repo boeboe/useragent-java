@@ -49,6 +49,7 @@ public class UserAgentProviderTest {
 
   @Test
   void testGetRandomUserAgent() {
+    logger.info("Test get random user agent");
     UserAgent userAgent = userAgentProvider.getRandomUserAgent();
     assertNotNull(userAgent);
     assertTrue(userAgent.getUseragent().contains("Mozilla"));
@@ -56,6 +57,7 @@ public class UserAgentProviderTest {
 
   @Test
   void testGetRandomLatestUserAgent() {
+    logger.info("Test get random latest user agent");
     UserAgent userAgent = userAgentProvider.getRandomLatestUserAgent();
     assertNotNull(userAgent);
     assertTrue(userAgent.getUseragent().contains("Mozilla"));
@@ -63,6 +65,7 @@ public class UserAgentProviderTest {
 
   @Test
   void testGetRandomUserAgentByDevice() {
+    logger.info("Test get random user agent by device");
     UserAgent userAgent = userAgentProvider.getRandomUserAgent(Device.WINDOWS);
     assertNotNull(userAgent);
     assertEquals(Device.WINDOWS, userAgent.getDevice());
@@ -70,6 +73,7 @@ public class UserAgentProviderTest {
 
   @Test
   void testGetRandomLatestUserAgentByDevice() {
+    logger.info("Test get random latest user agent by device");
     UserAgent userAgent = userAgentProvider.getRandomLatestUserAgent(Device.WINDOWS);
     assertNotNull(userAgent);
     assertEquals(Device.WINDOWS, userAgent.getDevice());
@@ -77,16 +81,15 @@ public class UserAgentProviderTest {
 
   @Test
   void testGetRandomUserAgentWhenFileIsEmpty() throws IOException {
-    // Create an empty JSON file
+    logger.info("Test get random user agent when file is empty");
     writeJsonFile(tempDir.resolve("random/empty.json"), List.of());
-
     Exception exception = assertThrows(RuntimeException.class, () -> {
       userAgentProvider.getRandomUserAgentFromFile(tempDir.resolve("random/empty.json"));
     });
-
     assertTrue(exception.getMessage().contains("User agent file is empty"));
   }
 
+  // Helper method to write JSON files
   private void writeJsonFile(Path path, List<UserAgent> userAgents) throws IOException {
     MAPPER.writeValue(new File(path.toUri()), userAgents);
   }
