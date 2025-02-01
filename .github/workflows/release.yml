@@ -65,19 +65,30 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Import GPG Key
+      - name: Import and Trust GPG Key
         run: |
           echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode > private.key
           gpg --batch --import private.key
           rm private.key
-
-      - name: Verify GPG Key Import
-        run: gpg --list-secret-keys --keyid-format LONG
-
-      - name: Trust GPG Key
-        run: |
+          gpg --list-secret-keys --keyid-format LONG
           KEY_FINGERPRINT=$(gpg --list-secret-keys --with-colons --fingerprint | awk -F: '/^fpr:/ {print $10}' | head -n1)
           echo "$KEY_FINGERPRINT:6:" | gpg --batch --import-ownertrust
+
+      - name: Create Maven settings.xml
+        run: |
+          mkdir -p ~/.m2
+          echo '<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+            http://maven.apache.org/xsd/settings-1.0.0.xsd">
+            <servers>
+              <server>
+                <id>central</id>
+                <username>${{ secrets.OSSRH_USERNAME }}</username>
+                <password>${{ secrets.OSSRH_PASSWORD }}</password>
+              </server>
+            </servers>
+          </settings>' > ~/.m2/settings.xml
 
       - name: Release to Maven Central
         run: |
