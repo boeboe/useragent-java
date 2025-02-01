@@ -116,6 +116,7 @@ This project includes a **Makefile** to simplify build, test, and release operat
 | `make test`          | Runs all tests (unit and integration).                    |
 | `make package`       | Packages the project into a JAR file.                     |
 | `make install`       | Installs the built JAR to the local Maven repository.     |
+| `make deploy`        | Deploy built JAR to a remote Maven repository.            |
 | `make check-updates` | Checks for dependency updates (libraries, plugins, etc.). |
 
 ---

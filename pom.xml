@@ -7,13 +7,13 @@
   <artifactId>user-agent</artifactId>
   <version>1.0.0</version>
   <name>User Agent Library</name>
-  <description>Library to generate random and latest user agents.</description>
+  <description>Library to generate random and latest browser user agents.</description>
   <url>https://github.com/boeboe/useragent-java</url>
 
   <licenses>
     <license>
       <name>Apache License, Version 2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
     </license>
   </licenses>
 
@@ -24,6 +24,12 @@
       <email>bartvanbos@gmail.com</email>
     </developer>
   </developers>
+
+  <scm>
+    <connection>scm:git:git://github.com/boeboe/useragent-java.git</connection>
+    <developerConnection>scm:git:ssh://github.com:boeboe/useragent-java.git</developerConnection>
+    <url>http://github.com/boeboe/useragent-java/tree/master</url>
+  </scm>
 
   <properties>
     <java.version>21</java.version>
@@ -50,6 +56,7 @@
     <versions-maven-plugin.version>2.18.0</versions-maven-plugin.version>
     <maven-failsafe-plugin.version>3.5.2</maven-failsafe-plugin.version>
     <jacoco-maven-plugin.version>0.8.12</jacoco-maven-plugin.version>
+    <central-publishing-maven-plugin.version>0.7.0</central-publishing-maven-plugin.version>
   </properties>
 
   <dependencies>
@@ -209,6 +216,19 @@
           </ruleSet>
         </configuration>
       </plugin>
+
+      <!-- Central Publishing Maven Plugin -->
+      <plugin>
+        <groupId>org.sonatype.central</groupId>
+        <artifactId>central-publishing-maven-plugin</artifactId>
+        <version>${central-publishing-maven-plugin.version}</version>
+        <extensions>true</extensions>
+        <configuration>
+          <publishingServerId>central</publishingServerId>
+          <autoPublish>true</autoPublish>
+        </configuration>
+      </plugin>
+
     </plugins>
   </build>
 </project>

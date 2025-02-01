@@ -33,6 +33,10 @@ install: ## Install project locally
 	@echo "Installing project..."
 	./mvnw install
 
+deploy: ## Deploy project to a remote repository
+	@echo "Deploying project..."
+	./mvnw deploy
+
 check-updates: ## Check for dependency updates (libraries, plugins, etc.)
 	@echo "Checking for dependency updates..."
 	./mvnw versions:display-dependency-updates
