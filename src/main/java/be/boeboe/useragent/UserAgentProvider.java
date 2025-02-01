@@ -18,7 +18,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
  * available user agent. It supports filtering by device type.
  * </p>
  *
- * <h3>Usage Examples:</h3>
+ * <h2>Usage Examples:</h2>
  * 
  * <pre>
  * UserAgentProvider provider = new UserAgentProvider();

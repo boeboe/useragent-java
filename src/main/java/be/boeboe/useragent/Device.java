@@ -20,7 +20,6 @@ import com.fasterxml.jackson.annotation.JsonValue;
  * <li>{@link #MOBILE} - Represents mobile devices in general.</li>
  * <li>{@link #WINDOWS} - Represents Windows operating system.</li>
  * </ul>
- * </p>
  */
 public enum Device {
   /**
