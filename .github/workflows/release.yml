@@ -42,7 +42,7 @@ jobs:
             git fetch origin main
             git checkout main
             git commit -am "Set version to ${RELEASE_VERSION}"
-            git push origin main
+            git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/boeboe/useragent-java.git main
           else
             echo "No changes to commit. pom.xml is already up-to-date."
           fi
