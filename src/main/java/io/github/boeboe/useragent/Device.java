@@ -1,4 +1,4 @@
-package be.boeboe.useragent;
+package io.github.boeboe.useragent;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;

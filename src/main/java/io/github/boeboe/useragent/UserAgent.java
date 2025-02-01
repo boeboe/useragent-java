@@ -1,4 +1,4 @@
-package be.boeboe.useragent;
+package io.github.boeboe.useragent;
 
 /**
  * Represents a user agent string associated with a specific device type.

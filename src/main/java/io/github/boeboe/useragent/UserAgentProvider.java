@@ -1,4 +1,4 @@
-package be.boeboe.useragent;
+package io.github.boeboe.useragent;
 
 import java.io.IOException;
 import java.nio.file.Files;

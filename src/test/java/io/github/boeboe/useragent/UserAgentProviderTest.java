@@ -1,4 +1,4 @@
-package be.boeboe.useragent;
+package io.github.boeboe.useragent;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
