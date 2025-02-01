@@ -1,0 +1,85 @@
+# HELP.md
+HELP.md
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Spring Tool Suite (STS)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+log/
+
+# Java
+*.class
+*.war
+*.jar
+
+# Lombok
+lombok.config
+
+# Spring Boot
+.env
+.env.*
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Security
+*.key
+*.pem
+*.crt
+*.p12
+*.jks
+
+# Test Coverage Reports
+coverage/
+*.lcov
+*.clover
+jacoco*.exec
+
+# Docker
+docker-compose.override.yml
+.env.docker
+
+# Others
+*.pyc
+*.pyo
+*.sqlite

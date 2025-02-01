@@ -1,0 +1,4002 @@
+[
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i554 x86_64) Gecko/20130401 Firefox/71.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_1_0; en-US) Gecko/20130401 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_6; en-US) Gecko/20100101 Firefox/50.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/74.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i686 x86_64; en-US) Gecko/20130401 Firefox/46.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64) Gecko/20130401 Firefox/47.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/72.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_8_0) Gecko/20100101 Firefox/54.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_1) Gecko/20130401 Firefox/66.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_8) Gecko/20100101 Firefox/63.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) Gecko/20130401 Firefox/57.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64) Gecko/20100101 Firefox/60.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/56.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i582 x86_64) Gecko/20130401 Firefox/62.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/66.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i554 ; en-US) Gecko/20100101 Firefox/46.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_1) Gecko/20100101 Firefox/47.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_7; en-US) Gecko/20100101 Firefox/59.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/50.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0) Gecko/20100101 Firefox/72.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) Gecko/20130401 Firefox/72.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; WOW64) Gecko/20130401 Firefox/55.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64) Gecko/20100101 Firefox/56.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i543 x86_64; en-US) Gecko/20100101 Firefox/48.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/58.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/73.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/55.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5; en-US) Gecko/20130401 Firefox/69.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) Gecko/20100101 Firefox/46.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;; en-US) Gecko/20100101 Firefox/70.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_3; en-US) Gecko/20100101 Firefox/70.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i565 x86_64; en-US) Gecko/20100101 Firefox/49.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_1_1) Gecko/20100101 Firefox/71.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64) Gecko/20100101 Firefox/45.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2) Gecko/20130401 Firefox/47.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; WOW64; en-US) Gecko/20100101 Firefox/58.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_4; en-US) Gecko/20100101 Firefox/53.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) Gecko/20100101 Firefox/69.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i586 ) Gecko/20100101 Firefox/73.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_9; en-US) Gecko/20130401 Firefox/51.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7; en-US) Gecko/20100101 Firefox/69.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_1_1; en-US) Gecko/20130401 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_0; en-US) Gecko/20130401 Firefox/54.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64; en-US) Gecko/20130401 Firefox/64.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i666 x86_64) Gecko/20130401 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) Gecko/20130401 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i643 x86_64; en-US) Gecko/20130401 Firefox/59.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;; en-US) Gecko/20100101 Firefox/63.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/73.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) Gecko/20100101 Firefox/57.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;) Gecko/20130401 Firefox/72.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/46.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64) Gecko/20100101 Firefox/62.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/54.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/61.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) Gecko/20100101 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_9_3) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i580 ) Gecko/20130401 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/46.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_3_2) Gecko/20100101 Firefox/59.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US) Gecko/20130401 Firefox/73.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i574 ; en-US) Gecko/20100101 Firefox/64.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/64.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_3; en-US) Gecko/20130401 Firefox/69.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i680 x86_64) Gecko/20130401 Firefox/52.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/71.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) Gecko/20100101 Firefox/52.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) Gecko/20100101 Firefox/62.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i542 ; en-US) Gecko/20100101 Firefox/53.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64) Gecko/20100101 Firefox/61.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8) Gecko/20130401 Firefox/61.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_0) Gecko/20100101 Firefox/53.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64) Gecko/20130401 Firefox/59.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_5_7) Gecko/20100101 Firefox/59.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/70.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64) Gecko/20130401 Firefox/46.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) Gecko/20100101 Firefox/69.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_7; en-US) Gecko/20130401 Firefox/63.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_0; en-US) Gecko/20130401 Firefox/48.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) Gecko/20130401 Firefox/45.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/63.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/71.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i564 x86_64) Gecko/20100101 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64) Gecko/20100101 Firefox/55.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_1_8) Gecko/20100101 Firefox/65.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) Gecko/20100101 Firefox/49.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20100101 Firefox/55.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/61.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i551 ; en-US) Gecko/20100101 Firefox/69.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9; en-US) Gecko/20100101 Firefox/55.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/73.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_0) Gecko/20130401 Firefox/70.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_3_6) Gecko/20130401 Firefox/71.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_6) Gecko/20130401 Firefox/67.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i666 x86_64) Gecko/20130401 Firefox/61.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_2) Gecko/20100101 Firefox/68.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i550 ; en-US) Gecko/20130401 Firefox/50.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_7_2) Gecko/20130401 Firefox/46.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64; en-US) Gecko/20130401 Firefox/53.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) Gecko/20130401 Firefox/64.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_4_2; en-US) Gecko/20100101 Firefox/70.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;) Gecko/20100101 Firefox/55.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;) Gecko/20100101 Firefox/62.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64) Gecko/20130401 Firefox/63.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_3; en-US) Gecko/20100101 Firefox/61.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/67.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/73.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/50.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i643 x86_64; en-US) Gecko/20100101 Firefox/69.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;; en-US) Gecko/20100101 Firefox/61.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_4; en-US) Gecko/20100101 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_7) Gecko/20130401 Firefox/70.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_2_4; en-US) Gecko/20100101 Firefox/69.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i583 ; en-US) Gecko/20100101 Firefox/45.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i674 ) Gecko/20100101 Firefox/73.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) Gecko/20100101 Firefox/63.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/58.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64) Gecko/20100101 Firefox/49.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_1; en-US) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i553 ) Gecko/20100101 Firefox/73.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64) Gecko/20130401 Firefox/73.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64) Gecko/20130401 Firefox/73.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4) Gecko/20100101 Firefox/71.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/72.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i583 ) Gecko/20100101 Firefox/74.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/51.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;; en-US) Gecko/20100101 Firefox/68.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/59.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; WOW64) Gecko/20100101 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) Gecko/20100101 Firefox/54.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i555 ; en-US) Gecko/20100101 Firefox/56.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/63.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64) Gecko/20100101 Firefox/51.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_2) Gecko/20100101 Firefox/69.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_5) Gecko/20130401 Firefox/64.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/65.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i564 x86_64; en-US) Gecko/20100101 Firefox/57.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/63.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i656 ) Gecko/20100101 Firefox/65.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/56.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) Gecko/20100101 Firefox/47.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_9_7; en-US) Gecko/20100101 Firefox/64.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_0_3) Gecko/20130401 Firefox/50.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i553 x86_64) Gecko/20130401 Firefox/55.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/70.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/53.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_0_2) Gecko/20130401 Firefox/57.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;; en-US) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i553 x86_64; en-US) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_3_4; en-US) Gecko/20100101 Firefox/65.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/68.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) Gecko/20100101 Firefox/68.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i670 x86_64; en-US) Gecko/20100101 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i671 ) Gecko/20130401 Firefox/62.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) Gecko/20100101 Firefox/58.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3;) Gecko/20130401 Firefox/61.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64) Gecko/20130401 Firefox/50.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) Gecko/20100101 Firefox/48.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i573 ; en-US) Gecko/20130401 Firefox/74.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) Gecko/20100101 Firefox/48.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_1) Gecko/20130401 Firefox/57.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i560 ) Gecko/20100101 Firefox/46.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_6_8; en-US) Gecko/20100101 Firefox/56.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_2_2; en-US) Gecko/20100101 Firefox/56.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;; en-US) Gecko/20100101 Firefox/64.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8; en-US) Gecko/20100101 Firefox/50.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) Gecko/20100101 Firefox/58.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i546 ) Gecko/20100101 Firefox/57.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_4) Gecko/20100101 Firefox/68.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/45.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i565 ; en-US) Gecko/20100101 Firefox/49.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/74.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_2; en-US) Gecko/20130401 Firefox/64.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20100101 Firefox/59.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_8_9) Gecko/20100101 Firefox/67.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_7_4; en-US) Gecko/20100101 Firefox/61.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i575 ; en-US) Gecko/20100101 Firefox/45.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i571 x86_64; en-US) Gecko/20100101 Firefox/64.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i542 ) Gecko/20130401 Firefox/50.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_1_4) Gecko/20100101 Firefox/50.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/60.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/65.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i552 ) Gecko/20130401 Firefox/58.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) Gecko/20130401 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_9_1) Gecko/20100101 Firefox/52.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/67.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20130401 Firefox/74.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_5) Gecko/20100101 Firefox/70.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_5; en-US) Gecko/20100101 Firefox/54.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;; en-US) Gecko/20100101 Firefox/55.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/61.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_6; en-US) Gecko/20100101 Firefox/60.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/65.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i540 ; en-US) Gecko/20100101 Firefox/68.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_1; en-US) Gecko/20100101 Firefox/67.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i546 ) Gecko/20130401 Firefox/54.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_7) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_6_6; en-US) Gecko/20100101 Firefox/68.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i565 ) Gecko/20100101 Firefox/73.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/68.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/65.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/46.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5) Gecko/20130401 Firefox/49.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_6; en-US) Gecko/20130401 Firefox/69.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/64.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_0) Gecko/20100101 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20130401 Firefox/59.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;; en-US) Gecko/20100101 Firefox/69.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/58.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i563 ; en-US) Gecko/20130401 Firefox/50.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_3_5; en-US) Gecko/20100101 Firefox/55.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) Gecko/20100101 Firefox/60.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/55.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i672 x86_64) Gecko/20100101 Firefox/61.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_5_4) Gecko/20100101 Firefox/62.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/56.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) Gecko/20100101 Firefox/61.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i572 ) Gecko/20100101 Firefox/51.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i560 ) Gecko/20100101 Firefox/46.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_8) Gecko/20100101 Firefox/72.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/54.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i562 x86_64; en-US) Gecko/20100101 Firefox/61.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8) Gecko/20130401 Firefox/59.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i640 ; en-US) Gecko/20100101 Firefox/74.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_0) Gecko/20100101 Firefox/70.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i672 ; en-US) Gecko/20100101 Firefox/46.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i642 x86_64; en-US) Gecko/20130401 Firefox/73.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/70.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_4; en-US) Gecko/20130401 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/64.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_9_5) Gecko/20130401 Firefox/73.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i672 ; en-US) Gecko/20100101 Firefox/45.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_7; en-US) Gecko/20100101 Firefox/52.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i672 x86_64; en-US) Gecko/20130401 Firefox/66.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_1) Gecko/20100101 Firefox/55.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;; en-US) Gecko/20100101 Firefox/73.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) Gecko/20130401 Firefox/56.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i550 ; en-US) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_0; en-US) Gecko/20100101 Firefox/74.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_4_8) Gecko/20130401 Firefox/66.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_9; en-US) Gecko/20100101 Firefox/54.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64) Gecko/20130401 Firefox/54.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i646 ; en-US) Gecko/20130401 Firefox/64.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/56.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i576 ; en-US) Gecko/20130401 Firefox/67.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/68.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/74.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/61.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) Gecko/20100101 Firefox/73.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) Gecko/20100101 Firefox/58.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_2_4) Gecko/20100101 Firefox/53.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/57.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i686 ; en-US) Gecko/20100101 Firefox/54.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/66.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/45.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/60.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64; en-US) Gecko/20100101 Firefox/59.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3; en-US) Gecko/20130401 Firefox/68.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64; en-US) Gecko/20100101 Firefox/47.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i640 x86_64; en-US) Gecko/20100101 Firefox/73.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_7) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/52.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/59.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_9; en-US) Gecko/20100101 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) Gecko/20130401 Firefox/72.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i672 ) Gecko/20130401 Firefox/62.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i582 ; en-US) Gecko/20130401 Firefox/60.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i673 x86_64) Gecko/20100101 Firefox/71.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_2; en-US) Gecko/20100101 Firefox/50.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_3_9) Gecko/20100101 Firefox/45.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_4_7; en-US) Gecko/20100101 Firefox/66.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_6_4) Gecko/20130401 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_3_7) Gecko/20100101 Firefox/53.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) Gecko/20130401 Firefox/61.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i674 x86_64) Gecko/20130401 Firefox/57.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_2_6) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i562 x86_64) Gecko/20100101 Firefox/46.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) Gecko/20100101 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i586 x86_64; en-US) Gecko/20100101 Firefox/50.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/49.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20100101 Firefox/69.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_4) Gecko/20100101 Firefox/64.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_6) Gecko/20130401 Firefox/67.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_7) Gecko/20100101 Firefox/47.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/49.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i681 ) Gecko/20100101 Firefox/55.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i670 x86_64; en-US) Gecko/20100101 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_2) Gecko/20130401 Firefox/48.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) Gecko/20100101 Firefox/60.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/50.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;; en-US) Gecko/20100101 Firefox/52.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i550 x86_64) Gecko/20100101 Firefox/60.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) Gecko/20130401 Firefox/69.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i571 ; en-US) Gecko/20100101 Firefox/45.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_1) Gecko/20100101 Firefox/70.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/70.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i665 x86_64; en-US) Gecko/20100101 Firefox/67.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i555 x86_64) Gecko/20100101 Firefox/65.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i663 x86_64) Gecko/20100101 Firefox/73.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9) Gecko/20100101 Firefox/73.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4;; en-US) Gecko/20130401 Firefox/61.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i663 ; en-US) Gecko/20130401 Firefox/72.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_8) Gecko/20100101 Firefox/52.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/67.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/74.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_2_9; en-US) Gecko/20100101 Firefox/71.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64) Gecko/20130401 Firefox/69.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) Gecko/20100101 Firefox/56.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_8_8) Gecko/20100101 Firefox/53.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3;) Gecko/20100101 Firefox/54.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i641 x86_64; en-US) Gecko/20100101 Firefox/56.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/56.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;; en-US) Gecko/20100101 Firefox/59.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_4) Gecko/20130401 Firefox/54.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_7_4; en-US) Gecko/20100101 Firefox/54.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/66.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5; en-US) Gecko/20130401 Firefox/53.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_7; en-US) Gecko/20100101 Firefox/60.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;; en-US) Gecko/20100101 Firefox/71.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/49.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) Gecko/20100101 Firefox/48.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/48.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_2; en-US) Gecko/20130401 Firefox/53.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) Gecko/20100101 Firefox/70.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/59.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i680 x86_64) Gecko/20100101 Firefox/74.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_8_2; en-US) Gecko/20130401 Firefox/48.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64) Gecko/20100101 Firefox/63.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/53.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) Gecko/20100101 Firefox/58.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_7) Gecko/20100101 Firefox/47.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_2_4) Gecko/20130401 Firefox/74.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_4_1; en-US) Gecko/20100101 Firefox/46.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;; en-US) Gecko/20130401 Firefox/57.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/62.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i644 x86_64; en-US) Gecko/20100101 Firefox/52.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) Gecko/20130401 Firefox/65.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) Gecko/20100101 Firefox/54.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_5) Gecko/20100101 Firefox/67.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) Gecko/20100101 Firefox/62.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/71.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_1) Gecko/20100101 Firefox/48.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i653 x86_64; en-US) Gecko/20130401 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) Gecko/20100101 Firefox/49.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i546 ; en-US) Gecko/20100101 Firefox/66.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/69.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/57.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i644 ) Gecko/20130401 Firefox/69.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_8_9; en-US) Gecko/20130401 Firefox/70.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i660 ; en-US) Gecko/20130401 Firefox/49.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i651 x86_64) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i664 x86_64; en-US) Gecko/20100101 Firefox/71.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_1) Gecko/20100101 Firefox/55.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i552 ) Gecko/20100101 Firefox/49.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/73.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) Gecko/20130401 Firefox/50.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i574 ) Gecko/20100101 Firefox/65.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) Gecko/20130401 Firefox/56.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/74.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_8_9; en-US) Gecko/20100101 Firefox/68.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) Gecko/20100101 Firefox/54.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i583 x86_64) Gecko/20100101 Firefox/52.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_3_4; en-US) Gecko/20100101 Firefox/57.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64; en-US) Gecko/20130401 Firefox/71.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_2) Gecko/20130401 Firefox/49.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; x64) Gecko/20100101 Firefox/47.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/72.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i546 ) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_3_8; en-US) Gecko/20100101 Firefox/72.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i576 ) Gecko/20100101 Firefox/56.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i555 ) Gecko/20100101 Firefox/48.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_1) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_5) Gecko/20100101 Firefox/50.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/65.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64; en-US) Gecko/20130401 Firefox/70.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; x64) Gecko/20100101 Firefox/70.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/50.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_8_3; en-US) Gecko/20100101 Firefox/71.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_1; en-US) Gecko/20100101 Firefox/70.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_9; en-US) Gecko/20100101 Firefox/49.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_1_0; en-US) Gecko/20100101 Firefox/51.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/72.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i562 ) Gecko/20100101 Firefox/59.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/59.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_4_5; en-US) Gecko/20100101 Firefox/68.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i666 ) Gecko/20100101 Firefox/73.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64) Gecko/20100101 Firefox/45.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i642 x86_64; en-US) Gecko/20130401 Firefox/60.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0) Gecko/20100101 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_7_6) Gecko/20100101 Firefox/57.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; WOW64; en-US) Gecko/20100101 Firefox/71.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/55.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64) Gecko/20100101 Firefox/59.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/56.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/70.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/54.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/56.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64; en-US) Gecko/20100101 Firefox/69.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) Gecko/20100101 Firefox/61.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/71.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) Gecko/20100101 Firefox/74.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/58.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) Gecko/20100101 Firefox/58.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) Gecko/20100101 Firefox/64.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/70.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_9_5) Gecko/20100101 Firefox/51.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) Gecko/20100101 Firefox/51.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i665 ; en-US) Gecko/20130401 Firefox/59.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;) Gecko/20100101 Firefox/57.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_2; en-US) Gecko/20130401 Firefox/47.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i564 x86_64) Gecko/20100101 Firefox/53.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i683 ) Gecko/20100101 Firefox/56.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_9) Gecko/20130401 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i666 ) Gecko/20100101 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i564 x86_64; en-US) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i641 ) Gecko/20100101 Firefox/58.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/67.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_7_7; en-US) Gecko/20100101 Firefox/64.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/49.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i564 x86_64) Gecko/20130401 Firefox/46.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/69.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i684 ) Gecko/20130401 Firefox/70.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_2) Gecko/20100101 Firefox/61.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_1; en-US) Gecko/20100101 Firefox/65.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i551 x86_64) Gecko/20100101 Firefox/67.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;; en-US) Gecko/20130401 Firefox/60.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) Gecko/20100101 Firefox/69.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2;) Gecko/20130401 Firefox/57.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) Gecko/20130401 Firefox/73.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_2; en-US) Gecko/20100101 Firefox/47.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;) Gecko/20100101 Firefox/54.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_6; en-US) Gecko/20100101 Firefox/57.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_1_4) Gecko/20100101 Firefox/59.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_2) Gecko/20100101 Firefox/73.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64) Gecko/20130401 Firefox/59.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/63.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/71.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/56.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) Gecko/20100101 Firefox/59.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) Gecko/20130401 Firefox/49.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i576 x86_64) Gecko/20100101 Firefox/73.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i644 ) Gecko/20100101 Firefox/47.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64) Gecko/20130401 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) Gecko/20130401 Firefox/68.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_8_4) Gecko/20100101 Firefox/55.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; x64) Gecko/20100101 Firefox/52.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) Gecko/20100101 Firefox/70.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64) Gecko/20100101 Firefox/64.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64) Gecko/20100101 Firefox/74.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/61.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/56.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_1; en-US) Gecko/20100101 Firefox/50.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64) Gecko/20100101 Firefox/53.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20130401 Firefox/54.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i685 x86_64) Gecko/20100101 Firefox/54.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/57.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/59.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_2_0) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i663 ; en-US) Gecko/20130401 Firefox/56.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/65.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i554 x86_64; en-US) Gecko/20130401 Firefox/62.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) Gecko/20130401 Firefox/51.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; x64) Gecko/20100101 Firefox/50.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i541 x86_64) Gecko/20100101 Firefox/55.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;; en-US) Gecko/20100101 Firefox/47.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_7_3; en-US) Gecko/20130401 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/71.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/64.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64; en-US) Gecko/20130401 Firefox/74.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i585 ) Gecko/20100101 Firefox/68.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/66.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i661 ; en-US) Gecko/20130401 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;; en-US) Gecko/20130401 Firefox/46.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_2_4; en-US) Gecko/20130401 Firefox/46.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/69.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/57.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_6; en-US) Gecko/20130401 Firefox/49.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;; en-US) Gecko/20100101 Firefox/73.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_9) Gecko/20100101 Firefox/58.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64) Gecko/20100101 Firefox/48.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-US) Gecko/20100101 Firefox/45.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;) Gecko/20130401 Firefox/61.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) Gecko/20100101 Firefox/73.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) Gecko/20130401 Firefox/63.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_4; en-US) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) Gecko/20130401 Firefox/48.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i673 ) Gecko/20100101 Firefox/57.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_8; en-US) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64; en-US) Gecko/20130401 Firefox/72.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) Gecko/20100101 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4; en-US) Gecko/20100101 Firefox/50.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64) Gecko/20100101 Firefox/70.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/61.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1; en-US) Gecko/20100101 Firefox/70.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/53.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i664 x86_64) Gecko/20130401 Firefox/46.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/47.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;) Gecko/20100101 Firefox/71.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) Gecko/20130401 Firefox/46.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;) Gecko/20100101 Firefox/71.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i641 ; en-US) Gecko/20100101 Firefox/72.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/72.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i541 x86_64; en-US) Gecko/20100101 Firefox/57.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_3; en-US) Gecko/20130401 Firefox/54.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/47.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/68.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64; en-US) Gecko/20130401 Firefox/48.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_0; en-US) Gecko/20100101 Firefox/64.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_1; en-US) Gecko/20100101 Firefox/47.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) Gecko/20100101 Firefox/54.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8) Gecko/20100101 Firefox/53.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_8_5) Gecko/20100101 Firefox/53.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; en-US) Gecko/20100101 Firefox/69.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) Gecko/20100101 Firefox/51.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/74.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_3) Gecko/20100101 Firefox/56.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;) Gecko/20100101 Firefox/58.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_4_3) Gecko/20100101 Firefox/70.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_5_8) Gecko/20130401 Firefox/54.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/66.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64) Gecko/20130401 Firefox/56.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i563 x86_64; en-US) Gecko/20100101 Firefox/49.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i584 x86_64; en-US) Gecko/20130401 Firefox/73.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) Gecko/20130401 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i585 x86_64; en-US) Gecko/20130401 Firefox/62.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i581 ; en-US) Gecko/20100101 Firefox/69.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/53.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/58.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_6) Gecko/20100101 Firefox/72.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_4) Gecko/20130401 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_5; en-US) Gecko/20100101 Firefox/74.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;) Gecko/20130401 Firefox/71.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) Gecko/20130401 Firefox/55.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_2; en-US) Gecko/20130401 Firefox/54.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) Gecko/20100101 Firefox/68.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i550 ) Gecko/20100101 Firefox/59.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/65.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/54.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_11_6) Gecko/20100101 Firefox/55.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/71.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/66.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i681 x86_64) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/60.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/59.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_3; en-US) Gecko/20100101 Firefox/48.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) Gecko/20130401 Firefox/73.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/52.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i560 ) Gecko/20100101 Firefox/47.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_9_5) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_2_6) Gecko/20130401 Firefox/51.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i650 x86_64; en-US) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/63.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;) Gecko/20100101 Firefox/61.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) Gecko/20130401 Firefox/48.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) Gecko/20130401 Firefox/56.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/53.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) Gecko/20130401 Firefox/48.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_4_6) Gecko/20100101 Firefox/72.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_8; en-US) Gecko/20100101 Firefox/72.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64; en-US) Gecko/20100101 Firefox/54.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; x64; en-US) Gecko/20130401 Firefox/70.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_2_5) Gecko/20130401 Firefox/74.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_9; en-US) Gecko/20100101 Firefox/61.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;) Gecko/20100101 Firefox/66.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i574 x86_64) Gecko/20100101 Firefox/48.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; en-US) Gecko/20100101 Firefox/49.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/55.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_9; en-US) Gecko/20130401 Firefox/53.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64) Gecko/20100101 Firefox/63.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i555 x86_64; en-US) Gecko/20100101 Firefox/60.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_6; en-US) Gecko/20130401 Firefox/62.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i673 ; en-US) Gecko/20100101 Firefox/49.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_4) Gecko/20130401 Firefox/65.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_1_9) Gecko/20100101 Firefox/64.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-US) Gecko/20100101 Firefox/64.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/47.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64) Gecko/20100101 Firefox/55.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_7; en-US) Gecko/20100101 Firefox/50.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; Win64; x64; en-US) Gecko/20100101 Firefox/50.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_0) Gecko/20100101 Firefox/48.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/54.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_0) Gecko/20100101 Firefox/65.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/67.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i572 ) Gecko/20130401 Firefox/57.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_5; en-US) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) Gecko/20130401 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64) Gecko/20100101 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) Gecko/20130401 Firefox/51.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_2_8; en-US) Gecko/20100101 Firefox/58.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; x64; en-US) Gecko/20130401 Firefox/52.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; en-US) Gecko/20130401 Firefox/71.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_4_9; en-US) Gecko/20100101 Firefox/62.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64) Gecko/20100101 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/49.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;; en-US) Gecko/20130401 Firefox/69.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_8_0; en-US) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_1_9) Gecko/20100101 Firefox/66.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_3_0) Gecko/20130401 Firefox/57.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_4; en-US) Gecko/20130401 Firefox/72.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_0_7) Gecko/20100101 Firefox/46.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i583 x86_64; en-US) Gecko/20100101 Firefox/55.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i681 ) Gecko/20100101 Firefox/66.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i672 x86_64) Gecko/20100101 Firefox/50.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_5) Gecko/20100101 Firefox/55.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/57.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/65.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_0_4) Gecko/20130401 Firefox/47.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i573 ) Gecko/20130401 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_0_2; en-US) Gecko/20100101 Firefox/52.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_1_7; en-US) Gecko/20100101 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/51.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_9) Gecko/20100101 Firefox/55.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i572 x86_64; en-US) Gecko/20100101 Firefox/64.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_4_5) Gecko/20100101 Firefox/69.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/74.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) Gecko/20130401 Firefox/63.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/66.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/73.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) Gecko/20130401 Firefox/69.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_0) Gecko/20100101 Firefox/67.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i585 x86_64; en-US) Gecko/20100101 Firefox/69.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i684 x86_64; en-US) Gecko/20100101 Firefox/73.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64) Gecko/20130401 Firefox/46.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_8_7; en-US) Gecko/20100101 Firefox/47.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/47.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/62.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_3_1) Gecko/20100101 Firefox/55.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64) Gecko/20100101 Firefox/55.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_9; en-US) Gecko/20130401 Firefox/73.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i675 ) Gecko/20100101 Firefox/74.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i554 ; en-US) Gecko/20130401 Firefox/65.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; Win64; x64) Gecko/20100101 Firefox/67.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) Gecko/20100101 Firefox/70.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64) Gecko/20100101 Firefox/50.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) Gecko/20100101 Firefox/72.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/60.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_2_4; en-US) Gecko/20130401 Firefox/69.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_4_8) Gecko/20100101 Firefox/45.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i671 x86_64) Gecko/20100101 Firefox/48.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) Gecko/20100101 Firefox/74.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_5) Gecko/20100101 Firefox/71.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64) Gecko/20100101 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_1; en-US) Gecko/20100101 Firefox/52.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64; en-US) Gecko/20130401 Firefox/59.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20130401 Firefox/54.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_6; en-US) Gecko/20100101 Firefox/72.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) Gecko/20130401 Firefox/57.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64) Gecko/20100101 Firefox/65.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) Gecko/20100101 Firefox/67.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0; en-US) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/56.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_7_3) Gecko/20100101 Firefox/49.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i676 ) Gecko/20130401 Firefox/66.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i650 ) Gecko/20130401 Firefox/49.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; en-US) Gecko/20100101 Firefox/71.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;) Gecko/20100101 Firefox/54.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_2_3) Gecko/20100101 Firefox/45.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i652 ) Gecko/20100101 Firefox/58.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_3_5) Gecko/20100101 Firefox/71.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) Gecko/20130401 Firefox/72.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_0) Gecko/20100101 Firefox/47.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_7; en-US) Gecko/20130401 Firefox/62.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_4; en-US) Gecko/20100101 Firefox/48.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i573 ) Gecko/20100101 Firefox/62.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/71.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/72.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) Gecko/20130401 Firefox/58.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i650 x86_64; en-US) Gecko/20100101 Firefox/62.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_6_3) Gecko/20100101 Firefox/55.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;; en-US) Gecko/20100101 Firefox/63.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_5_1) Gecko/20100101 Firefox/59.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/45.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_1_3; en-US) Gecko/20100101 Firefox/53.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/70.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i646 x86_64; en-US) Gecko/20130401 Firefox/65.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/48.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64) Gecko/20130401 Firefox/74.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) Gecko/20100101 Firefox/60.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_7; en-US) Gecko/20130401 Firefox/60.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64) Gecko/20100101 Firefox/54.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_3) Gecko/20100101 Firefox/67.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/70.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/64.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i553 x86_64) Gecko/20100101 Firefox/49.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i585 ) Gecko/20100101 Firefox/54.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i544 ; en-US) Gecko/20100101 Firefox/71.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_5) Gecko/20100101 Firefox/64.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i642 ; en-US) Gecko/20100101 Firefox/72.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64) Gecko/20130401 Firefox/60.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_0) Gecko/20100101 Firefox/48.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64) Gecko/20100101 Firefox/74.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i566 ) Gecko/20100101 Firefox/69.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/50.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i650 x86_64; en-US) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_3) Gecko/20130401 Firefox/59.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_8) Gecko/20100101 Firefox/65.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i555 x86_64) Gecko/20100101 Firefox/53.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) Gecko/20100101 Firefox/49.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3;; en-US) Gecko/20100101 Firefox/64.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64; en-US) Gecko/20130401 Firefox/70.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_0) Gecko/20100101 Firefox/65.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/72.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; x64) Gecko/20100101 Firefox/45.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i662 x86_64) Gecko/20100101 Firefox/74.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_7; en-US) Gecko/20100101 Firefox/71.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/46.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i674 x86_64) Gecko/20100101 Firefox/74.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_7_3; en-US) Gecko/20100101 Firefox/62.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/61.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_5) Gecko/20100101 Firefox/54.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i641 x86_64; en-US) Gecko/20100101 Firefox/70.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i675 ; en-US) Gecko/20130401 Firefox/46.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64) Gecko/20130401 Firefox/68.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) Gecko/20100101 Firefox/54.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) Gecko/20100101 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_7_7) Gecko/20100101 Firefox/45.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_6_2) Gecko/20130401 Firefox/71.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64; en-US) Gecko/20130401 Firefox/62.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64; en-US) Gecko/20130401 Firefox/71.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8) Gecko/20100101 Firefox/57.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) Gecko/20100101 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2; en-US) Gecko/20100101 Firefox/70.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) Gecko/20100101 Firefox/64.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_7_6; en-US) Gecko/20100101 Firefox/69.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i583 x86_64) Gecko/20130401 Firefox/65.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_6) Gecko/20100101 Firefox/61.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64) Gecko/20100101 Firefox/74.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3;) Gecko/20100101 Firefox/71.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/50.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) Gecko/20130401 Firefox/67.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_1_8) Gecko/20130401 Firefox/58.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64) Gecko/20130401 Firefox/55.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/47.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;; en-US) Gecko/20130401 Firefox/56.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_2) Gecko/20130401 Firefox/49.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20130401 Firefox/50.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i552 x86_64; en-US) Gecko/20100101 Firefox/46.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/59.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;) Gecko/20100101 Firefox/53.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_5) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; en-US) Gecko/20130401 Firefox/58.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_6) Gecko/20130401 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) Gecko/20130401 Firefox/61.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/57.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_3) Gecko/20100101 Firefox/70.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_8_6; en-US) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/70.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_3_0; en-US) Gecko/20100101 Firefox/56.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_5) Gecko/20130401 Firefox/60.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i655 ) Gecko/20100101 Firefox/61.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64) Gecko/20100101 Firefox/52.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i576 ) Gecko/20100101 Firefox/66.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/59.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64) Gecko/20100101 Firefox/67.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i581 ) Gecko/20100101 Firefox/46.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; x64; en-US) Gecko/20100101 Firefox/74.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_7; en-US) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 8_6_9) Gecko/20100101 Firefox/59.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64) Gecko/20100101 Firefox/51.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i643 ; en-US) Gecko/20100101 Firefox/71.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_4; en-US) Gecko/20100101 Firefox/46.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i642 x86_64) Gecko/20100101 Firefox/63.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64) Gecko/20130401 Firefox/71.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64; en-US) Gecko/20100101 Firefox/69.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20130401 Firefox/61.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/59.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_0_0) Gecko/20130401 Firefox/52.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i642 ; en-US) Gecko/20100101 Firefox/67.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i676 ; en-US) Gecko/20130401 Firefox/57.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i550 x86_64; en-US) Gecko/20130401 Firefox/74.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/60.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_3) Gecko/20100101 Firefox/59.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i665 ) Gecko/20100101 Firefox/61.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_6_5; en-US) Gecko/20100101 Firefox/60.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i664 ) Gecko/20100101 Firefox/53.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_2; en-US) Gecko/20100101 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i586 ) Gecko/20130401 Firefox/67.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_2_7) Gecko/20130401 Firefox/50.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_6_6; en-US) Gecko/20130401 Firefox/57.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/69.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i685 ) Gecko/20130401 Firefox/53.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64; en-US) Gecko/20100101 Firefox/66.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_4_3) Gecko/20130401 Firefox/49.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_0_7; en-US) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_8_5; en-US) Gecko/20100101 Firefox/60.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;; en-US) Gecko/20130401 Firefox/52.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/61.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/67.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i654 x86_64) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_7_6) Gecko/20100101 Firefox/57.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/68.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i553 ; en-US) Gecko/20100101 Firefox/51.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i643 x86_64) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_4_4; en-US) Gecko/20100101 Firefox/48.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i574 x86_64) Gecko/20130401 Firefox/69.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/63.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_4; en-US) Gecko/20100101 Firefox/61.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20130401 Firefox/55.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/49.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0; en-US) Gecko/20100101 Firefox/69.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/59.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i553 ; en-US) Gecko/20130401 Firefox/53.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/65.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_7; en-US) Gecko/20130401 Firefox/46.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/57.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/60.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i560 x86_64; en-US) Gecko/20100101 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) Gecko/20100101 Firefox/55.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1; en-US) Gecko/20130401 Firefox/66.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) Gecko/20100101 Firefox/66.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64) Gecko/20130401 Firefox/62.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i556 x86_64; en-US) Gecko/20130401 Firefox/74.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) Gecko/20100101 Firefox/68.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i560 ) Gecko/20100101 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/61.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64; en-US) Gecko/20130401 Firefox/55.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i674 x86_64; en-US) Gecko/20100101 Firefox/73.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_3_9) Gecko/20100101 Firefox/67.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_4_1) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i574 ) Gecko/20100101 Firefox/52.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/55.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_6_5; en-US) Gecko/20130401 Firefox/49.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i642 x86_64; en-US) Gecko/20100101 Firefox/45.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_1_0) Gecko/20100101 Firefox/65.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3; en-US) Gecko/20100101 Firefox/48.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i641 x86_64; en-US) Gecko/20130401 Firefox/63.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/56.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20100101 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/65.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_7_3; en-US) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i550 ; en-US) Gecko/20130401 Firefox/55.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_1_8; en-US) Gecko/20130401 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7; en-US) Gecko/20130401 Firefox/67.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_9_0) Gecko/20100101 Firefox/72.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4; en-US) Gecko/20130401 Firefox/74.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;) Gecko/20100101 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; WOW64; en-US) Gecko/20130401 Firefox/48.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64) Gecko/20100101 Firefox/55.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i583 ) Gecko/20130401 Firefox/59.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/49.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5; en-US) Gecko/20100101 Firefox/52.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;) Gecko/20100101 Firefox/64.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i672 ) Gecko/20100101 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i654 ; en-US) Gecko/20100101 Firefox/50.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) Gecko/20100101 Firefox/52.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_1_5) Gecko/20100101 Firefox/72.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/70.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/46.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;) Gecko/20100101 Firefox/45.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_3; en-US) Gecko/20100101 Firefox/70.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64; en-US) Gecko/20100101 Firefox/46.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/64.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8; en-US) Gecko/20100101 Firefox/49.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_7) Gecko/20130401 Firefox/51.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i545 ) Gecko/20130401 Firefox/61.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_3) Gecko/20100101 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/48.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) Gecko/20130401 Firefox/54.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64) Gecko/20100101 Firefox/69.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) Gecko/20130401 Firefox/52.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64) Gecko/20100101 Firefox/64.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; WOW64) Gecko/20100101 Firefox/58.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i684 ) Gecko/20100101 Firefox/46.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_1_5; en-US) Gecko/20100101 Firefox/65.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i563 ) Gecko/20100101 Firefox/66.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/64.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_2; en-US) Gecko/20100101 Firefox/46.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_8; en-US) Gecko/20130401 Firefox/47.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1; en-US) Gecko/20100101 Firefox/52.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/52.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/55.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/73.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/70.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_3_5; en-US) Gecko/20100101 Firefox/68.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 9_6_6; en-US) Gecko/20130401 Firefox/48.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_9_4) Gecko/20100101 Firefox/71.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_4; en-US) Gecko/20100101 Firefox/72.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/50.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i544 ) Gecko/20130401 Firefox/65.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_2_3; en-US) Gecko/20100101 Firefox/73.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64) Gecko/20100101 Firefox/62.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_0_7; en-US) Gecko/20130401 Firefox/63.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/49.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) Gecko/20130401 Firefox/67.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64; en-US) Gecko/20130401 Firefox/69.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_7_8) Gecko/20100101 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; x64; en-US) Gecko/20100101 Firefox/45.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/53.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) Gecko/20130401 Firefox/64.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/63.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20100101 Firefox/69.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/70.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 9_8_9) Gecko/20130401 Firefox/51.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_8_6) Gecko/20130401 Firefox/66.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) Gecko/20130401 Firefox/46.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1;) Gecko/20130401 Firefox/54.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i560 ; en-US) Gecko/20100101 Firefox/57.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64; en-US) Gecko/20100101 Firefox/58.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/65.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_0) Gecko/20130401 Firefox/72.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/53.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux i673 x86_64; en-US) Gecko/20130401 Firefox/61.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i671 x86_64; en-US) Gecko/20100101 Firefox/45.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/65.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_0_0; en-US) Gecko/20100101 Firefox/70.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0) Gecko/20100101 Firefox/60.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux i646 ) Gecko/20130401 Firefox/56.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/74.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/62.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_3_9) Gecko/20130401 Firefox/45.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;) Gecko/20130401 Firefox/63.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_7_2) Gecko/20100101 Firefox/48.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/67.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64) Gecko/20100101 Firefox/74.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64; en-US) Gecko/20130401 Firefox/64.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/69.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i544 x86_64) Gecko/20130401 Firefox/73.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/46.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i580 ) Gecko/20100101 Firefox/74.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux i566 x86_64; en-US) Gecko/20100101 Firefox/72.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;; en-US) Gecko/20100101 Firefox/71.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/52.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_3) Gecko/20100101 Firefox/52.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64) Gecko/20100101 Firefox/52.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_2_2; en-US) Gecko/20100101 Firefox/56.2"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/54.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20130401 Firefox/55.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/53.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_0_7; en-US) Gecko/20130401 Firefox/57.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) Gecko/20130401 Firefox/46.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/67.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/54.0"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 7_9_5) Gecko/20100101 Firefox/64.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/54.9"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) Gecko/20100101 Firefox/51.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/52.5"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 7_4_7; en-US) Gecko/20100101 Firefox/64.7"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 8_4_4; en-US) Gecko/20100101 Firefox/51.4"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/67.6"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) Gecko/20100101 Firefox/73.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux i663 x86_64; en-US) Gecko/20130401 Firefox/49.8"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/49.1"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20130401 Firefox/59.3"
+  },
+  {
+    "device": "firefox",
+    "useragent": "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_8; en-US) Gecko/20100101 Firefox/74.8"
+  }
+]

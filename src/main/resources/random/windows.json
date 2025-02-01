@@ -1,0 +1,4002 @@
+﻿[
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64) AppleWebKit/603.38 (KHTML, like Gecko) Chrome/52.0.1995.331 Safari/603.2 Edge/16.79075"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/53.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64; en-US) Gecko/20130401 Firefox/51.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.0; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/52.0.3420.130 Safari/602.8 Edge/12.57140"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) AppleWebKit/602.12 (KHTML, like Gecko) Chrome/48.0.2039.237 Safari/602.0 Edge/14.47841"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.0; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) Gecko/20100101 Firefox/66.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; x64) Gecko/20100101 Firefox/60.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) AppleWebKit/534.33 (KHTML, like Gecko) Chrome/50.0.1594.118 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) Gecko/20100101 Firefox/62.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.0;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/55.0.1807.242 Safari/601.4 Edge/12.91533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/602.36 (KHTML, like Gecko) Chrome/51.0.2816.321 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/535.48 (KHTML, like Gecko) Chrome/52.0.2980.181 Safari/601.4 Edge/15.66718"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.1; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) AppleWebKit/603.10 (KHTML, like Gecko) Chrome/52.0.2584.173 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US) AppleWebKit/601.4 (KHTML, like Gecko) Chrome/47.0.2745.110 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.2; Win64; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.2; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; x64; en-US) AppleWebKit/602.8 (KHTML, like Gecko) Chrome/55.0.3942.359 Safari/534.0 Edge/17.74250"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; en-US) AppleWebKit/601.18 (KHTML, like Gecko) Chrome/48.0.2743.266 Safari/600.7 Edge/8.96622"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3;; en-US) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/51.0.2776.210 Safari/535.1 Edge/10.83132"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;) Gecko/20100101 Firefox/54.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.0; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/602.16 (KHTML, like Gecko) Chrome/50.0.3692.285 Safari/601.5 Edge/18.61061"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; Win64; x64) AppleWebKit/535.39 (KHTML, like Gecko) Chrome/49.0.2785.372 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2;; en-US) AppleWebKit/536.21 (KHTML, like Gecko) Chrome/49.0.1197.312 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/535.15 (KHTML, like Gecko) Chrome/54.0.1756.134 Safari/533.5 Edge/9.23252"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64) Gecko/20100101 Firefox/63.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3;; en-US) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/48.0.1392.282 Safari/601.9 Edge/9.73549"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/603.18 (KHTML, like Gecko) Chrome/52.0.1101.184 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) Gecko/20100101 Firefox/51.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.2; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64) AppleWebKit/537.34 (KHTML, like Gecko) Chrome/50.0.1570.141 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.5; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; x64; en-US) AppleWebKit/536.49 (KHTML, like Gecko) Chrome/54.0.1437.106 Safari/533.3 Edge/17.66260"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20130401 Firefox/54.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64; en-US) AppleWebKit/601.38 (KHTML, like Gecko) Chrome/55.0.2525.215 Safari/603.6 Edge/14.50406"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) AppleWebKit/536.28 (KHTML, like Gecko) Chrome/47.0.3263.263 Safari/535.8 Edge/10.71976"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64) Gecko/20130401 Firefox/74.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/51.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/70.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) AppleWebKit/601.32 (KHTML, like Gecko) Chrome/48.0.2767.267 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 10.3;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64; en-US) AppleWebKit/603.42 (KHTML, like Gecko) Chrome/55.0.2624.219 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 10.5; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) Gecko/20100101 Firefox/71.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) Gecko/20130401 Firefox/59.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; Win64; x64; en-US) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/52.0.1037.319 Safari/603.6 Edge/11.84688"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/601.24 (KHTML, like Gecko) Chrome/54.0.3821.208 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64; en-US) AppleWebKit/534.19 (KHTML, like Gecko) Chrome/52.0.1854.158 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64; en-US) AppleWebKit/602.30 (KHTML, like Gecko) Chrome/51.0.2991.201 Safari/536.3 Edge/14.49329"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; WOW64; en-US) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/47.0.2867.200 Safari/535.0 Edge/16.43893"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/600.22 (KHTML, like Gecko) Chrome/54.0.1731.132 Safari/537.6 Edge/8.97944"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) AppleWebKit/602.30 (KHTML, like Gecko) Chrome/52.0.2161.356 Safari/533.9 Edge/14.56801"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/47.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.4; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 10.5;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/54.0.2037.126 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) AppleWebKit/535.32 (KHTML, like Gecko) Chrome/55.0.2789.196 Safari/602.9 Edge/9.20024"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.2; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64) AppleWebKit/603.48 (KHTML, like Gecko) Chrome/53.0.1839.212 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) AppleWebKit/603.41 (KHTML, like Gecko) Chrome/54.0.1688.186 Safari/603.8 Edge/12.90025"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/601.4 (KHTML, like Gecko) Chrome/48.0.1109.229 Safari/535.5 Edge/17.44080"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;; en-US) AppleWebKit/536.8 (KHTML, like Gecko) Chrome/51.0.3499.113 Safari/537.2 Edge/18.55184"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64) Gecko/20130401 Firefox/68.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) AppleWebKit/600.23 (KHTML, like Gecko) Chrome/52.0.2813.298 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) AppleWebKit/535.28 (KHTML, like Gecko) Chrome/52.0.3209.372 Safari/603.4 Edge/9.50304"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64; en-US) AppleWebKit/602.15 (KHTML, like Gecko) Chrome/47.0.3906.110 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.0; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) AppleWebKit/600.14 (KHTML, like Gecko) Chrome/53.0.2877.347 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) AppleWebKit/603.47 (KHTML, like Gecko) Chrome/53.0.3383.379 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/68.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) Gecko/20100101 Firefox/69.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) Gecko/20100101 Firefox/47.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.2;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; en-US) AppleWebKit/602.16 (KHTML, like Gecko) Chrome/49.0.1051.304 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) AppleWebKit/537.8 (KHTML, like Gecko) Chrome/49.0.1310.373 Safari/534.4 Edge/12.30479"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/49.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/50.0.1975.155 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64; en-US) AppleWebKit/603.35 (KHTML, like Gecko) Chrome/47.0.2534.353 Safari/602.4 Edge/15.49444"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 10.1; Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; x64) AppleWebKit/536.46 (KHTML, like Gecko) Chrome/52.0.1386.153 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/600.35 (KHTML, like Gecko) Chrome/53.0.2806.182 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/70.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) Gecko/20100101 Firefox/54.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/52.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.1; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64) AppleWebKit/534.9 (KHTML, like Gecko) Chrome/49.0.1998.319 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64) Gecko/20100101 Firefox/57.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) AppleWebKit/535.31 (KHTML, like Gecko) Chrome/55.0.2095.294 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/55.0.2844.373 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.3; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0;; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/47.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3;; en-US) Gecko/20100101 Firefox/54.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) AppleWebKit/601.20 (KHTML, like Gecko) Chrome/52.0.3837.210 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) AppleWebKit/603.12 (KHTML, like Gecko) Chrome/54.0.3117.259 Safari/602.3 Edge/12.14540"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.2; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) AppleWebKit/600.24 (KHTML, like Gecko) Chrome/48.0.2380.382 Safari/602.4 Edge/8.31629"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.2; Win64; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/49.0.3385.210 Safari/537.4 Edge/13.74981"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) AppleWebKit/603.15 (KHTML, like Gecko) Chrome/49.0.2331.213 Safari/535.2 Edge/10.55559"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.5; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;; en-US) AppleWebKit/536.22 (KHTML, like Gecko) Chrome/47.0.3841.328 Safari/536.0 Edge/12.16813"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) AppleWebKit/600.44 (KHTML, like Gecko) Chrome/50.0.2938.147 Safari/601.2 Edge/11.91856"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64) AppleWebKit/537.49 (KHTML, like Gecko) Chrome/52.0.3871.282 Safari/603.2 Edge/9.23597"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.3; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0;) AppleWebKit/602.24 (KHTML, like Gecko) Chrome/47.0.1218.119 Safari/534.7 Edge/15.46481"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;; en-US) AppleWebKit/602.11 (KHTML, like Gecko) Chrome/53.0.2627.194 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) AppleWebKit/537.40 (KHTML, like Gecko) Chrome/51.0.1470.109 Safari/534.3 Edge/16.41509"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.1; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.1; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) AppleWebKit/535.23 (KHTML, like Gecko) Chrome/54.0.3812.296 Safari/603.1 Edge/10.29637"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; x64; en-US) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2994.276 Safari/603.1 Edge/13.85522"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) AppleWebKit/601.37 (KHTML, like Gecko) Chrome/51.0.3040.357 Safari/536.9 Edge/9.75707"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2;; en-US) AppleWebKit/534.41 (KHTML, like Gecko) Chrome/51.0.1878.383 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.4; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64) AppleWebKit/535.40 (KHTML, like Gecko) Chrome/49.0.2830.150 Safari/536.1 Edge/13.71815"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.3; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1;) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/54.0.3693.325 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.2; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;) Gecko/20130401 Firefox/67.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) AppleWebKit/536.17 (KHTML, like Gecko) Chrome/53.0.3326.135 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64) AppleWebKit/602.27 (KHTML, like Gecko) Chrome/55.0.1232.164 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64; en-US) Gecko/20130401 Firefox/53.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/533.11 (KHTML, like Gecko) Chrome/54.0.1395.104 Safari/533.7 Edge/14.48789"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 10.2; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/601.36 (KHTML, like Gecko) Chrome/50.0.3015.169 Safari/536.9 Edge/9.62939"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.4; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; WOW64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64) AppleWebKit/603.49 (KHTML, like Gecko) Chrome/55.0.2218.308 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;) Gecko/20100101 Firefox/57.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64; en-US) AppleWebKit/533.40 (KHTML, like Gecko) Chrome/51.0.1882.174 Safari/533.6 Edge/10.74101"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64; en-US) AppleWebKit/537.41 (KHTML, like Gecko) Chrome/48.0.3790.230 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/52.0.2578.270 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/48.0.1443.215 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.38 (KHTML, like Gecko) Chrome/51.0.3390.399 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2;) AppleWebKit/601.2 (KHTML, like Gecko) Chrome/55.0.1255.197 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/47.0.1054.368 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) AppleWebKit/600.32 (KHTML, like Gecko) Chrome/47.0.3876.199 Safari/600.7 Edge/10.58873"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) AppleWebKit/603.12 (KHTML, like Gecko) Chrome/50.0.2980.343 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) Gecko/20100101 Firefox/46.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64) Gecko/20100101 Firefox/72.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/600.18 (KHTML, like Gecko) Chrome/54.0.2525.389 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64) AppleWebKit/603.35 (KHTML, like Gecko) Chrome/55.0.3519.399 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64) AppleWebKit/534.19 (KHTML, like Gecko) Chrome/51.0.1256.256 Safari/603.7 Edge/18.25801"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) AppleWebKit/601.19 (KHTML, like Gecko) Chrome/55.0.1076.158 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;; en-US) Gecko/20130401 Firefox/70.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) AppleWebKit/603.8 (KHTML, like Gecko) Chrome/49.0.2208.361 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64) Gecko/20130401 Firefox/51.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;) AppleWebKit/601.23 (KHTML, like Gecko) Chrome/52.0.1665.144 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/603.48 (KHTML, like Gecko) Chrome/55.0.2378.251 Safari/603.8 Edge/14.41260"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.4;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.3; WOW64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64; en-US) Gecko/20130401 Firefox/49.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) AppleWebKit/534.17 (KHTML, like Gecko) Chrome/47.0.2395.127 Safari/533.8 Edge/17.53167"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/601.13 (KHTML, like Gecko) Chrome/47.0.1733.123 Safari/602.9 Edge/10.74648"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 10.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/48.0.3435.377 Safari/537.2 Edge/17.31914"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64; en-US) AppleWebKit/603.28 (KHTML, like Gecko) Chrome/48.0.3017.202 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64) Gecko/20100101 Firefox/64.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.0; WOW64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/603.8 (KHTML, like Gecko) Chrome/49.0.2068.312 Safari/536.3 Edge/8.75844"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.2;; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20130401 Firefox/58.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) Gecko/20130401 Firefox/66.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3;) Gecko/20100101 Firefox/46.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) AppleWebKit/536.15 (KHTML, like Gecko) Chrome/48.0.3095.148 Safari/535.7 Edge/14.94647"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/533.13 (KHTML, like Gecko) Chrome/52.0.2837.110 Safari/533.7 Edge/16.21591"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;; en-US) AppleWebKit/600.49 (KHTML, like Gecko) Chrome/53.0.2328.377 Safari/537.8 Edge/14.87904"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;; en-US) Gecko/20130401 Firefox/53.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/69.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) Gecko/20100101 Firefox/71.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.5; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.3; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64; en-US) AppleWebKit/533.47 (KHTML, like Gecko) Chrome/47.0.2038.143 Safari/533.5 Edge/12.43009"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.1; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/52.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; x64) Gecko/20130401 Firefox/53.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/48.0.1882.297 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/537.47 (KHTML, like Gecko) Chrome/52.0.2227.192 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/73.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/56.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.0; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) AppleWebKit/600.22 (KHTML, like Gecko) Chrome/51.0.1261.315 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) AppleWebKit/536.43 (KHTML, like Gecko) Chrome/52.0.2545.234 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;) AppleWebKit/601.11 (KHTML, like Gecko) Chrome/50.0.1662.136 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.3; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64) Gecko/20130401 Firefox/55.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3;; en-US) AppleWebKit/601.48 (KHTML, like Gecko) Chrome/52.0.3958.252 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3;; en-US) AppleWebKit/602.36 (KHTML, like Gecko) Chrome/52.0.1973.178 Safari/601.3 Edge/9.58747"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.0; WOW64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64) AppleWebKit/600.24 (KHTML, like Gecko) Chrome/47.0.2461.143 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64; en-US) AppleWebKit/537.33 (KHTML, like Gecko) Chrome/54.0.3471.389 Safari/537.7 Edge/11.88568"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.5; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64; en-US) AppleWebKit/603.1 (KHTML, like Gecko) Chrome/54.0.2084.137 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.1; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) AppleWebKit/535.39 (KHTML, like Gecko) Chrome/49.0.1764.196 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) AppleWebKit/535.16 (KHTML, like Gecko) Chrome/47.0.1993.307 Safari/603.3 Edge/9.13823"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 10.2; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/536.42 (KHTML, like Gecko) Chrome/54.0.1571.213 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/66.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.2; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) AppleWebKit/536.36 (KHTML, like Gecko) Chrome/51.0.2431.198 Safari/535.3 Edge/8.27855"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/603.9 (KHTML, like Gecko) Chrome/49.0.1566.135 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/50.0.1137.329 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20130401 Firefox/59.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) AppleWebKit/600.7 (KHTML, like Gecko) Chrome/55.0.1849.321 Safari/601.1 Edge/10.67237"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) AppleWebKit/533.37 (KHTML, like Gecko) Chrome/48.0.2576.246 Safari/534.4 Edge/17.69743"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1;) AppleWebKit/533.40 (KHTML, like Gecko) Chrome/54.0.1824.289 Safari/535.9 Edge/9.94000"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2;) AppleWebKit/536.39 (KHTML, like Gecko) Chrome/48.0.2998.215 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/53.0.1690.182 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/55.0.2026.172 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/603.39 (KHTML, like Gecko) Chrome/53.0.1212.125 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.4; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.2; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) AppleWebKit/533.39 (KHTML, like Gecko) Chrome/50.0.1787.143 Safari/533.6 Edge/12.60544"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.2; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;) AppleWebKit/601.29 (KHTML, like Gecko) Chrome/50.0.1136.352 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4;) AppleWebKit/602.20 (KHTML, like Gecko) Chrome/48.0.1340.297 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/536.22 (KHTML, like Gecko) Chrome/48.0.2638.187 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) AppleWebKit/603.23 (KHTML, like Gecko) Chrome/51.0.3966.238 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;) AppleWebKit/535.41 (KHTML, like Gecko) Chrome/50.0.3497.228 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.0; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) AppleWebKit/602.8 (KHTML, like Gecko) Chrome/55.0.2291.360 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.1; WOW64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/536.17 (KHTML, like Gecko) Chrome/54.0.3832.208 Safari/533.6 Edge/14.51431"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) AppleWebKit/535.22 (KHTML, like Gecko) Chrome/51.0.1180.269 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) AppleWebKit/602.29 (KHTML, like Gecko) Chrome/48.0.3636.383 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/49.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;; en-US) AppleWebKit/536.12 (KHTML, like Gecko) Chrome/49.0.3075.353 Safari/602.9 Edge/11.85056"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) AppleWebKit/602.47 (KHTML, like Gecko) Chrome/47.0.1532.307 Safari/533.5 Edge/11.14212"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/600.38 (KHTML, like Gecko) Chrome/54.0.3039.127 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;) AppleWebKit/601.11 (KHTML, like Gecko) Chrome/49.0.3354.311 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;) Gecko/20130401 Firefox/67.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;) AppleWebKit/600.49 (KHTML, like Gecko) Chrome/49.0.1791.195 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64) Gecko/20130401 Firefox/53.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 10.3; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64) AppleWebKit/602.47 (KHTML, like Gecko) Chrome/52.0.1313.258 Safari/535.3 Edge/14.70616"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64) Gecko/20100101 Firefox/62.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; x64; en-US) Gecko/20100101 Firefox/48.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.2; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.0;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;) Gecko/20100101 Firefox/59.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/50.0.2301.293 Safari/603.4 Edge/18.90321"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.3; Win64; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; Win64; x64) Gecko/20100101 Firefox/54.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) AppleWebKit/603.40 (KHTML, like Gecko) Chrome/51.0.1105.381 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/48.0.2523.182 Safari/536.4 Edge/9.53483"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.3; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;) Gecko/20100101 Firefox/56.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.1;; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;; en-US) AppleWebKit/535.37 (KHTML, like Gecko) Chrome/54.0.2453.251 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64; en-US) AppleWebKit/601.18 (KHTML, like Gecko) Chrome/47.0.2564.222 Safari/602.1 Edge/13.22401"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; x64) AppleWebKit/600.6 (KHTML, like Gecko) Chrome/47.0.2155.161 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/53.0.3903.385 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/602.36 (KHTML, like Gecko) Chrome/55.0.2138.168 Safari/602.4 Edge/11.72886"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64) AppleWebKit/603.38 (KHTML, like Gecko) Chrome/53.0.2085.362 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; x64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/53.0.2415.378 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 10.5; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) AppleWebKit/601.9 (KHTML, like Gecko) Chrome/53.0.2925.253 Safari/603.3 Edge/16.57434"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) Gecko/20100101 Firefox/61.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) Gecko/20100101 Firefox/61.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) AppleWebKit/602.10 (KHTML, like Gecko) Chrome/49.0.2563.371 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64) AppleWebKit/533.16 (KHTML, like Gecko) Chrome/47.0.1042.311 Safari/602.2 Edge/15.30052"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/59.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) AppleWebKit/600.23 (KHTML, like Gecko) Chrome/53.0.1135.173 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.3; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;; en-US) AppleWebKit/534.36 (KHTML, like Gecko) Chrome/51.0.2441.170 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64) AppleWebKit/533.34 (KHTML, like Gecko) Chrome/52.0.2817.313 Safari/536.9 Edge/11.91247"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) AppleWebKit/535.33 (KHTML, like Gecko) Chrome/54.0.1369.215 Safari/602.5 Edge/9.72821"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 10.5; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) AppleWebKit/536.20 (KHTML, like Gecko) Chrome/51.0.2409.111 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64) AppleWebKit/534.38 (KHTML, like Gecko) Chrome/53.0.3458.200 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.3; Win64; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/53.0.1967.291 Safari/536.6 Edge/11.63432"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;; en-US) AppleWebKit/535.33 (KHTML, like Gecko) Chrome/51.0.1070.123 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) Gecko/20100101 Firefox/73.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/64.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.1; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;) AppleWebKit/602.38 (KHTML, like Gecko) Chrome/51.0.1033.141 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) AppleWebKit/600.31 (KHTML, like Gecko) Chrome/54.0.2003.227 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) Gecko/20100101 Firefox/73.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64) AppleWebKit/602.14 (KHTML, like Gecko) Chrome/52.0.1405.144 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; Win64; x64) Gecko/20130401 Firefox/61.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) AppleWebKit/535.40 (KHTML, like Gecko) Chrome/55.0.1496.378 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64; en-US) AppleWebKit/601.40 (KHTML, like Gecko) Chrome/52.0.1803.330 Safari/534.1 Edge/18.77617"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/54.0.1166.144 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64; en-US) Gecko/20100101 Firefox/63.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2;) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/51.0.1670.303 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) Gecko/20100101 Firefox/59.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/61.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/50.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64) Gecko/20130401 Firefox/63.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) AppleWebKit/603.10 (KHTML, like Gecko) Chrome/53.0.1057.274 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; Win64; x64) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/52.0.2537.342 Safari/535.2 Edge/12.97036"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.2; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1;) AppleWebKit/537.9 (KHTML, like Gecko) Chrome/47.0.1380.184 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) AppleWebKit/533.36 (KHTML, like Gecko) Chrome/50.0.2644.298 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) AppleWebKit/536.16 (KHTML, like Gecko) Chrome/53.0.2204.310 Safari/534.6 Edge/9.57515"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/62.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64; en-US) AppleWebKit/533.36 (KHTML, like Gecko) Chrome/49.0.3683.302 Safari/533.2 Edge/8.34864"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) AppleWebKit/533.11 (KHTML, like Gecko) Chrome/53.0.1147.112 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.0; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64; en-US) AppleWebKit/601.42 (KHTML, like Gecko) Chrome/49.0.3316.344 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;; en-US) AppleWebKit/537.10 (KHTML, like Gecko) Chrome/53.0.3228.292 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2;) AppleWebKit/535.4 (KHTML, like Gecko) Chrome/50.0.1472.390 Safari/601.7 Edge/8.25026"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64; en-US) Gecko/20100101 Firefox/62.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2;; en-US) Gecko/20100101 Firefox/69.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64) Gecko/20130401 Firefox/60.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 10.2; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.2; Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.3; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) AppleWebKit/536.38 (KHTML, like Gecko) Chrome/49.0.3400.212 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/55.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) AppleWebKit/602.15 (KHTML, like Gecko) Chrome/50.0.1430.394 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.0; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64) AppleWebKit/535.16 (KHTML, like Gecko) Chrome/54.0.3759.385 Safari/603.9 Edge/10.16480"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;; en-US) AppleWebKit/601.26 (KHTML, like Gecko) Chrome/52.0.1718.392 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64) AppleWebKit/533.18 (KHTML, like Gecko) Chrome/54.0.1567.213 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/603.11 (KHTML, like Gecko) Chrome/55.0.2614.178 Safari/602.6 Edge/15.27039"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.5; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.0; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/70.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.4; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.2; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) Gecko/20100101 Firefox/65.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/53.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20130401 Firefox/56.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/51.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.3; Win64; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) AppleWebKit/534.25 (KHTML, like Gecko) Chrome/53.0.2881.164 Safari/601.3 Edge/15.20441"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/51.0.1331.343 Safari/533.4 Edge/9.43505"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.2; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64; en-US) AppleWebKit/536.41 (KHTML, like Gecko) Chrome/54.0.3207.124 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) Gecko/20100101 Firefox/49.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20130401 Firefox/52.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.2; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.0; WOW64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64) AppleWebKit/603.29 (KHTML, like Gecko) Chrome/49.0.1691.235 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) Gecko/20100101 Firefox/45.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) AppleWebKit/534.29 (KHTML, like Gecko) Chrome/49.0.2960.220 Safari/602.7 Edge/17.91788"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/71.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; x64; en-US) AppleWebKit/602.34 (KHTML, like Gecko) Chrome/55.0.1810.194 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.2; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) Gecko/20100101 Firefox/70.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/50.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64; en-US) AppleWebKit/534.18 (KHTML, like Gecko) Chrome/53.0.3394.260 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.0; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) Gecko/20100101 Firefox/70.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64) AppleWebKit/537.18 (KHTML, like Gecko) Chrome/53.0.1933.385 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.2; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.3; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/601.27 (KHTML, like Gecko) Chrome/49.0.1401.167 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64; en-US) Gecko/20100101 Firefox/55.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64; en-US) Gecko/20100101 Firefox/61.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) AppleWebKit/603.46 (KHTML, like Gecko) Chrome/55.0.2738.253 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;; en-US) AppleWebKit/537.8 (KHTML, like Gecko) Chrome/49.0.3764.196 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; WOW64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64) AppleWebKit/535.10 (KHTML, like Gecko) Chrome/55.0.1174.251 Safari/533.5 Edge/12.79377"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0;) AppleWebKit/601.8 (KHTML, like Gecko) Chrome/49.0.1011.357 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64) AppleWebKit/602.23 (KHTML, like Gecko) Chrome/54.0.2737.350 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;; en-US) AppleWebKit/602.24 (KHTML, like Gecko) Chrome/51.0.1217.199 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) Gecko/20130401 Firefox/63.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/52.0.1855.390 Safari/600.6 Edge/13.71782"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/55.0.3914.214 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/52.0.1516.121 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.3;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) Gecko/20130401 Firefox/52.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.0; WOW64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) Gecko/20130401 Firefox/63.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20130401 Firefox/68.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/62.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) AppleWebKit/602.24 (KHTML, like Gecko) Chrome/53.0.2669.163 Safari/533.2 Edge/15.57176"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/537.35 (KHTML, like Gecko) Chrome/53.0.1260.266 Safari/537.2 Edge/13.92388"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; Win64; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/72.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.5; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64) AppleWebKit/600.31 (KHTML, like Gecko) Chrome/49.0.3849.179 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; x64) AppleWebKit/537.33 (KHTML, like Gecko) Chrome/54.0.3808.138 Safari/537.1 Edge/18.67762"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.2; Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64) AppleWebKit/536.23 (KHTML, like Gecko) Chrome/55.0.3694.310 Safari/533.3 Edge/16.79595"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;; en-US) Gecko/20100101 Firefox/58.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/50.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.3; Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.5; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/54.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 10.4; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) Gecko/20100101 Firefox/61.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.1; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;; en-US) Gecko/20130401 Firefox/49.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/54.0.3953.338 Safari/535.6 Edge/14.64057"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) Gecko/20130401 Firefox/46.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64) Gecko/20100101 Firefox/72.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) AppleWebKit/536.4 (KHTML, like Gecko) Chrome/49.0.2235.265 Safari/536.5 Edge/18.38850"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) Gecko/20100101 Firefox/68.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64; en-US) Gecko/20130401 Firefox/51.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.2; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.1; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64; en-US) AppleWebKit/602.39 (KHTML, like Gecko) Chrome/50.0.1541.182 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.3; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) Gecko/20100101 Firefox/64.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; en-US) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/55.0.1274.212 Safari/533.8 Edge/16.40240"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.0; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;; en-US) Gecko/20100101 Firefox/67.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64) AppleWebKit/602.36 (KHTML, like Gecko) Chrome/50.0.2105.332 Safari/600.6 Edge/10.51496"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.0;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) Gecko/20100101 Firefox/62.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.1; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;; en-US) Gecko/20100101 Firefox/62.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;; en-US) AppleWebKit/535.14 (KHTML, like Gecko) Chrome/52.0.1627.159 Safari/537.8 Edge/8.55154"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/49.0.3858.136 Safari/533.3 Edge/18.39807"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.2; Win64; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/50.0.1893.271 Safari/533.9 Edge/15.40493"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.1; Win64; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64) Gecko/20100101 Firefox/73.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) Gecko/20130401 Firefox/72.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/51.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.3; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; x64; en-US) AppleWebKit/537.18 (KHTML, like Gecko) Chrome/47.0.3037.223 Safari/534.0 Edge/8.82689"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) AppleWebKit/537.47 (KHTML, like Gecko) Chrome/53.0.3491.261 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) Gecko/20100101 Firefox/66.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.3;; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/53.0.1255.184 Safari/601.4 Edge/10.91320"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) AppleWebKit/603.9 (KHTML, like Gecko) Chrome/51.0.1659.153 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.2;; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; WOW64; en-US) AppleWebKit/536.34 (KHTML, like Gecko) Chrome/49.0.1321.249 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) AppleWebKit/603.15 (KHTML, like Gecko) Chrome/50.0.2237.391 Safari/537.6 Edge/17.50571"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64) AppleWebKit/536.38 (KHTML, like Gecko) Chrome/51.0.3378.276 Safari/537.2 Edge/8.21213"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.2; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/69.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; x64; en-US) Gecko/20100101 Firefox/50.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2;) AppleWebKit/601.35 (KHTML, like Gecko) Chrome/49.0.3004.317 Safari/535.5 Edge/10.68071"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) AppleWebKit/535.16 (KHTML, like Gecko) Chrome/53.0.3435.274 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.4; Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) AppleWebKit/603.42 (KHTML, like Gecko) Chrome/47.0.1348.225 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) AppleWebKit/601.9 (KHTML, like Gecko) Chrome/55.0.3929.398 Safari/533.1 Edge/9.22129"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 10.5; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; en-US) AppleWebKit/602.40 (KHTML, like Gecko) Chrome/50.0.2360.193 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/602.39 (KHTML, like Gecko) Chrome/49.0.1120.138 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.1; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/533.29 (KHTML, like Gecko) Chrome/53.0.1589.163 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.1; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) AppleWebKit/600.14 (KHTML, like Gecko) Chrome/50.0.2348.109 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/62.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; x64) AppleWebKit/601.34 (KHTML, like Gecko) Chrome/52.0.3743.154 Safari/601.8 Edge/11.47244"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;) AppleWebKit/602.50 (KHTML, like Gecko) Chrome/49.0.3880.282 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.5; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64) Gecko/20100101 Firefox/48.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/47.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) AppleWebKit/536.39 (KHTML, like Gecko) Chrome/52.0.2078.217 Safari/535.4 Edge/8.33858"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64) Gecko/20130401 Firefox/51.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/57.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.4; Win64; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5;) AppleWebKit/601.21 (KHTML, like Gecko) Chrome/48.0.1575.166 Safari/602.4 Edge/12.93919"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; Win64; x64) AppleWebKit/535.50 (KHTML, like Gecko) Chrome/53.0.3108.163 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/63.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) Gecko/20130401 Firefox/61.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) AppleWebKit/603.45 (KHTML, like Gecko) Chrome/52.0.1191.168 Safari/534.3 Edge/8.72838"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/600.27 (KHTML, like Gecko) Chrome/50.0.1780.356 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64; en-US) AppleWebKit/537.5 (KHTML, like Gecko) Chrome/55.0.1758.257 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.2; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.1; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) Gecko/20100101 Firefox/50.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; x64; en-US) AppleWebKit/537.26 (KHTML, like Gecko) Chrome/55.0.3964.223 Safari/600.9 Edge/8.91943"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;) Gecko/20100101 Firefox/68.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/536.43 (KHTML, like Gecko) Chrome/54.0.2595.264 Safari/600.7 Edge/8.56629"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/65.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64) AppleWebKit/536.35 (KHTML, like Gecko) Chrome/53.0.2416.398 Safari/602.4 Edge/16.50637"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/49.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; WOW64; en-US) Gecko/20130401 Firefox/74.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;; en-US) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;; en-US) AppleWebKit/534.19 (KHTML, like Gecko) Chrome/53.0.1159.198 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/66.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64; en-US) AppleWebKit/601.31 (KHTML, like Gecko) Chrome/51.0.3551.333 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/55.0.2467.361 Safari/602.0 Edge/10.25555"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; Win64; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/53.0.1081.187 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/54.0.2351.315 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; WOW64; en-US) AppleWebKit/534.5 (KHTML, like Gecko) Chrome/49.0.3913.297 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/601.30 (KHTML, like Gecko) Chrome/52.0.1626.394 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/536.23 (KHTML, like Gecko) Chrome/54.0.2191.119 Safari/535.0 Edge/11.59565"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/602.19 (KHTML, like Gecko) Chrome/53.0.3205.312 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64; en-US) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/48.0.1600.113 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.0; Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.5; Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) Gecko/20100101 Firefox/49.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) Gecko/20130401 Firefox/74.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/533.13 (KHTML, like Gecko) Chrome/54.0.2159.110 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0;) AppleWebKit/537.2 (KHTML, like Gecko) Chrome/49.0.1359.135 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/55.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/70.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/534.23 (KHTML, like Gecko) Chrome/54.0.3058.106 Safari/600.9 Edge/14.82550"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/537.45 (KHTML, like Gecko) Chrome/53.0.1067.137 Safari/536.6 Edge/11.39348"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64; en-US) Gecko/20100101 Firefox/52.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/53.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; x64) AppleWebKit/603.16 (KHTML, like Gecko) Chrome/50.0.2852.324 Safari/536.5 Edge/15.48676"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/602.12 (KHTML, like Gecko) Chrome/51.0.3381.128 Safari/601.8 Edge/10.20751"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; Win64; x64) AppleWebKit/603.19 (KHTML, like Gecko) Chrome/55.0.1105.182 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) Gecko/20130401 Firefox/49.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; x64; en-US) Gecko/20100101 Firefox/53.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; x64; en-US) AppleWebKit/601.2 (KHTML, like Gecko) Chrome/51.0.1078.275 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64) AppleWebKit/537.42 (KHTML, like Gecko) Chrome/53.0.2634.308 Safari/536.2 Edge/10.12789"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64) Gecko/20130401 Firefox/57.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/602.45 (KHTML, like Gecko) Chrome/55.0.1971.220 Safari/600.6 Edge/13.35466"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; WOW64; en-US) AppleWebKit/601.48 (KHTML, like Gecko) Chrome/54.0.2838.203 Safari/603.3 Edge/9.81458"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64; en-US) AppleWebKit/534.9 (KHTML, like Gecko) Chrome/55.0.3337.374 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64; en-US) AppleWebKit/602.50 (KHTML, like Gecko) Chrome/50.0.1365.218 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64; en-US) Gecko/20130401 Firefox/69.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.3; WOW64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64; en-US) Gecko/20100101 Firefox/45.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/70.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) Gecko/20100101 Firefox/65.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) AppleWebKit/601.33 (KHTML, like Gecko) Chrome/48.0.3439.204 Safari/600.7 Edge/12.28205"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) Gecko/20100101 Firefox/67.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; WOW64; en-US) AppleWebKit/535.34 (KHTML, like Gecko) Chrome/52.0.1419.211 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64; en-US) AppleWebKit/603.45 (KHTML, like Gecko) Chrome/48.0.2141.121 Safari/537.1 Edge/8.96328"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) Gecko/20100101 Firefox/45.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/51.0.1307.257 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) Gecko/20100101 Firefox/66.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;; en-US) AppleWebKit/534.5 (KHTML, like Gecko) Chrome/53.0.3011.259 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/50.0.3205.145 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0;; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/603.13 (KHTML, like Gecko) Chrome/55.0.1121.384 Safari/603.6 Edge/15.86632"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) AppleWebKit/601.15 (KHTML, like Gecko) Chrome/55.0.3605.323 Safari/602.0 Edge/15.61156"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) Gecko/20100101 Firefox/71.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.0; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64; en-US) AppleWebKit/534.25 (KHTML, like Gecko) Chrome/53.0.2710.379 Safari/534.5 Edge/18.23136"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/50.0.1277.119 Safari/533.5 Edge/10.94074"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.2; WOW64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;) AppleWebKit/600.45 (KHTML, like Gecko) Chrome/47.0.3555.394 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.2; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) Gecko/20100101 Firefox/51.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 10.5; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.3690.367 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64) Gecko/20130401 Firefox/54.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.3; Win64; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/48.0.3745.287 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;) Gecko/20100101 Firefox/65.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/603.19 (KHTML, like Gecko) Chrome/50.0.2901.385 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64; en-US) Gecko/20130401 Firefox/59.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;; en-US) AppleWebKit/602.35 (KHTML, like Gecko) Chrome/54.0.2961.223 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/58.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64; en-US) AppleWebKit/603.23 (KHTML, like Gecko) Chrome/55.0.2880.198 Safari/601.5 Edge/8.39470"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; en-US) AppleWebKit/600.7 (KHTML, like Gecko) Chrome/47.0.3930.365 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64) AppleWebKit/600.35 (KHTML, like Gecko) Chrome/50.0.2699.271 Safari/601.8 Edge/10.15983"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20100101 Firefox/58.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64) Gecko/20100101 Firefox/56.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) AppleWebKit/600.37 (KHTML, like Gecko) Chrome/55.0.2516.111 Safari/534.9 Edge/18.37626"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;) AppleWebKit/536.21 (KHTML, like Gecko) Chrome/47.0.1569.162 Safari/603.2 Edge/14.25115"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64) Gecko/20100101 Firefox/70.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.1; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64; en-US) AppleWebKit/535.34 (KHTML, like Gecko) Chrome/47.0.1884.309 Safari/603.8 Edge/9.55694"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/71.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) AppleWebKit/602.23 (KHTML, like Gecko) Chrome/53.0.3280.154 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/602.19 (KHTML, like Gecko) Chrome/54.0.2677.248 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/603.8 (KHTML, like Gecko) Chrome/49.0.2153.311 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/536.30 (KHTML, like Gecko) Chrome/47.0.2313.194 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/533.46 (KHTML, like Gecko) Chrome/52.0.3025.230 Safari/534.5 Edge/18.69877"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.2; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; Win64; x64) AppleWebKit/600.16 (KHTML, like Gecko) Chrome/53.0.2798.279 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) AppleWebKit/601.10 (KHTML, like Gecko) Chrome/52.0.2152.168 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64) AppleWebKit/601.7 (KHTML, like Gecko) Chrome/53.0.3735.339 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) AppleWebKit/600.16 (KHTML, like Gecko) Chrome/47.0.1208.384 Safari/534.4 Edge/10.69855"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; x64) AppleWebKit/533.34 (KHTML, like Gecko) Chrome/50.0.3418.344 Safari/536.8 Edge/9.70438"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) Gecko/20100101 Firefox/67.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 10.3; WOW64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64) Gecko/20100101 Firefox/62.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; Win64; x64) Gecko/20100101 Firefox/63.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.4; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/535.14 (KHTML, like Gecko) Chrome/50.0.3755.125 Safari/536.6 Edge/11.21200"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.0; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64; en-US) AppleWebKit/535.8 (KHTML, like Gecko) Chrome/55.0.3727.375 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/533.5 (KHTML, like Gecko) Chrome/47.0.2419.150 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) AppleWebKit/536.48 (KHTML, like Gecko) Chrome/52.0.2105.111 Safari/535.1 Edge/9.39662"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; x64; en-US) AppleWebKit/602.6 (KHTML, like Gecko) Chrome/54.0.1987.250 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) AppleWebKit/537.48 (KHTML, like Gecko) Chrome/51.0.3827.400 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/52.0.1033.134 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64) Gecko/20100101 Firefox/64.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;; en-US) AppleWebKit/533.20 (KHTML, like Gecko) Chrome/49.0.1483.275 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.0; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64; en-US) AppleWebKit/602.1 (KHTML, like Gecko) Chrome/53.0.2513.216 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64) Gecko/20100101 Firefox/71.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/70.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/57.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64; en-US) AppleWebKit/603.24 (KHTML, like Gecko) Chrome/54.0.2361.334 Safari/601.6 Edge/11.12880"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64) AppleWebKit/535.41 (KHTML, like Gecko) Chrome/55.0.1645.290 Safari/602.2 Edge/11.17094"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/71.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) AppleWebKit/537.40 (KHTML, like Gecko) Chrome/47.0.3292.173 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64) AppleWebKit/601.50 (KHTML, like Gecko) Chrome/54.0.1340.385 Safari/603.9 Edge/8.67675"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/537.34 (KHTML, like Gecko) Chrome/53.0.3989.226 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; WOW64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.0; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.2; Win64; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; WOW64) AppleWebKit/537.18 (KHTML, like Gecko) Chrome/47.0.3668.126 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/600.12 (KHTML, like Gecko) Chrome/53.0.1462.358 Safari/603.6 Edge/17.76906"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) AppleWebKit/536.25 (KHTML, like Gecko) Chrome/50.0.1913.332 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1;; en-US) AppleWebKit/601.11 (KHTML, like Gecko) Chrome/47.0.3041.274 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) AppleWebKit/602.44 (KHTML, like Gecko) Chrome/51.0.3313.383 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64; en-US) AppleWebKit/533.15 (KHTML, like Gecko) Chrome/50.0.1921.297 Safari/534.6 Edge/14.52770"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; x64) AppleWebKit/601.6 (KHTML, like Gecko) Chrome/50.0.1394.255 Safari/537.7 Edge/11.90528"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/60.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.2; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/73.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 10.4; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;; en-US) AppleWebKit/600.42 (KHTML, like Gecko) Chrome/52.0.3469.121 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; WOW64) Gecko/20100101 Firefox/62.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64; en-US) AppleWebKit/602.41 (KHTML, like Gecko) Chrome/55.0.1265.130 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64) Gecko/20100101 Firefox/64.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.2; Win64; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; x64; en-US) AppleWebKit/600.2 (KHTML, like Gecko) Chrome/55.0.3280.180 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;; en-US) Gecko/20100101 Firefox/71.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) Gecko/20100101 Firefox/64.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3;) AppleWebKit/535.23 (KHTML, like Gecko) Chrome/51.0.1192.172 Safari/600.0 Edge/15.62842"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) AppleWebKit/602.34 (KHTML, like Gecko) Chrome/48.0.1709.192 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.4; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/52.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) AppleWebKit/600.5 (KHTML, like Gecko) Chrome/49.0.2233.328 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64) Gecko/20130401 Firefox/71.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/50.0.1759.132 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20130401 Firefox/45.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/603.49 (KHTML, like Gecko) Chrome/48.0.1334.293 Safari/535.0 Edge/13.70348"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) Gecko/20100101 Firefox/68.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;) AppleWebKit/535.37 (KHTML, like Gecko) Chrome/53.0.1443.195 Safari/603.4 Edge/16.78770"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.2; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.2;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) Gecko/20100101 Firefox/55.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/69.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/601.39 (KHTML, like Gecko) Chrome/49.0.1809.232 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3;; en-US) AppleWebKit/601.5 (KHTML, like Gecko) Chrome/50.0.3328.146 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.3;; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.4; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.2; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) AppleWebKit/535.8 (KHTML, like Gecko) Chrome/48.0.1100.171 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64) Gecko/20130401 Firefox/62.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) AppleWebKit/600.25 (KHTML, like Gecko) Chrome/48.0.1375.239 Safari/535.2 Edge/17.88438"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64) AppleWebKit/602.22 (KHTML, like Gecko) Chrome/51.0.1146.241 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/73.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.0; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64; en-US) AppleWebKit/534.40 (KHTML, like Gecko) Chrome/47.0.2790.392 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/55.0.3384.374 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;) Gecko/20100101 Firefox/66.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; x64; en-US) AppleWebKit/533.12 (KHTML, like Gecko) Chrome/47.0.3516.107 Safari/602.5 Edge/12.95404"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64) Gecko/20100101 Firefox/65.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/601.2 (KHTML, like Gecko) Chrome/51.0.2632.152 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; WOW64) Gecko/20100101 Firefox/51.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) Gecko/20130401 Firefox/46.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;; en-US) Gecko/20100101 Firefox/57.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64) AppleWebKit/535.4 (KHTML, like Gecko) Chrome/55.0.1402.302 Safari/537.9 Edge/13.33818"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.0; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.2; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/601.16 (KHTML, like Gecko) Chrome/54.0.1129.232 Safari/603.3 Edge/13.28592"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) AppleWebKit/602.15 (KHTML, like Gecko) Chrome/52.0.2241.235 Safari/534.5 Edge/14.80692"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) Gecko/20100101 Firefox/63.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) AppleWebKit/533.20 (KHTML, like Gecko) Chrome/55.0.3618.215 Safari/600.1 Edge/14.86547"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/59.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) AppleWebKit/602.6 (KHTML, like Gecko) Chrome/55.0.3317.217 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 6.3; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) AppleWebKit/602.27 (KHTML, like Gecko) Chrome/47.0.2974.244 Safari/535.8 Edge/9.96366"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) Gecko/20100101 Firefox/55.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) AppleWebKit/536.49 (KHTML, like Gecko) Chrome/53.0.2595.316 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64; en-US) Gecko/20100101 Firefox/72.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) AppleWebKit/600.23 (KHTML, like Gecko) Chrome/52.0.2773.127 Safari/536.7 Edge/8.85715"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.1; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) AppleWebKit/602.8 (KHTML, like Gecko) Chrome/50.0.2159.322 Safari/600.9 Edge/13.78617"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64) Gecko/20100101 Firefox/53.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;; en-US) AppleWebKit/603.5 (KHTML, like Gecko) Chrome/54.0.3200.377 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0;; en-US) Gecko/20130401 Firefox/49.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; Win64; x64; en-US) Gecko/20100101 Firefox/49.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;; en-US) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/48.0.2556.233 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0;) AppleWebKit/533.24 (KHTML, like Gecko) Chrome/52.0.1095.114 Safari/603.4 Edge/12.44242"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;) AppleWebKit/601.30 (KHTML, like Gecko) Chrome/51.0.3835.224 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 10.5; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.2; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.2; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;; en-US) AppleWebKit/535.27 (KHTML, like Gecko) Chrome/50.0.2243.298 Safari/535.4 Edge/8.15877"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/533.50 (KHTML, like Gecko) Chrome/47.0.2248.202 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0;) AppleWebKit/600.11 (KHTML, like Gecko) Chrome/53.0.2252.385 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) AppleWebKit/600.32 (KHTML, like Gecko) Chrome/53.0.1898.333 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) Gecko/20100101 Firefox/53.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; x64; en-US) AppleWebKit/602.4 (KHTML, like Gecko) Chrome/50.0.2381.316 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64; en-US) AppleWebKit/603.22 (KHTML, like Gecko) Chrome/49.0.3897.287 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) Gecko/20100101 Firefox/49.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;; en-US) AppleWebKit/603.48 (KHTML, like Gecko) Chrome/49.0.1914.153 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.4; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/53.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) AppleWebKit/533.44 (KHTML, like Gecko) Chrome/52.0.3382.343 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/534.36 (KHTML, like Gecko) Chrome/51.0.2294.298 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) AppleWebKit/533.34 (KHTML, like Gecko) Chrome/50.0.3861.222 Safari/535.7 Edge/9.84356"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; WOW64; en-US) AppleWebKit/535.43 (KHTML, like Gecko) Chrome/55.0.2943.121 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64; en-US) AppleWebKit/603.46 (KHTML, like Gecko) Chrome/50.0.2364.231 Safari/536.5 Edge/10.94167"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/600.19 (KHTML, like Gecko) Chrome/48.0.2218.162 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64) Gecko/20100101 Firefox/67.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;) AppleWebKit/537.45 (KHTML, like Gecko) Chrome/54.0.3562.280 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.2; Win64; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64) AppleWebKit/537.50 (KHTML, like Gecko) Chrome/53.0.2738.135 Safari/536.5 Edge/15.13250"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/57.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/67.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/47.0.3414.283 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/601.37 (KHTML, like Gecko) Chrome/55.0.1599.155 Safari/535.6 Edge/9.25721"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/535.18 (KHTML, like Gecko) Chrome/54.0.2267.106 Safari/536.1 Edge/18.44420"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1; WOW64) AppleWebKit/533.22 (KHTML, like Gecko) Chrome/53.0.3614.301 Safari/600.5 Edge/14.52205"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) AppleWebKit/601.24 (KHTML, like Gecko) Chrome/55.0.3626.107 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.0; Win64; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.2; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0;) Gecko/20100101 Firefox/52.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/47.0.3772.155 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.1; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.3; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.9 (KHTML, like Gecko) Chrome/54.0.3526.317 Safari/602.2 Edge/16.26396"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64) Gecko/20100101 Firefox/72.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64) AppleWebKit/537.24 (KHTML, like Gecko) Chrome/54.0.3082.386 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/600.7 (KHTML, like Gecko) Chrome/51.0.3685.368 Safari/536.4 Edge/16.61597"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.3; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.0; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; WOW64; en-US) AppleWebKit/534.46 (KHTML, like Gecko) Chrome/49.0.1861.121 Safari/600.3 Edge/18.22573"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) AppleWebKit/537.28 (KHTML, like Gecko) Chrome/48.0.2984.356 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.1; Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; x64; en-US) AppleWebKit/533.35 (KHTML, like Gecko) Chrome/54.0.3866.272 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.2; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.5; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.3; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.2; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3;; en-US) AppleWebKit/602.9 (KHTML, like Gecko) Chrome/55.0.3103.179 Safari/537.5 Edge/9.37007"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;; en-US) AppleWebKit/537.27 (KHTML, like Gecko) Chrome/55.0.1313.266 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; Win64; x64) Gecko/20130401 Firefox/66.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) Gecko/20100101 Firefox/69.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) Gecko/20100101 Firefox/47.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5;) AppleWebKit/602.3 (KHTML, like Gecko) Chrome/51.0.1590.336 Safari/537.8 Edge/16.15293"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) Gecko/20100101 Firefox/54.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; WOW64; en-US) Gecko/20130401 Firefox/58.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;) AppleWebKit/600.40 (KHTML, like Gecko) Chrome/50.0.2712.291 Safari/533.6 Edge/10.79293"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/600.38 (KHTML, like Gecko) Chrome/50.0.2398.349 Safari/603.3 Edge/11.56671"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/534.9 (KHTML, like Gecko) Chrome/54.0.1997.183 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/54.0.2992.379 Safari/536.7 Edge/13.94150"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64) AppleWebKit/533.18 (KHTML, like Gecko) Chrome/52.0.1078.263 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64; en-US) AppleWebKit/533.11 (KHTML, like Gecko) Chrome/53.0.3316.211 Safari/601.8 Edge/15.68929"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/66.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.3; Win64; x64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) AppleWebKit/602.32 (KHTML, like Gecko) Chrome/48.0.1400.245 Safari/600.4 Edge/14.30066"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64; en-US) AppleWebKit/534.44 (KHTML, like Gecko) Chrome/53.0.3018.236 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/48.0.3850.389 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;) Gecko/20100101 Firefox/60.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;) AppleWebKit/533.27 (KHTML, like Gecko) Chrome/50.0.1299.356 Safari/603.0 Edge/11.59382"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;; en-US) AppleWebKit/601.23 (KHTML, like Gecko) Chrome/47.0.1275.375 Safari/601.5 Edge/15.70954"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; x64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/52.0.3931.244 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.4;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/52.0.2191.196 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) AppleWebKit/535.47 (KHTML, like Gecko) Chrome/51.0.1643.185 Safari/603.8 Edge/8.67680"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) Gecko/20100101 Firefox/48.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;; en-US) Gecko/20100101 Firefox/68.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;) Gecko/20100101 Firefox/52.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.0; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64; en-US) Gecko/20130401 Firefox/51.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1;) AppleWebKit/600.20 (KHTML, like Gecko) Chrome/51.0.1891.217 Safari/600.5 Edge/9.76930"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 6.0;; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; Win64; x64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/48.0.2572.136 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.0; x64; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.3;; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) Gecko/20130401 Firefox/61.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/57.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/535.44 (KHTML, like Gecko) Chrome/48.0.2093.396 Safari/601.2 Edge/14.91227"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; Win64; x64) AppleWebKit/535.37 (KHTML, like Gecko) Chrome/52.0.2053.208 Safari/600.6 Edge/15.86808"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; WOW64; en-US) AppleWebKit/533.18 (KHTML, like Gecko) Chrome/52.0.1664.133 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;; en-US) AppleWebKit/536.45 (KHTML, like Gecko) Chrome/47.0.2068.106 Safari/603.8 Edge/12.75085"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; U; Windows NT 6.3; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64; en-US) AppleWebKit/601.17 (KHTML, like Gecko) Chrome/48.0.2630.148 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.3; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64) AppleWebKit/602.43 (KHTML, like Gecko) Chrome/49.0.1038.307 Safari/535.8 Edge/10.41303"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 6.2; Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;) AppleWebKit/534.39 (KHTML, like Gecko) Chrome/48.0.1505.347 Safari/602.8 Edge/10.56829"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4;; en-US) Gecko/20100101 Firefox/72.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64; en-US) AppleWebKit/535.4 (KHTML, like Gecko) Chrome/53.0.1887.166 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.3; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64) AppleWebKit/601.23 (KHTML, like Gecko) Chrome/50.0.2561.353 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64) Gecko/20100101 Firefox/68.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/602.45 (KHTML, like Gecko) Chrome/53.0.2348.173 Safari/535.5 Edge/14.46293"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64; en-US) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/51.0.2895.300 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64; en-US) AppleWebKit/602.5 (KHTML, like Gecko) Chrome/49.0.2109.317 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.0; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) AppleWebKit/534.6 (KHTML, like Gecko) Chrome/48.0.1732.370 Safari/535.6 Edge/12.37376"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.1; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.2; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/63.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; WOW64; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/49.0.3071.126 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64; en-US) Gecko/20130401 Firefox/66.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;) Gecko/20100101 Firefox/74.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5;) Gecko/20100101 Firefox/74.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4; Win64; x64) AppleWebKit/536.39 (KHTML, like Gecko) Chrome/55.0.3329.128 Safari/603.2 Edge/17.57228"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) AppleWebKit/600.33 (KHTML, like Gecko) Chrome/50.0.1812.292 Safari/602.8 Edge/18.31983"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64; en-US) AppleWebKit/601.50 (KHTML, like Gecko) Chrome/50.0.3592.323 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/601.9 (KHTML, like Gecko) Chrome/55.0.3506.210 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; Win64; x64) Gecko/20130401 Firefox/71.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) AppleWebKit/602.1 (KHTML, like Gecko) Chrome/49.0.2854.372 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;; en-US) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/49.0.2918.292 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64) AppleWebKit/601.49 (KHTML, like Gecko) Chrome/52.0.3965.168 Safari/537.3 Edge/9.76447"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows; Windows NT 10.5; Win64; x64; en-US Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.3; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64; en-US) AppleWebKit/536.19 (KHTML, like Gecko) Chrome/48.0.1083.335 Safari/537.6 Edge/10.86110"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; WOW64; en-US) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;) Gecko/20100101 Firefox/58.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64; en-US) AppleWebKit/537.8 (KHTML, like Gecko) Chrome/50.0.2008.184 Safari/537.1 Edge/16.92798"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/533.30 (KHTML, like Gecko) Chrome/52.0.2982.169 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) AppleWebKit/602.4 (KHTML, like Gecko) Chrome/51.0.3615.351 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; x64; en-US) Gecko/20130401 Firefox/56.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) AppleWebKit/600.44 (KHTML, like Gecko) Chrome/54.0.2572.377 Safari/533.7 Edge/16.40701"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; WOW64; en-US) AppleWebKit/535.42 (KHTML, like Gecko) Chrome/54.0.1594.149 Safari/533.2 Edge/13.32286"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2; x64) AppleWebKit/602.25 (KHTML, like Gecko) Chrome/48.0.1450.301 Safari/601.2 Edge/15.62819"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2;) AppleWebKit/535.48 (KHTML, like Gecko) Chrome/48.0.1721.291 Safari/534.7 Edge/14.45385"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/55.0.1483.109 Safari/603.1 Edge/10.39808"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64; en-US) Gecko/20130401 Firefox/63.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64) AppleWebKit/537.13 (KHTML, like Gecko) Chrome/47.0.2633.358 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/601.15 (KHTML, like Gecko) Chrome/47.0.2478.158 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64) AppleWebKit/535.44 (KHTML, like Gecko) Chrome/54.0.3799.320 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/52.0.1544.290 Safari/601.6 Edge/10.37769"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;) AppleWebKit/533.40 (KHTML, like Gecko) Chrome/53.0.2639.162 Safari/603.2 Edge/13.80733"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; x64; en-US) AppleWebKit/600.29 (KHTML, like Gecko) Chrome/53.0.1065.389 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; Win64; x64) Gecko/20130401 Firefox/58.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; U; Windows NT 6.1; x64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/535.37 (KHTML, like Gecko) Chrome/55.0.1261.224 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; WOW64) AppleWebKit/601.4 (KHTML, like Gecko) Chrome/51.0.2781.346 Safari/603.4 Edge/9.98176"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64; en-US) AppleWebKit/602.23 (KHTML, like Gecko) Chrome/48.0.2366.217 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.0;; en-US Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/536.29 (KHTML, like Gecko) Chrome/51.0.3621.326 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 6.3; WOW64 Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;; en-US) Gecko/20100101 Firefox/53.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64) AppleWebKit/601.45 (KHTML, like Gecko) Chrome/52.0.2540.218 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.3; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64; en-US) AppleWebKit/602.13 (KHTML, like Gecko) Chrome/48.0.1619.126 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; U; Windows NT 6.1; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.3; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64; en-US) AppleWebKit/534.28 (KHTML, like Gecko) Chrome/50.0.1678.296 Safari/601.9 Edge/15.67236"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; WOW64) Gecko/20130401 Firefox/69.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; WOW64) AppleWebKit/600.38 (KHTML, like Gecko) Chrome/54.0.3786.232 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1;) Gecko/20100101 Firefox/66.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.0; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64; en-US) AppleWebKit/533.33 (KHTML, like Gecko) Chrome/55.0.2545.162 Safari/533.4 Edge/18.52314"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/55.0.3556.138 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;) AppleWebKit/601.49 (KHTML, like Gecko) Chrome/51.0.1819.370 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64; en-US) Gecko/20100101 Firefox/45.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64; en-US) Gecko/20100101 Firefox/62.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;) Gecko/20100101 Firefox/53.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4;) AppleWebKit/534.8 (KHTML, like Gecko) Chrome/53.0.3045.272 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64) AppleWebKit/537.25 (KHTML, like Gecko) Chrome/50.0.3419.335 Safari/533.9 Edge/14.42644"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;) AppleWebKit/603.50 (KHTML, like Gecko) Chrome/48.0.3119.156 Safari/601.7 Edge/13.70582"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64) AppleWebKit/535.50 (KHTML, like Gecko) Chrome/47.0.1151.155 Safari/535.2 Edge/17.43907"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64) AppleWebKit/535.32 (KHTML, like Gecko) Chrome/48.0.3660.327 Safari/602.4 Edge/8.50448"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; x64; en-US) AppleWebKit/603.36 (KHTML, like Gecko) Chrome/50.0.2165.330 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; Win64; x64; en-US) AppleWebKit/533.17 (KHTML, like Gecko) Chrome/51.0.2410.230 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64; en-US) Gecko/20100101 Firefox/45.9"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64; en-US) Gecko/20130401 Firefox/67.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) Gecko/20130401 Firefox/74.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;; en-US) AppleWebKit/537.5 (KHTML, like Gecko) Chrome/51.0.1268.250 Safari/533.4 Edge/8.75064"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64) AppleWebKit/536.34 (KHTML, like Gecko) Chrome/54.0.3232.355 Safari/533.4 Edge/15.81458"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; Win64; x64) AppleWebKit/534.18 (KHTML, like Gecko) Chrome/54.0.1869.245 Safari/601.8 Edge/12.55727"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;; en-US) AppleWebKit/603.39 (KHTML, like Gecko) Chrome/52.0.3491.118 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; Windows NT 10.5; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3; Win64; x64; en-US) Gecko/20130401 Firefox/53.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4;; en-US) AppleWebKit/603.6 (KHTML, like Gecko) Chrome/49.0.2350.103 Safari/603.8 Edge/13.45539"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1; WOW64) AppleWebKit/603.4 (KHTML, like Gecko) Chrome/50.0.1080.220 Safari/601.9 Edge/17.15599"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; x64; en-US) AppleWebKit/534.35 (KHTML, like Gecko) Chrome/54.0.3805.295 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64; en-US) Gecko/20130401 Firefox/59.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) AppleWebKit/537.26 (KHTML, like Gecko) Chrome/47.0.2653.277 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.1; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0; Win64; x64) AppleWebKit/537.8 (KHTML, like Gecko) Chrome/55.0.1067.400 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.26 (KHTML, like Gecko) Chrome/54.0.3596.279 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; WOW64; en-US) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/55.0.3386.373 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.2; Win64; x64) AppleWebKit/533.40 (KHTML, like Gecko) Chrome/51.0.3042.217 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64; en-US) Gecko/20130401 Firefox/52.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64; en-US) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/55.0.3194.315 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0;) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/50.0.3657.381 Safari/533.6 Edge/11.72782"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.3; x64 Trident/5.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) AppleWebKit/535.31 (KHTML, like Gecko) Chrome/54.0.3698.337 Safari/535"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64; en-US) AppleWebKit/602.40 (KHTML, like Gecko) Chrome/52.0.3367.218 Safari/534.8 Edge/18.76608"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64) Gecko/20100101 Firefox/64.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.3; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.3; WOW64; en-US) Gecko/20100101 Firefox/50.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; Win64; x64) AppleWebKit/603.20 (KHTML, like Gecko) Chrome/51.0.1583.312 Safari/600.3 Edge/16.52052"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) AppleWebKit/537.25 (KHTML, like Gecko) Chrome/50.0.1443.121 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; x64) AppleWebKit/602.27 (KHTML, like Gecko) Chrome/47.0.1381.218 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/58.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows; Windows NT 10.3; x64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; x64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/53.0.1251.358 Safari/534.9 Edge/11.26577"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.5; x64; en-US) Gecko/20100101 Firefox/64.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; Win64; x64) Gecko/20100101 Firefox/51.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; WOW64) AppleWebKit/600.6 (KHTML, like Gecko) Chrome/48.0.1089.174 Safari/602.3 Edge/8.52233"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 10.4; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 6.3; Win64; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; x64) Gecko/20100101 Firefox/65.7"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3;) Gecko/20100101 Firefox/46.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64; en-US) Gecko/20130401 Firefox/64.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) Gecko/20130401 Firefox/49.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.0;) AppleWebKit/602.28 (KHTML, like Gecko) Chrome/48.0.1955.183 Safari/600.7 Edge/16.46475"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; WOW64) AppleWebKit/602.37 (KHTML, like Gecko) Chrome/51.0.2695.325 Safari/533.3 Edge/9.27700"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/602.20 (KHTML, like Gecko) Chrome/50.0.2066.325 Safari/537.0 Edge/15.23974"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; x64) AppleWebKit/533.13 (KHTML, like Gecko) Chrome/51.0.1912.336 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.1; Win64; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.2; WOW64) AppleWebKit/603.17 (KHTML, like Gecko) Chrome/51.0.3099.296 Safari/601.8 Edge/18.98153"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; Win64; x64) AppleWebKit/602.24 (KHTML, like Gecko) Chrome/54.0.3023.268 Safari/533"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; WOW64) AppleWebKit/536.50 (KHTML, like Gecko) Chrome/51.0.3407.353 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; x64) Gecko/20130401 Firefox/65.0"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.3;; en-US) AppleWebKit/535.6 (KHTML, like Gecko) Chrome/49.0.3747.135 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.3; x64; en-US) AppleWebKit/603.19 (KHTML, like Gecko) Chrome/53.0.1360.390 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64) Gecko/20100101 Firefox/57.6"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; U; Windows NT 10.5; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.0;; en-US) Gecko/20100101 Firefox/63.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.3; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/48.0.3463.155 Safari/533.2 Edge/9.45449"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.2;) Gecko/20100101 Firefox/48.1"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.3; x64) AppleWebKit/602.50 (KHTML, like Gecko) Chrome/47.0.2344.224 Safari/533.5 Edge/16.12593"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; x64) Gecko/20130401 Firefox/55.3"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64; en-US) AppleWebKit/603.46 (KHTML, like Gecko) Chrome/53.0.3961.346 Safari/535.5 Edge/12.56334"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; x64; en-US) Gecko/20100101 Firefox/48.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.1; WOW64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; en-US) AppleWebKit/602.33 (KHTML, like Gecko) Chrome/50.0.3962.217 Safari/601.4 Edge/13.43609"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; WOW64; en-US) AppleWebKit/535.32 (KHTML, like Gecko) Chrome/53.0.1106.134 Safari/534"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; WOW64; en-US) AppleWebKit/535.35 (KHTML, like Gecko) Chrome/48.0.3413.201 Safari/601.8 Edge/11.14672"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64) AppleWebKit/603.15 (KHTML, like Gecko) Chrome/48.0.3284.219 Safari/536"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1; x64) AppleWebKit/534.34 (KHTML, like Gecko) Chrome/54.0.1532.344 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;; en-US) Gecko/20100101 Firefox/50.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.1;; en-US) AppleWebKit/600.37 (KHTML, like Gecko) Chrome/48.0.3207.222 Safari/601.5 Edge/17.35974"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.0; x64; en-US) AppleWebKit/603.11 (KHTML, like Gecko) Chrome/47.0.3974.254 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 10.1; x64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 10.5; WOW64; en-US Trident/6.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.3; Win64; x64) AppleWebKit/601.26 (KHTML, like Gecko) Chrome/51.0.3126.196 Safari/533.2 Edge/9.90439"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.5; Win64; x64; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Chrome/52.0.1432.156 Safari/603.2 Edge/9.37543"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows NT 10.4; WOW64 Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2;) AppleWebKit/533.23 (KHTML, like Gecko) Chrome/50.0.2316.151 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.1;) Gecko/20130401 Firefox/56.5"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows; Windows NT 6.0; x64 Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.1; x64) AppleWebKit/602.26 (KHTML, like Gecko) Chrome/48.0.2986.322 Safari/537.6 Edge/15.12510"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1; x64) AppleWebKit/603.8 (KHTML, like Gecko) Chrome/48.0.2713.338 Safari/603"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 10.4; Win64; x64) Gecko/20100101 Firefox/70.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 11.0; Windows; U; Windows NT 6.2; Trident/7.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.2; Win64; x64; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/55.0.3339.247 Safari/537"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64) AppleWebKit/602.34 (KHTML, like Gecko) Chrome/55.0.2987.265 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1;) AppleWebKit/601.8 (KHTML, like Gecko) Chrome/55.0.1664.104 Safari/601"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0;; en-US) Gecko/20100101 Firefox/57.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.5; WOW64) AppleWebKit/602.17 (KHTML, like Gecko) Chrome/52.0.3505.152 Safari/600"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 10.4;; en-US) Gecko/20130401 Firefox/73.4"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.2; WOW64; en-US) AppleWebKit/536.10 (KHTML, like Gecko) Chrome/53.0.1879.357 Safari/600.8 Edge/11.40424"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; x64; en-US) AppleWebKit/602.3 (KHTML, like Gecko) Chrome/53.0.3381.338 Safari/602"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.0; WOW64; en-US) Gecko/20100101 Firefox/61.8"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows NT 10.4; Win64; x64) AppleWebKit/600.44 (KHTML, like Gecko) Chrome/49.0.2350.287 Safari/536.9 Edge/10.14345"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 8.0; Windows; Windows NT 6.0; WOW64; en-US Trident/4.0)"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; Windows NT 6.1;) Gecko/20100101 Firefox/70.2"
+  },
+  {
+    "device": "windows",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; Win64; x64; en-US) Gecko/20100101 Firefox/66.1"
+  }
+]

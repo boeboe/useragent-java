@@ -1,0 +1,4002 @@
+﻿[
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-E987 Build/KOT49I) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/50.0.2229.163 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_7; like Mac OS X) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/48.0.2994.140 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; Lenovo A7000-a Build/LRX21M;) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/47.0.3802.295 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/55.0.3033.208 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 7 Build/NME91E) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/47.0.3641.298 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 6 Build/LMY48B) AppleWebKit/536.43 (KHTML, like Gecko)  Chrome/52.0.3581.119 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_3_1 like Mac OS X) AppleWebKit/537.21 (KHTML, like Gecko)  Chrome/54.0.3790.130 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-P355 Build/LRX22G) AppleWebKit/533.26 (KHTML, like Gecko)  Chrome/53.0.1786.321 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/53.0.1883.114 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_2_3 like Mac OS X) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/52.0.3342.209 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; LG-E987 Build/KOT49I) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/54.0.2346.255 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_4_4 like Mac OS X) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/47.0.1108.260 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_1_8; like Mac OS X) AppleWebKit/537.47 (KHTML, like Gecko)  Chrome/51.0.2537.319 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 8X Build/NPD90G) AppleWebKit/601.2 (KHTML, like Gecko)  Chrome/51.0.1229.166 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_4; like Mac OS X) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/48.0.2824.314 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 6P Build/MMB29V) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/53.0.3205.361 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_6_1; like Mac OS X) AppleWebKit/537.15 (KHTML, like Gecko)  Chrome/48.0.1577.208 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel C Build/NME91E) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/50.0.2638.365 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_2_9 like Mac OS X) AppleWebKit/535.3 (KHTML, like Gecko)  Chrome/51.0.2230.245 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_6_5; like Mac OS X) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/55.0.3655.228 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Nexus_S_Build/GRJ22) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/48.0.2802.114 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_2_8 like Mac OS X) AppleWebKit/602.19 (KHTML, like Gecko)  Chrome/54.0.2843.338 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_8_6; like Mac OS X) AppleWebKit/533.21 (KHTML, like Gecko)  Chrome/50.0.1665.162 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-D942K Build/LMY47X) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/48.0.1863.370 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Nexus 6 Build/NME91E) AppleWebKit/601.14 (KHTML, like Gecko)  Chrome/55.0.1693.253 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_6_5; like Mac OS X) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/53.0.2792.280 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NME91E) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/51.0.3190.210 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_4; like Mac OS X) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/52.0.3413.184 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTOROLA MOTO XT1575 Build/LPH223) AppleWebKit/602.44 (KHTML, like Gecko)  Chrome/54.0.1860.177 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_6; like Mac OS X) AppleWebKit/536.34 (KHTML, like Gecko)  Chrome/55.0.1923.244 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_4_0; like Mac OS X) AppleWebKit/602.34 (KHTML, like Gecko)  Chrome/52.0.1010.108 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_5_7 like Mac OS X) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/47.0.2234.215 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_2_8; like Mac OS X) AppleWebKit/536.47 (KHTML, like Gecko)  Chrome/49.0.3804.383 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_8_6 like Mac OS X) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/47.0.1736.281 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_6; like Mac OS X) AppleWebKit/602.12 (KHTML, like Gecko)  Chrome/49.0.3823.132 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_7_2 like Mac OS X) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/52.0.1224.341 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/52.0.1515.247 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_8_4 like Mac OS X) AppleWebKit/533.41 (KHTML, like Gecko)  Chrome/50.0.3390.148 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; MOTOROLA MOTOG Build/KVT49L) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/54.0.2939.320 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO G XT1068 Build/LPH223) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/50.0.1652.288 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_9_8; like Mac OS X) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/55.0.3764.128 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1100 wifi Build/GRK39F) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/48.0.3225.248 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTOROLA MOTO XT1580 Build/LPC23) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/47.0.3646.373 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_5_4; like Mac OS X) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/52.0.2381.370 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_5; like Mac OS X) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/49.0.2023.208 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC 80:number1-2s Build/LRX22G) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/52.0.3738.264 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_1_6 like Mac OS X) AppleWebKit/536.44 (KHTML, like Gecko)  Chrome/48.0.1266.156 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_9_4 like Mac OS X) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/54.0.1658.284 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_8_6; like Mac OS X) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/52.0.2349.384 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_0 like Mac OS X) AppleWebKit/603.26 (KHTML, like Gecko)  Chrome/47.0.3921.263 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SM-G925L Build/MMB29K) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/55.0.3079.125 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 8P Build/NPD90G) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/53.0.1354.318 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H930 Build/NRD90C) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/51.0.2759.209 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_9_5; like Mac OS X) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/52.0.3011.293 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G920T Build/LMY47X) AppleWebKit/602.21 (KHTML, like Gecko)  Chrome/49.0.1196.360 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_0_1; like Mac OS X) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/53.0.1656.275 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_1; like Mac OS X) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/55.0.3211.235 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One801e dual sim Build/MRA58K) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/47.0.3362.281 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M9 dual sim Build/MRA58K) AppleWebKit/534.6 (KHTML, like Gecko)  Chrome/52.0.2005.349 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC OneS dual sim Build/MRA58K) AppleWebKit/602.7 (KHTML, like Gecko)  Chrome/47.0.3097.288 Mobile Safari/600.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_0_7 like Mac OS X) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/50.0.3177.392 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G93508 Build/MMB29M) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/48.0.1513.393 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_2_6 like Mac OS X) AppleWebKit/534.39 (KHTML, like Gecko)  Chrome/52.0.3560.277 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_8; like Mac OS X) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/53.0.3884.258 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_4_1; like Mac OS X) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/47.0.2692.147 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_4 like Mac OS X) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/52.0.1590.400 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_6; like Mac OS X) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/50.0.3651.151 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_7_1 like Mac OS X) AppleWebKit/534.45 (KHTML, like Gecko)  Chrome/50.0.3129.261 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 8X Build/NME91E) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/49.0.3471.390 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_1_2 like Mac OS X) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/51.0.2252.262 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-G420 Build/LRX22G) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/49.0.1840.361 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/49.0.3967.297 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-N910G Build/LRX22C) AppleWebKit/535.40 (KHTML, like Gecko)  Chrome/52.0.2362.117 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/51.0.3714.240 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_2_1 like Mac OS X) AppleWebKit/535.38 (KHTML, like Gecko)  Chrome/53.0.1656.383 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG-D952 Build/KOT49I) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/50.0.1444.258 Mobile Safari/535.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D925F Build/MMB29K) AppleWebKit/534.1 (KHTML, like Gecko)  Chrome/53.0.1309.364 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_6_6; like Mac OS X) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/49.0.3018.119 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_9_3 like Mac OS X) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/48.0.1025.318 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/50.0.2823.339 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2; like Mac OS X) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/50.0.2502.108 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_8_8 like Mac OS X) AppleWebKit/601.10 (KHTML, like Gecko)  Chrome/52.0.3123.302 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D329 Build/LRX22G) AppleWebKit/603.1 (KHTML, like Gecko)  Chrome/55.0.2976.215 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/55.0.1991.280 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 5P Build/MMB29K) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/52.0.3424.299 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Elephone P4000 Build/KTU84P) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/54.0.1074.394 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_5_1 like Mac OS X) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/48.0.2544.396 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/53.0.3596.318 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-D954 Build/KOT49I) AppleWebKit/602.3 (KHTML, like Gecko)  Chrome/52.0.2719.283 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1; like Mac OS X) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/52.0.1087.199 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; IQ4504 Quad Build/KOT49H) AppleWebKit/536.19 (KHTML, like Gecko)  Chrome/49.0.3901.106 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_5_2; like Mac OS X) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/55.0.2721.152 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MDB08I) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/53.0.2879.271 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-G933F Build/KVT49L) AppleWebKit/535.8 (KHTML, like Gecko)  Chrome/52.0.2009.114 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/537.23 (KHTML, like Gecko)  Chrome/47.0.3341.213 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-D952 Build/KOT49I) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/53.0.1606.289 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_7_4; like Mac OS X) AppleWebKit/535.13 (KHTML, like Gecko)  Chrome/54.0.1437.100 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_6_5; like Mac OS X) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/50.0.2859.222 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_5_0 like Mac OS X) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/51.0.1927.251 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LRX22C) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/49.0.1937.360 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5; like Mac OS X) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/52.0.3799.387 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_1; like Mac OS X) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/52.0.1964.178 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LRX22C) AppleWebKit/534.49 (KHTML, like Gecko)  Chrome/49.0.3865.365 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_1_8 like Mac OS X) AppleWebKit/603.6 (KHTML, like Gecko)  Chrome/47.0.2610.211 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G9350L Build/LMY47X) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/50.0.1910.347 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_5; like Mac OS X) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/54.0.1592.304 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/51.0.3426.329 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 8X Build/NPD90G) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/47.0.2303.319 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G9350X Build/MMB29M) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/48.0.1762.165 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_0_4; like Mac OS X) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/55.0.1070.374 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-N912V Build/JLS36C) AppleWebKit/535.14 (KHTML, like Gecko)  Chrome/47.0.1389.108 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G9350FD Build/LMY47X) AppleWebKit/603.2 (KHTML, like Gecko)  Chrome/55.0.3394.273 Mobile Safari/600.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_4_4; like Mac OS X) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/55.0.2328.333 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SM-G900W8 Build/KOT49H) AppleWebKit/602.3 (KHTML, like Gecko)  Chrome/53.0.1179.126 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_2_0 like Mac OS X) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/48.0.2520.396 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G925I Build/MDB08I) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/53.0.3244.251 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_9; like Mac OS X) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/54.0.1633.380 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_3_7 like Mac OS X) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/54.0.2044.138 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_1_8; like Mac OS X) AppleWebKit/602.1 (KHTML, like Gecko)  Chrome/51.0.1999.284 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/55.0.2252.351 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC Onemini 2 Build/MRA58K) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/49.0.2477.248 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_2_9 like Mac OS X) AppleWebKit/602.16 (KHTML, like Gecko)  Chrome/55.0.2080.262 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_4_9; like Mac OS X) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/51.0.3660.305 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_0_5 like Mac OS X) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/50.0.3639.397 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_1_6 like Mac OS X) AppleWebKit/533.35 (KHTML, like Gecko)  Chrome/53.0.1719.141 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 8 Build/LRX22C) AppleWebKit/533.19 (KHTML, like Gecko)  Chrome/52.0.3829.300 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/537.11 (KHTML, like Gecko)  Chrome/48.0.2497.212 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/534.39 (KHTML, like Gecko)  Chrome/47.0.3794.258 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6X Build/NME91E) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/49.0.2089.380 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H910 Build/NRD90C) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/47.0.1425.383 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/534.1 (KHTML, like Gecko)  Chrome/47.0.2652.169 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_7_8; like Mac OS X) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/47.0.2955.323 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_7_1; like Mac OS X) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/52.0.1387.179 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-G410 Build/LRX22C) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/55.0.3150.249 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/47.0.3815.157 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_1_7; like Mac OS X) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/53.0.1245.150 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G470 Build/LRX22G) AppleWebKit/603.28 (KHTML, like Gecko)  Chrome/51.0.3153.239 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_7_1; like Mac OS X) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/55.0.1459.377 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_7; like Mac OS X) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/54.0.3296.286 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_7_1; like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/54.0.2515.354 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_8_4; like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/50.0.2747.122 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; LG-H910 Build/NRD90M) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/54.0.1745.187 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_7_1; like Mac OS X) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/48.0.2062.288 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_5 like Mac OS X) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/55.0.1064.140 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-H200 Build/KOT49H) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/55.0.3015.131 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-H200 Build/KOT49I) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/55.0.2336.277 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_9_8 like Mac OS X) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/49.0.3170.170 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_6_2; like Mac OS X) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/54.0.2207.350 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-D750 Build/KOT49I) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/47.0.1715.393 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_3_6; like Mac OS X) AppleWebKit/601.6 (KHTML, like Gecko)  Chrome/49.0.3945.255 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/48.0.3478.223 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_8 like Mac OS X) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/52.0.2914.225 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO X FORCE XT1580 Build/LPD23) AppleWebKit/600.28 (KHTML, like Gecko)  Chrome/48.0.1506.319 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_8; like Mac OS X) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/50.0.1689.174 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-A700T Build/LRX22G) AppleWebKit/533.7 (KHTML, like Gecko)  Chrome/51.0.1550.274 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350H Build/LMY47X) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/53.0.1173.291 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_3_6; like Mac OS X) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/52.0.1613.194 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_4; like Mac OS X) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/47.0.2940.385 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/55.0.2633.317 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One0P6B Build/MRA58K) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/51.0.1954.142 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G920F Build/LRX22G) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/49.0.3670.393 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/47.0.3503.229 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; HTC One801e dual sim Build/KOT49H) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/54.0.1132.291 Mobile Safari/535.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; Google Nexus 5 Build/KOT49H) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/52.0.2115.117 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_1_6; like Mac OS X) AppleWebKit/601.4 (KHTML, like Gecko)  Chrome/51.0.2016.102 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; LG-D332 Build/LRX22G) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/54.0.2923.340 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-G904F Build/LMY47X) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/50.0.3243.332 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_7_9; like Mac OS X) AppleWebKit/602.44 (KHTML, like Gecko)  Chrome/47.0.3095.392 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_8_3 like Mac OS X) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/52.0.2756.120 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-D170 Build/KOT49I) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/52.0.1528.270 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_5_7; like Mac OS X) AppleWebKit/601.46 (KHTML, like Gecko)  Chrome/47.0.2710.362 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_3_8 like Mac OS X) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/53.0.3951.172 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/49.0.1550.246 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/54.0.1790.307 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_8 like Mac OS X) AppleWebKit/603.1 (KHTML, like Gecko)  Chrome/48.0.3326.339 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G920FG Build/LRX21T) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/49.0.2043.262 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/52.0.1447.176 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_4 like Mac OS X) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/48.0.1776.309 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_3; like Mac OS X) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/51.0.2095.121 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6P Build/MDB08I) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/49.0.3836.356 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/50.0.1876.390 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_8_1; like Mac OS X) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/55.0.3030.331 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTOROLA MOTO XT1580 Build/LMY47Z) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/48.0.2751.264 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_9; like Mac OS X) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/53.0.2537.352 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D714 Build/LRX22G) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/49.0.1543.349 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_3_9 like Mac OS X) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/47.0.2566.305 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 9X Build/NPD90G) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/48.0.2275.272 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/535.7 (KHTML, like Gecko)  Chrome/52.0.1978.122 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_1; like Mac OS X) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/49.0.2410.376 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_9_0 like Mac OS X) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/49.0.1664.125 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2_4; like Mac OS X) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/54.0.2168.243 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_7_7; like Mac OS X) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/53.0.2947.112 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; MOTOROLA RAZR Build/KVT49L) AppleWebKit/533.5 (KHTML, like Gecko)  Chrome/54.0.3953.319 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; LG-D713 Build/LRX22G) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/55.0.1395.186 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_6; like Mac OS X) AppleWebKit/534.6 (KHTML, like Gecko)  Chrome/47.0.1157.293 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_0; like Mac OS X) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/49.0.2368.143 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SM-A700H Build/LRX22G) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/51.0.1585.234 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_8_3 like Mac OS X) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/47.0.1358.263 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6 Build/MDB08L) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/55.0.1060.229 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HP 715 Notebook PC Build/JLS36C) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/50.0.3434.373 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/601.39 (KHTML, like Gecko)  Chrome/47.0.3436.306 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/47.0.1490.259 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-P555 Build/LRX22G) AppleWebKit/603.26 (KHTML, like Gecko)  Chrome/53.0.3024.318 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_0_4; like Mac OS X) AppleWebKit/537.35 (KHTML, like Gecko)  Chrome/48.0.2342.241 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MMB29V) AppleWebKit/602.4 (KHTML, like Gecko)  Chrome/49.0.1120.157 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G9350X Build/LMY47X) AppleWebKit/601.4 (KHTML, like Gecko)  Chrome/48.0.1431.346 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_3_8 like Mac OS X) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/54.0.1185.357 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-F200S Build/KOT49I) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/53.0.2508.263 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/55.0.1049.161 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_7_1; like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/51.0.2489.170 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/51.0.1784.147 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_3 like Mac OS X) AppleWebKit/535.43 (KHTML, like Gecko)  Chrome/50.0.2820.170 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LPC23) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/47.0.2554.123 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_4_6 like Mac OS X) AppleWebKit/601.14 (KHTML, like Gecko)  Chrome/54.0.3504.255 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-G917T Build/JSS15J) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/51.0.2736.266 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_0_0; like Mac OS X) AppleWebKit/537.38 (KHTML, like Gecko)  Chrome/48.0.1027.167 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_4_4 like Mac OS X) AppleWebKit/600.35 (KHTML, like Gecko)  Chrome/50.0.3308.107 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G9208 Build/LMY47X) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/47.0.2610.285 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_9; like Mac OS X) AppleWebKit/602.49 (KHTML, like Gecko)  Chrome/48.0.2417.201 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_2_9 like Mac OS X) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/54.0.1530.367 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_1; like Mac OS X) AppleWebKit/537.46 (KHTML, like Gecko)  Chrome/51.0.1234.215 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_6_3; like Mac OS X) AppleWebKit/535.12 (KHTML, like Gecko)  Chrome/53.0.3960.387 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_8; like Mac OS X) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/51.0.2109.297 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_6; like Mac OS X) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/48.0.2269.314 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_6_4 like Mac OS X) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/49.0.1007.233 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/48.0.2265.255 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; Nokia 3410 Build/IMM76D) AppleWebKit/536.39 (KHTML, like Gecko)  Chrome/48.0.3502.137 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_3; like Mac OS X) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/53.0.2543.377 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nexus 5 Build/KOT49H) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/50.0.3486.228 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_7_7 like Mac OS X) AppleWebKit/534.47 (KHTML, like Gecko)  Chrome/54.0.1642.135 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_1_3; like Mac OS X) AppleWebKit/534.40 (KHTML, like Gecko)  Chrome/50.0.1313.132 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_2_6 like Mac OS X) AppleWebKit/603.2 (KHTML, like Gecko)  Chrome/51.0.3969.202 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_8; like Mac OS X) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/54.0.1296.276 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_2_4; like Mac OS X) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/48.0.3280.230 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-G3638R5 Build/JLS36C) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/51.0.3861.281 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_6_5; like Mac OS X) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/53.0.2726.173 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-D850 Build/KOT49I) AppleWebKit/535.45 (KHTML, like Gecko)  Chrome/51.0.2708.104 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-F300S Build/KOT49I) AppleWebKit/533.21 (KHTML, like Gecko)  Chrome/54.0.1377.124 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_9_8; like Mac OS X) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/48.0.2357.398 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5; like Mac OS X) AppleWebKit/600.47 (KHTML, like Gecko)  Chrome/55.0.1014.247 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; Nokia 1100 4G Build/GRK39F) AppleWebKit/534.15 (KHTML, like Gecko)  Chrome/53.0.1349.400 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_8_3 like Mac OS X) AppleWebKit/533.45 (KHTML, like Gecko)  Chrome/49.0.2433.110 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H910 Build/NRD90M) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/55.0.2643.284 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_4_0; like Mac OS X) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/51.0.3963.229 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G430 Build/LRX22G) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/54.0.3514.299 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_2_7; like Mac OS X) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/51.0.1452.367 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_3_3 like Mac OS X) AppleWebKit/537.17 (KHTML, like Gecko)  Chrome/53.0.1860.185 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H900 Build/NRD90C) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/49.0.1105.202 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_9_1; like Mac OS X) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/52.0.3310.382 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/537.49 (KHTML, like Gecko)  Chrome/47.0.3689.281 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-N916S Build/JLS36C) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/52.0.1248.197 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_4; like Mac OS X) AppleWebKit/602.21 (KHTML, like Gecko)  Chrome/51.0.1996.119 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_3; like Mac OS X) AppleWebKit/533.36 (KHTML, like Gecko)  Chrome/52.0.2252.350 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_3_9; like Mac OS X) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/55.0.3269.352 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-G900H Build/LRX21T) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/47.0.2716.173 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/537.24 (KHTML, like Gecko)  Chrome/52.0.1375.308 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_1_3 like Mac OS X) AppleWebKit/536.39 (KHTML, like Gecko)  Chrome/50.0.2371.376 Mobile Safari/600.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_7_2; like Mac OS X) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/52.0.2172.113 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_2_6; like Mac OS X) AppleWebKit/537.26 (KHTML, like Gecko)  Chrome/48.0.1397.351 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_6 like Mac OS X) AppleWebKit/534.48 (KHTML, like Gecko)  Chrome/51.0.1633.203 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-G928S Build/MDB08I) AppleWebKit/600.29 (KHTML, like Gecko)  Chrome/52.0.2493.215 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_7_3; like Mac OS X) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/53.0.3326.129 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_5_1; like Mac OS X) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/49.0.1957.279 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G470 Build/LRX22C) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/55.0.2567.187 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-N910A Build/LRX22C) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/51.0.2001.150 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG-F500L Build/KOT49I) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/49.0.2248.349 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Nexus5 V6.1 Build/KOT49H) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/53.0.3109.256 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_6; like Mac OS X) AppleWebKit/600.47 (KHTML, like Gecko)  Chrome/48.0.2018.362 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2210b Build/JSS15J) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/51.0.3694.202 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-D846T Build/LMY47X) AppleWebKit/535.28 (KHTML, like Gecko)  Chrome/53.0.2012.239 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_5; like Mac OS X) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/47.0.1350.116 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D707 Build/LRX22G) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/51.0.2248.297 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2; like Mac OS X) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/52.0.1275.266 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_2_1; like Mac OS X) AppleWebKit/536.49 (KHTML, like Gecko)  Chrome/49.0.3941.221 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-G3572T Build/JLS36C) AppleWebKit/602.19 (KHTML, like Gecko)  Chrome/53.0.3429.392 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D335 Build/LRX22G) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/55.0.1787.298 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 9 Build/LRX22C) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/48.0.2369.393 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; Nexus 5 Build/MDB08I) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/55.0.1156.236 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_5; like Mac OS X) AppleWebKit/600.46 (KHTML, like Gecko)  Chrome/50.0.3240.105 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/49.0.2391.152 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_8; like Mac OS X) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/55.0.3454.306 Mobile Safari/536.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_5; like Mac OS X) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/49.0.2715.145 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_3_2 like Mac OS X) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/50.0.1553.320 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-N911S Build/JLS36C) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/50.0.1795.196 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_1; like Mac OS X) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/48.0.2231.265 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; Nokia 1000 LTE Build/GRK39F) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/52.0.1211.172 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_6_3; like Mac OS X) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/49.0.3829.335 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Nexus 7P Build/NME91E) AppleWebKit/602.15 (KHTML, like Gecko)  Chrome/55.0.2377.100 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/54.0.3022.386 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; IQ4500 Quad Build/KOT49H) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/51.0.2728.391 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_4_0 like Mac OS X) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/49.0.1556.175 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1; like Mac OS X) AppleWebKit/603.3 (KHTML, like Gecko)  Chrome/51.0.2164.399 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/53.0.2315.385 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_9_3; like Mac OS X) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/53.0.2858.165 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/48.0.1298.393 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nexus_ 6 Build/KTU84P) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/55.0.2551.390 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-N910FY Build/LRX22C) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/54.0.1332.327 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/53.0.1654.195 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; Nokia 3210 Build/IMM76D) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/49.0.1162.200 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 6 Build/NPD90G) AppleWebKit/535.40 (KHTML, like Gecko)  Chrome/52.0.3284.172 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_3; like Mac OS X) AppleWebKit/534.7 (KHTML, like Gecko)  Chrome/55.0.1610.380 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 6 Build/MDB08I) AppleWebKit/602.14 (KHTML, like Gecko)  Chrome/48.0.3666.253 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_4_6; like Mac OS X) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/55.0.3702.270 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_8_2 like Mac OS X) AppleWebKit/533.35 (KHTML, like Gecko)  Chrome/52.0.2410.282 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/537.33 (KHTML, like Gecko)  Chrome/55.0.2506.204 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-V600 Build/KOT49I) AppleWebKit/537.15 (KHTML, like Gecko)  Chrome/52.0.1342.188 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-A800 Build/LRX22G) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/53.0.1141.342 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_0_1; like Mac OS X) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/51.0.1113.359 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Lenovo P786 Build/Lenovo) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/53.0.3063.307 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/52.0.1138.160 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_6_2; like Mac OS X) AppleWebKit/536.20 (KHTML, like Gecko)  Chrome/54.0.3262.304 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_4_8; like Mac OS X) AppleWebKit/533.35 (KHTML, like Gecko)  Chrome/49.0.2104.244 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_2_9 like Mac OS X) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/51.0.1096.126 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/53.0.1300.213 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/54.0.2518.100 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_8; like Mac OS X) AppleWebKit/535.40 (KHTML, like Gecko)  Chrome/55.0.3452.374 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/533.5 (KHTML, like Gecko)  Chrome/55.0.1657.178 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_1_4; like Mac OS X) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/50.0.1002.266 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D705 Build/LRX22G) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/48.0.2354.387 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_0_9; like Mac OS X) AppleWebKit/537.35 (KHTML, like Gecko)  Chrome/51.0.2106.306 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_2_4 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko)  Chrome/49.0.2285.108 Mobile Safari/603.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_5_2; like Mac OS X) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/53.0.3316.335 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H900 Build/NRD90M) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/55.0.1371.398 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-E500L Build/KTU84P) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/53.0.3029.342 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_1_5 like Mac OS X) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/47.0.3033.214 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_3_8; like Mac OS X) AppleWebKit/537.23 (KHTML, like Gecko)  Chrome/54.0.1062.224 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/49.0.1928.392 Mobile Safari/535.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H930 Build/NRD90M) AppleWebKit/537.18 (KHTML, like Gecko)  Chrome/51.0.1659.253 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-F200K Build/KOT49H) AppleWebKit/537.35 (KHTML, like Gecko)  Chrome/54.0.3914.316 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9700 Build/KTU84P) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/54.0.2838.212 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; XT1070 Build/SU6-7.3) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/55.0.1418.375 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_9; like Mac OS X) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/54.0.2402.165 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_8_6; like Mac OS X) AppleWebKit/533.36 (KHTML, like Gecko)  Chrome/54.0.2805.151 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_7_9; like Mac OS X) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/54.0.1164.103 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; XT1042 Build/[KXB20.9|KXC21.5]) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/55.0.3721.257 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_7_7; like Mac OS X) AppleWebKit/534.30 (KHTML, like Gecko)  Chrome/51.0.3961.379 Mobile Safari/600.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_7_6 like Mac OS X) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/47.0.1589.143 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SM-A700F Build/LRX22G) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/47.0.2005.267 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_2; like Mac OS X) AppleWebKit/600.19 (KHTML, like Gecko)  Chrome/53.0.1842.305 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus S Build/GRJ22) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/55.0.1352.248 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MMB29K) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/48.0.2146.131 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HP Compaq 2310b Build/JSS15J) AppleWebKit/534.45 (KHTML, like Gecko)  Chrome/47.0.3510.337 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC Butterfly S 901s Build/LRX22G) AppleWebKit/534.7 (KHTML, like Gecko)  Chrome/53.0.3760.119 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_0_9; like Mac OS X) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/47.0.1154.132 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; LG-D720 Build/LRX22G) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/55.0.3979.166 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 6X Build/MDB08I) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/51.0.1484.344 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_3_1; like Mac OS X) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/49.0.2959.119 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/54.0.2916.176 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Elephone P6000 Build/KTU84P) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/51.0.1804.347 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/52.0.2490.128 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_0_7 like Mac OS X) AppleWebKit/602.33 (KHTML, like Gecko)  Chrome/55.0.2683.250 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_7_1; like Mac OS X) AppleWebKit/602.12 (KHTML, like Gecko)  Chrome/48.0.3556.208 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_2_5; like Mac OS X) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/48.0.1619.344 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia Build/NDE63X) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/51.0.2655.121 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_2_3 like Mac OS X) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/50.0.2066.260 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/52.0.2968.194 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 9P Build/NME91E) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/52.0.2267.317 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-N9006 Build/KOT49H) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/49.0.2836.365 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_1_5; like Mac OS X) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/51.0.2465.294 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/600.6 (KHTML, like Gecko)  Chrome/51.0.2075.251 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9288 Build/LMY47X) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/50.0.3978.253 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_2; like Mac OS X) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/52.0.1043.191 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 5X Build/MMB29V) AppleWebKit/533.39 (KHTML, like Gecko)  Chrome/54.0.2077.331 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTO XT1570 MOTO X STYLE Build/LXB22) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/48.0.3702.144 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_6_5; like Mac OS X) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/54.0.2847.113 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/49.0.1488.143 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/52.0.2323.210 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_6_3 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko)  Chrome/51.0.1841.284 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G928S Build/LRX22G) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/54.0.2654.346 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SM-J110F Build/KTU84P) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/51.0.1898.333 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_1_7; like Mac OS X) AppleWebKit/536.31 (KHTML, like Gecko)  Chrome/49.0.1446.169 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H900 Build/NRD90C) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/54.0.1442.197 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M9 dual sim Build/MRA58K) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/52.0.2624.399 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/49.0.1212.383 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; E:number:20-23:31 Build/24.0.A.1.34) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/55.0.2800.214 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SAMSUNG GT-I9505V Build/KOT49H) AppleWebKit/600.17 (KHTML, like Gecko)  Chrome/48.0.1512.392 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_9; like Mac OS X) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/55.0.2387.392 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; LG-H910 Build/NRD90M) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/53.0.1910.263 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 8X Build/NME91E) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/50.0.2607.129 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_5_3; like Mac OS X) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/54.0.3726.212 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/50.0.2871.236 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_0_5; like Mac OS X) AppleWebKit/603.3 (KHTML, like Gecko)  Chrome/53.0.1547.129 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_8_4; like Mac OS X) AppleWebKit/602.21 (KHTML, like Gecko)  Chrome/47.0.3532.248 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_2; like Mac OS X) AppleWebKit/535.35 (KHTML, like Gecko)  Chrome/51.0.3417.191 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D336 Build/LRX22G) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/51.0.2904.342 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_6_5; like Mac OS X) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/51.0.3696.317 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTOROLA MOTO G XT1068 Build/LPD23) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/49.0.2358.172 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_5; like Mac OS X) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/47.0.2063.106 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel C Build/NME91E) AppleWebKit/534.25 (KHTML, like Gecko)  Chrome/55.0.1353.262 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_8; like Mac OS X) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/53.0.2571.214 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_8_2; like Mac OS X) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/50.0.2816.172 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_7_4; like Mac OS X) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/55.0.1308.303 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_5_4 like Mac OS X) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/47.0.3496.120 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One_M8 Build/MRA58K) AppleWebKit/533.26 (KHTML, like Gecko)  Chrome/52.0.1172.269 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H910 Build/NRD90C) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/54.0.3991.176 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/49.0.1096.243 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/52.0.3786.190 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; LG-D958 Build/KOT49I) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/47.0.1973.185 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_9 like Mac OS X) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/53.0.3576.179 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One801e dual sim Build/MRA58K) AppleWebKit/536.24 (KHTML, like Gecko)  Chrome/47.0.3123.296 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 6X Build/NPD90G) AppleWebKit/601.21 (KHTML, like Gecko)  Chrome/47.0.2805.235 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTOROLA XT1021 Build/LPK23) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/48.0.1624.341 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Pixel C Build/NME91E) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/48.0.3965.350 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG-F200L Build/KOT49I) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/55.0.1235.294 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 7 Build/LMY48B) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/53.0.3490.116 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HP 735 Notebook PC Build/JLS36C) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/50.0.1704.206 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_7_1; like Mac OS X) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/49.0.1839.328 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-D280 Build/KOT49I) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/50.0.3461.265 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; XT1050 Build/SU6-7.3) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/54.0.1845.201 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_0_9; like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/47.0.2538.349 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_8_2; like Mac OS X) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/52.0.3311.345 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_5_8 like Mac OS X) AppleWebKit/536.20 (KHTML, like Gecko)  Chrome/47.0.1090.247 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_3 like Mac OS X) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/54.0.2091.180 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_7_9; like Mac OS X) AppleWebKit/603.3 (KHTML, like Gecko)  Chrome/54.0.3589.256 Mobile Safari/536.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_8_4; like Mac OS X) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/49.0.3988.103 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_1 like Mac OS X) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/50.0.2780.357 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Nexus 5P Build/NPD90G) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/49.0.3611.143 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 9X Build/NPD90G) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/49.0.1388.289 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6 Build/MDB08L) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/47.0.1492.127 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/54.0.2630.174 Mobile Safari/603.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_5_2; like Mac OS X) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/50.0.2191.115 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2; like Mac OS X) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/48.0.3745.399 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; SM-N9005 Build/KOT49H) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/55.0.2111.335 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_1_1; like Mac OS X) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/49.0.3970.354 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_6_0 like Mac OS X) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/51.0.2007.280 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTEW) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/52.0.2598.313 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G9350F Build/LMY47X) AppleWebKit/537.24 (KHTML, like Gecko)  Chrome/54.0.3830.347 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2w Build/JSS15J) AppleWebKit/601.19 (KHTML, like Gecko)  Chrome/52.0.1340.195 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_1_2 like Mac OS X) AppleWebKit/533.47 (KHTML, like Gecko)  Chrome/53.0.3644.214 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Lenovo P775 Build/JRO03C) AppleWebKit/536.3 (KHTML, like Gecko)  Chrome/54.0.2505.129 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO XT1575 Build/LXB22) AppleWebKit/602.16 (KHTML, like Gecko)  Chrome/47.0.2218.381 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_2_4; like Mac OS X) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/55.0.1650.249 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_2; like Mac OS X) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/52.0.2900.270 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 5P Build/MDB08I) AppleWebKit/600.16 (KHTML, like Gecko)  Chrome/51.0.1986.194 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 7P Build/NPD90G) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/52.0.2760.197 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; GT-I9200 Build/KTU84P) AppleWebKit/535.46 (KHTML, like Gecko)  Chrome/50.0.2161.142 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_5_7 like Mac OS X) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/49.0.1847.159 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/49.0.1329.272 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; GT-I9300 Build/JDQ39) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/54.0.1898.106 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/48.0.2738.373 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G470 Build/LRX22C) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/50.0.2098.299 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_9_7; like Mac OS X) AppleWebKit/600.5 (KHTML, like Gecko)  Chrome/50.0.1689.392 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/534.22 (KHTML, like Gecko)  Chrome/55.0.3467.252 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_4_8 like Mac OS X) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/53.0.3390.382 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_2_9 like Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/50.0.2408.325 Mobile Safari/600.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/47.0.3318.197 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LPD23) AppleWebKit/536.25 (KHTML, like Gecko)  Chrome/54.0.2123.221 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_1_8 like Mac OS X) AppleWebKit/600.21 (KHTML, like Gecko)  Chrome/51.0.2352.355 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/49.0.1064.251 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_7_9 like Mac OS X) AppleWebKit/600.8 (KHTML, like Gecko)  Chrome/55.0.3372.144 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_7; like Mac OS X) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/54.0.3127.175 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-G490 Build/LRX22G) AppleWebKit/601.4 (KHTML, like Gecko)  Chrome/51.0.2759.316 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_7_8 like Mac OS X) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/52.0.2122.309 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_6_1; like Mac OS X) AppleWebKit/535.27 (KHTML, like Gecko)  Chrome/51.0.3766.168 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LMY48B) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/55.0.3903.195 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_4_5; like Mac OS X) AppleWebKit/537.44 (KHTML, like Gecko)  Chrome/53.0.1105.125 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_8_7 like Mac OS X) AppleWebKit/534.44 (KHTML, like Gecko)  Chrome/48.0.3929.243 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-N910G Build/LRX22C) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/47.0.3586.224 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/54.0.2378.172 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_3_6; like Mac OS X) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/53.0.1252.105 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/53.0.2803.395 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_3_9; like Mac OS X) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/49.0.2826.340 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_4_7 like Mac OS X) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/48.0.2625.112 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_6_0; like Mac OS X) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/54.0.2021.274 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_2_9 like Mac OS X) AppleWebKit/602.25 (KHTML, like Gecko)  Chrome/52.0.2672.301 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_7_8 like Mac OS X) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/54.0.1843.302 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/602.34 (KHTML, like Gecko)  Chrome/54.0.2808.284 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; HTC 80:number1-2e Build/LRX22G) AppleWebKit/600.29 (KHTML, like Gecko)  Chrome/50.0.3056.164 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/55.0.3649.314 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0_4; like Mac OS X) AppleWebKit/533.32 (KHTML, like Gecko)  Chrome/49.0.2518.291 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_5_7 like Mac OS X) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/48.0.2861.203 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_3; like Mac OS X) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/47.0.2037.301 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_9; like Mac OS X) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/50.0.2022.384 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_5_2; like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/49.0.3757.157 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D329 Build/LRX22G) AppleWebKit/536.34 (KHTML, like Gecko)  Chrome/52.0.3153.157 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_9_8 like Mac OS X) AppleWebKit/534.29 (KHTML, like Gecko)  Chrome/54.0.2110.180 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_1_2 like Mac OS X) AppleWebKit/534.9 (KHTML, like Gecko)  Chrome/50.0.3306.320 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; HTC One_M8 Build/KOT49H) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/55.0.3332.191 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_0_1 like Mac OS X) AppleWebKit/534.18 (KHTML, like Gecko)  Chrome/53.0.2865.356 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; ALCATEL ONE TOUCH 7031D Build/KOT49H) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/49.0.3603.400 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350F Build/LMY47X) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/54.0.2217.282 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_0_9; like Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/53.0.2096.294 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_5_2; like Mac OS X) AppleWebKit/601.48 (KHTML, like Gecko)  Chrome/48.0.2566.273 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_3; like Mac OS X) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/49.0.3436.252 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H900 Build/NRD90M) AppleWebKit/535.29 (KHTML, like Gecko)  Chrome/51.0.1112.110 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_9_9; like Mac OS X) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/53.0.1031.394 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_9 like Mac OS X) AppleWebKit/534.22 (KHTML, like Gecko)  Chrome/49.0.1481.255 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_6_6; like Mac OS X) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/51.0.2267.150 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_5 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/48.0.2718.393 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_8_6; like Mac OS X) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/50.0.1565.335 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/47.0.2940.257 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SAMSUNG SM-N8010 Build/KVT49L) AppleWebKit/602.45 (KHTML, like Gecko)  Chrome/52.0.1755.372 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_3; like Mac OS X) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/53.0.1685.334 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_9_1; like Mac OS X) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/50.0.3364.157 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/47.0.1130.234 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_2_9 like Mac OS X) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/48.0.2087.322 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO X PURE XT1575 Build/LXB22) AppleWebKit/602.34 (KHTML, like Gecko)  Chrome/50.0.3437.289 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_6_7; like Mac OS X) AppleWebKit/536.16 (KHTML, like Gecko)  Chrome/52.0.3921.348 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G928X Build/LMY47X) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/55.0.1552.218 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_4; like Mac OS X) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/50.0.2660.107 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_5_3; like Mac OS X) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/55.0.3246.214 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-A700 Build/LMY47X) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/51.0.3773.371 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_8_1; like Mac OS X) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/50.0.2952.214 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_6; like Mac OS X) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/49.0.1388.227 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_8; like Mac OS X) AppleWebKit/601.17 (KHTML, like Gecko)  Chrome/52.0.2132.209 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; XT1080 Build/SU6-7.3) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/53.0.2404.245 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/53.0.1367.199 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_5_2 like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/50.0.3166.284 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_8_6; like Mac OS X) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/54.0.1083.111 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_1_5; like Mac OS X) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/55.0.2807.148 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nexus5 V7.1 Build/KOT49H) AppleWebKit/603.28 (KHTML, like Gecko)  Chrome/51.0.2275.222 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_2_4 like Mac OS X) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/50.0.1349.233 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_1_4 like Mac OS X) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/49.0.3315.164 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_9_4; like Mac OS X) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/49.0.1316.270 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350L Build/MMB29M) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/47.0.1441.103 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_3_6; like Mac OS X) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/48.0.2096.259 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_4_9; like Mac OS X) AppleWebKit/534.24 (KHTML, like Gecko)  Chrome/54.0.3031.327 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/600.21 (KHTML, like Gecko)  Chrome/49.0.3056.111 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_3_1; like Mac OS X) AppleWebKit/600.21 (KHTML, like Gecko)  Chrome/52.0.1717.258 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SGH-I337 Build/KOT49H) AppleWebKit/602.7 (KHTML, like Gecko)  Chrome/47.0.1867.313 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/50.0.2779.301 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 wifi Build/GRK39F) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/53.0.1059.371 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_3_3; like Mac OS X) AppleWebKit/603.13 (KHTML, like Gecko)  Chrome/47.0.2535.249 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-G9350I Build/MMB29K) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/55.0.2808.210 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_2_3 like Mac OS X) AppleWebKit/535.31 (KHTML, like Gecko)  Chrome/52.0.1855.270 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/47.0.3898.251 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_7_4; like Mac OS X) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/53.0.1614.124 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/52.0.2295.178 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_0_2 like Mac OS X) AppleWebKit/534.18 (KHTML, like Gecko)  Chrome/54.0.2992.366 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D723 Build/LRX22G) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/49.0.3172.370 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_5_3; like Mac OS X) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/54.0.2124.101 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Google Nexus 7 Build/KOT49H) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/49.0.3594.212 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_3; like Mac OS X) AppleWebKit/603.33 (KHTML, like Gecko)  Chrome/52.0.2818.395 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_6 like Mac OS X) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/55.0.2350.105 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; HTC One809d dual sim Build/KOT49H) AppleWebKit/534.18 (KHTML, like Gecko)  Chrome/49.0.1799.322 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_5_0 like Mac OS X) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/49.0.1674.289 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_8_7 like Mac OS X) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/47.0.2231.116 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_2_3 like Mac OS X) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/49.0.3308.185 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_4_6 like Mac OS X) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/51.0.3181.119 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/603.20 (KHTML, like Gecko)  Chrome/48.0.2193.155 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_4; like Mac OS X) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/48.0.3571.243 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/55.0.3795.366 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/601.24 (KHTML, like Gecko)  Chrome/50.0.3793.391 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; Nokia 1100 LTE Build/GRK39F) AppleWebKit/533.34 (KHTML, like Gecko)  Chrome/51.0.2676.113 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_3_6; like Mac OS X) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/49.0.1419.300 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2t Build/LRX22G) AppleWebKit/535.35 (KHTML, like Gecko)  Chrome/51.0.3880.345 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Lenovo P776 Build/JRO03C) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/52.0.2622.113 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5; like Mac OS X) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/54.0.3122.305 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_9_4 like Mac OS X) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/53.0.2624.254 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC OneS Build/MRA58K) AppleWebKit/537.30 (KHTML, like Gecko)  Chrome/50.0.2935.344 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_9; like Mac OS X) AppleWebKit/603.40 (KHTML, like Gecko)  Chrome/50.0.1217.328 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_0; like Mac OS X) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/54.0.2265.218 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One801e dual sim Build/MRA58K) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/50.0.2581.262 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_2_2 like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/48.0.3647.255 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_3_8 like Mac OS X) AppleWebKit/601.16 (KHTML, like Gecko)  Chrome/54.0.3833.175 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_5_0; like Mac OS X) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/52.0.1061.152 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_8_1 like Mac OS X) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/54.0.2144.353 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_8_9; like Mac OS X) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/52.0.3696.189 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Elephone P6000 Build/KTU84P) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/54.0.1223.153 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-T810 Build/LRX22G) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/55.0.2771.159 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-T530 Build/KTU84P) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/54.0.2199.322 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 8 Build/LRX22C) AppleWebKit/535.45 (KHTML, like Gecko)  Chrome/50.0.1492.214 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/50.0.3547.248 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 6 Build/NPD90G) AppleWebKit/535.48 (KHTML, like Gecko)  Chrome/54.0.2332.319 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; GT-I9502I Build/KOT49H) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/52.0.2065.267 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_9_8 like Mac OS X) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/55.0.3457.157 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; LG-F400S Build/KOT49I) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/53.0.2153.364 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G912T Build/KOT49I) AppleWebKit/603.34 (KHTML, like Gecko)  Chrome/55.0.3817.357 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_5_6; like Mac OS X) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/48.0.2751.182 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_7_1; like Mac OS X) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/50.0.2102.344 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_7_7 like Mac OS X) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/52.0.3138.219 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_9_3; like Mac OS X) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/54.0.2978.205 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/55.0.3806.308 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_9_9; like Mac OS X) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/49.0.3221.335 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC 80:number1-2w Build/JSS15J) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/47.0.1824.381 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_8; like Mac OS X) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/52.0.2551.230 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/51.0.2942.362 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/51.0.3967.305 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-G320R5 Build/JLS36C) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/52.0.1273.215 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_9_9 like Mac OS X) AppleWebKit/536.34 (KHTML, like Gecko)  Chrome/50.0.2239.132 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_4_3 like Mac OS X) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/53.0.1944.137 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_3 like Mac OS X) AppleWebKit/535.31 (KHTML, like Gecko)  Chrome/50.0.2685.196 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_5_8 like Mac OS X) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/48.0.2457.331 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3310 Build/IMM76D) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/52.0.2836.146 Mobile Safari/534.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/600.29 (KHTML, like Gecko)  Chrome/47.0.1422.135 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/50.0.3592.185 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC 80:number1-2s Build/JSS15J) AppleWebKit/536.38 (KHTML, like Gecko)  Chrome/47.0.2194.255 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_7; like Mac OS X) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/49.0.1531.393 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H910 Build/NRD90C) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/52.0.1745.107 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One0P8B2 Build/MRA58K) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/47.0.1190.329 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_5_1; like Mac OS X) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/51.0.3563.240 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_5_8 like Mac OS X) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/55.0.2305.137 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 9 Build/LRX22C) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/51.0.3757.289 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_4_7; like Mac OS X) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/48.0.2477.259 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G925L Build/MMB29V) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/55.0.1154.398 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_4; like Mac OS X) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/54.0.2125.279 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_6_3; like Mac OS X) AppleWebKit/600.16 (KHTML, like Gecko)  Chrome/54.0.2764.399 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/47.0.3173.186 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Google Nexus 5 Build/KOT49H) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/50.0.3455.362 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_6_1 like Mac OS X) AppleWebKit/602.45 (KHTML, like Gecko)  Chrome/55.0.3619.170 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_5 like Mac OS X) AppleWebKit/602.7 (KHTML, like Gecko)  Chrome/52.0.1577.268 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_1; like Mac OS X) AppleWebKit/602.25 (KHTML, like Gecko)  Chrome/51.0.1597.302 Mobile Safari/537.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC One 801s Build/JLS36C) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/47.0.1203.139 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_8_2; like Mac OS X) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/50.0.3687.262 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_6; like Mac OS X) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/49.0.2943.305 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/55.0.2063.261 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_9_6; like Mac OS X) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/54.0.2049.145 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_8; like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/52.0.2741.232 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO E XT1021 Build/LMY47Z) AppleWebKit/536.20 (KHTML, like Gecko)  Chrome/53.0.2946.283 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_5_1 like Mac OS X) AppleWebKit/601.40 (KHTML, like Gecko)  Chrome/49.0.2959.377 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_5_1; like Mac OS X) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/55.0.1899.368 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_7_4 like Mac OS X) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/48.0.1454.260 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; Nokia 1000 4G Build/GRK39F) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/55.0.1251.378 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_7_7; like Mac OS X) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/54.0.1092.214 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_7_0; like Mac OS X) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/54.0.1815.124 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SM-G900A Build/KOT49H) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/53.0.1582.212 Mobile Safari/535.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_8_5; like Mac OS X) AppleWebKit/536.39 (KHTML, like Gecko)  Chrome/49.0.1145.131 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; LG-H920 Build/NRD90M) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/48.0.2966.257 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L10) AppleWebKit/601.6 (KHTML, like Gecko)  Chrome/48.0.1948.283 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 7X Build/NME91E) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/54.0.2326.278 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_7_8; like Mac OS X) AppleWebKit/602.4 (KHTML, like Gecko)  Chrome/49.0.3293.198 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_2; like Mac OS X) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/47.0.1067.155 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTOROLA MOTO E XT1021 Build/LMY47Z) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/52.0.2607.267 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_7_1; like Mac OS X) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/54.0.1612.243 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_0_9; like Mac OS X) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/53.0.1166.365 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_4_5 like Mac OS X) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/52.0.3909.164 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_9_0; like Mac OS X) AppleWebKit/534.17 (KHTML, like Gecko)  Chrome/50.0.3031.289 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3; like Mac OS X) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/54.0.3676.259 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2310b Build/JLS36C) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/52.0.3706.349 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_6_5; like Mac OS X) AppleWebKit/601.2 (KHTML, like Gecko)  Chrome/53.0.3853.381 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_4_1 like Mac OS X) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/53.0.2539.152 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_9_6; like Mac OS X) AppleWebKit/536.3 (KHTML, like Gecko)  Chrome/50.0.3479.221 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L10) AppleWebKit/536.4 (KHTML, like Gecko)  Chrome/54.0.1093.382 Mobile Safari/534.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_5_8; like Mac OS X) AppleWebKit/533.14 (KHTML, like Gecko)  Chrome/54.0.3843.102 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/600.46 (KHTML, like Gecko)  Chrome/51.0.3239.374 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; SM-D925V Build/MMB29K) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/51.0.1984.376 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_0_3; like Mac OS X) AppleWebKit/536.13 (KHTML, like Gecko)  Chrome/52.0.1375.203 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO G Build/LXB22) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/53.0.1290.104 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_7_2; like Mac OS X) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/52.0.2763.123 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_3_7; like Mac OS X) AppleWebKit/537.30 (KHTML, like Gecko)  Chrome/54.0.2033.170 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/55.0.2340.284 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_4_0 like Mac OS X) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/50.0.3938.271 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_9_7 like Mac OS X) AppleWebKit/535.3 (KHTML, like Gecko)  Chrome/52.0.1400.380 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_1_7; like Mac OS X) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/54.0.2781.335 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; Elephone P3000 Build/KTU84P) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/55.0.1872.152 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/602.30 (KHTML, like Gecko)  Chrome/49.0.1107.169 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_8_6; like Mac OS X) AppleWebKit/537.10 (KHTML, like Gecko)  Chrome/47.0.1758.200 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_9; like Mac OS X) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/52.0.2485.180 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/53.0.1610.109 Mobile Safari/534.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-D834F Build/LMY47X) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/47.0.1479.255 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_0_7 like Mac OS X) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/50.0.2250.297 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-G900W8 Build/KOT49H) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/51.0.2106.228 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/47.0.1339.331 Mobile Safari/537.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; Nokia 1000 4G Build/GRK39F) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/55.0.2467.180 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-F400L Build/KOT49I) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/55.0.1930.267 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Google Nexus 5 Build/KOT49H) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/53.0.1416.117 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; IQ4502 Quad Build/KOT49H) AppleWebKit/534.2 (KHTML, like Gecko)  Chrome/47.0.2170.188 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-G440 Build/LRX22C) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/52.0.1579.321 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_6_6; like Mac OS X) AppleWebKit/534.15 (KHTML, like Gecko)  Chrome/55.0.2717.138 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_7 like Mac OS X) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/48.0.1871.200 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; GT-I9400 Build/KTU84P) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/49.0.1162.254 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-G920FD Build/KTU84F) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/47.0.1162.296 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_2; like Mac OS X) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/55.0.3098.170 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G330 Build/JLS36I) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/50.0.2539.170 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_4_8; like Mac OS X) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/48.0.2365.124 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_3_8; like Mac OS X) AppleWebKit/602.44 (KHTML, like Gecko)  Chrome/55.0.2194.389 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_8_4 like Mac OS X) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/51.0.1411.149 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_9_2; like Mac OS X) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/48.0.3039.321 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L11) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/48.0.3501.234 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/537.38 (KHTML, like Gecko)  Chrome/52.0.2574.144 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_3_4 like Mac OS X) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/53.0.1745.260 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_9_4; like Mac OS X) AppleWebKit/533.47 (KHTML, like Gecko)  Chrome/53.0.2011.154 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_0_4 like Mac OS X) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/51.0.3370.187 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_5_5; like Mac OS X) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/53.0.1222.382 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_9_6 like Mac OS X) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/53.0.1234.392 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_2_8 like Mac OS X) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/53.0.1102.261 Mobile Safari/536.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 5X Build/NME91E) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/51.0.3310.367 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SAMSUNG GT-I9404V Build/KOT49H) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/52.0.2390.187 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G9008 Build/LRX21T) AppleWebKit/603.34 (KHTML, like Gecko)  Chrome/48.0.3820.200 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_2_4; like Mac OS X) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/53.0.3175.255 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_5_3 like Mac OS X) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/49.0.2162.124 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_8_0 like Mac OS X) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/50.0.2233.344 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_2_8 like Mac OS X) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/47.0.1403.201 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; LG-H920 Build/NRD90M) AppleWebKit/537.3 (KHTML, like Gecko)  Chrome/49.0.3200.175 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_4_9; like Mac OS X) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/51.0.3398.118 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_7_4; like Mac OS X) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/54.0.1922.268 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; IQ4504 Quad Build/KOT49H) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/50.0.1624.240 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_7_3; like Mac OS X) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/53.0.1485.397 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 9 Build/LRX22C) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/50.0.3801.294 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; HTC One0P6B dual sim Build/KOT49H) AppleWebKit/533.26 (KHTML, like Gecko)  Chrome/55.0.2317.201 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_5_7; like Mac OS X) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/51.0.3870.302 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_5_0; like Mac OS X) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/54.0.1244.110 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_8_7 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko)  Chrome/51.0.1655.342 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_9_4; like Mac OS X) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/53.0.2819.242 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/537.18 (KHTML, like Gecko)  Chrome/55.0.2680.205 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG SM-T530 Build/KOT49H) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/51.0.3212.370 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Lenovo P785 Build/Lenovo) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/54.0.1779.320 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_1_3; like Mac OS X) AppleWebKit/534.13 (KHTML, like Gecko)  Chrome/48.0.2343.315 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nexus 7 Build/KOT49H) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/52.0.2110.387 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_6_4 like Mac OS X) AppleWebKit/535.13 (KHTML, like Gecko)  Chrome/54.0.1839.206 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_5_5; like Mac OS X) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/54.0.2543.391 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_9_3; like Mac OS X) AppleWebKit/533.33 (KHTML, like Gecko)  Chrome/48.0.2182.399 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_2_6; like Mac OS X) AppleWebKit/601.17 (KHTML, like Gecko)  Chrome/50.0.1943.230 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_2_5; like Mac OS X) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/49.0.2165.179 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_6_2; like Mac OS X) AppleWebKit/537.30 (KHTML, like Gecko)  Chrome/53.0.3976.144 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HP 635 Notebook PC Build/JSS15J) AppleWebKit/536.26 (KHTML, like Gecko)  Chrome/52.0.1114.400 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-P810 Build/LRX22G) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/54.0.2894.173 Mobile Safari/535.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-T350 Build/LRX22G) AppleWebKit/533.42 (KHTML, like Gecko)  Chrome/50.0.3895.106 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7P Build/MMB29V) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/52.0.1173.277 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_5; like Mac OS X) AppleWebKit/535.11 (KHTML, like Gecko)  Chrome/54.0.1047.141 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus_S_4G Build/GRJ22) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/55.0.3826.340 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_4_3; like Mac OS X) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/51.0.2936.285 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_3_7 like Mac OS X) AppleWebKit/537.5 (KHTML, like Gecko)  Chrome/50.0.2422.345 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SM-N8010 Build/JZO54K) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/51.0.3566.286 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-H220 Build/KOT49I) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/49.0.1547.308 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-E989 Build/KOT49I) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/49.0.1858.341 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-T275a Build/JLS36C) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/50.0.3458.220 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_5_7; like Mac OS X) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/47.0.1431.328 Mobile Safari/603.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_2 like Mac OS X) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/53.0.2879.121 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_6_3; like Mac OS X) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/53.0.1903.163 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G9358 Build/LMY47X) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/51.0.3157.399 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/53.0.3751.119 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_6; like Mac OS X) AppleWebKit/603.2 (KHTML, like Gecko)  Chrome/49.0.2627.394 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G935FD Build/LMY47X) AppleWebKit/533.42 (KHTML, like Gecko)  Chrome/54.0.3737.257 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_1_1 like Mac OS X) AppleWebKit/537.31 (KHTML, like Gecko)  Chrome/54.0.1075.143 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/48.0.2105.271 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG-SM-N915A Build/LRX22C) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/52.0.2288.399 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_4_7 like Mac OS X) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/53.0.3520.267 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; GT-I9800 Build/KTU84P) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/52.0.1391.336 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_5_1; like Mac OS X) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/54.0.1513.246 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_8_5; like Mac OS X) AppleWebKit/533.23 (KHTML, like Gecko)  Chrome/47.0.1697.396 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_5_1 like Mac OS X) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/51.0.1620.307 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_0_1 like Mac OS X) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/47.0.3387.163 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Google Nexus 5 Build/KOT49H) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/54.0.3907.391 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_2_4; like Mac OS X) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/49.0.3096.104 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG-SM-N910A Build/LRX22C) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/50.0.3442.352 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D709 Build/LRX22G) AppleWebKit/602.49 (KHTML, like Gecko)  Chrome/48.0.2438.333 Mobile Safari/602.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 8X Build/NPD90G) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/51.0.3281.344 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-E500F Build/KTU84P) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/53.0.2878.146 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_7_0; like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/50.0.2918.380 Mobile Safari/534.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Nexus 7 Build/KOT49H) AppleWebKit/600.8 (KHTML, like Gecko)  Chrome/47.0.1395.322 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_7_2 like Mac OS X) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/48.0.2552.367 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_8_3 like Mac OS X) AppleWebKit/535.46 (KHTML, like Gecko)  Chrome/53.0.3788.154 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; LG-H900 Build/NRD90M) AppleWebKit/535.20 (KHTML, like Gecko)  Chrome/55.0.2754.281 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_0 like Mac OS X) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/48.0.3027.233 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/54.0.1938.126 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; GT-I9400 Build/KTU84P) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/49.0.2162.224 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/534.50 (KHTML, like Gecko)  Chrome/54.0.2725.128 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_9 like Mac OS X) AppleWebKit/600.6 (KHTML, like Gecko)  Chrome/55.0.1012.228 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-T555 Build/LRX22G) AppleWebKit/537.13 (KHTML, like Gecko)  Chrome/48.0.3829.294 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-G925T Build/LRX21T) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/51.0.2718.160 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/55.0.2660.275 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; Nokia 1100 LTE Build/GRK39F) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/51.0.2096.393 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/51.0.1324.137 Mobile Safari/537.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_8_8; like Mac OS X) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/55.0.1786.128 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG-SM-N910F Build/LRX22C) AppleWebKit/601.2 (KHTML, like Gecko)  Chrome/49.0.3700.180 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_4_9 like Mac OS X) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/49.0.2912.149 Mobile Safari/601.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_8_6; like Mac OS X) AppleWebKit/602.43 (KHTML, like Gecko)  Chrome/50.0.2901.335 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_0_3; like Mac OS X) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/53.0.1248.357 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-A700T Build/LRX22G) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/54.0.2135.333 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_4_8 like Mac OS X) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/52.0.3461.179 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_6_8 like Mac OS X) AppleWebKit/603.46 (KHTML, like Gecko)  Chrome/48.0.1306.182 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4; like Mac OS X) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/49.0.1760.362 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_7; like Mac OS X) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/53.0.3753.355 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-F300S Build/KOT49H) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/52.0.2835.200 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/600.35 (KHTML, like Gecko)  Chrome/54.0.3184.344 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_7_3; like Mac OS X) AppleWebKit/535.48 (KHTML, like Gecko)  Chrome/52.0.3667.247 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7X Build/MMB29K) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/55.0.2243.104 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/53.0.3336.176 Mobile Safari/534.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-G900M Build/LRX21T) AppleWebKit/601.17 (KHTML, like Gecko)  Chrome/50.0.1567.227 Mobile Safari/536.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nokia 3310 Build/IMM76D) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/48.0.3508.233 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_3; like Mac OS X) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/49.0.2854.297 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_0 like Mac OS X) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/48.0.3864.136 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_5; like Mac OS X) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/49.0.2118.334 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_0_3 like Mac OS X) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/49.0.3151.345 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_7_7 like Mac OS X) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/49.0.2461.400 Mobile Safari/603.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_9_4; like Mac OS X) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/50.0.1730.209 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_2; like Mac OS X) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/50.0.2607.161 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_1; like Mac OS X) AppleWebKit/601.39 (KHTML, like Gecko)  Chrome/50.0.1273.110 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; HTC Butterfly S 919s Build/LRX22G) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/47.0.3091.263 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/48.0.2122.119 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_0_0 like Mac OS X) AppleWebKit/534.6 (KHTML, like Gecko)  Chrome/52.0.1347.255 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_9; like Mac OS X) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/54.0.3788.280 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; GT-I9300 Build/KTU84P) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/48.0.3741.283 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G935FD Build/LMY47X) AppleWebKit/536.20 (KHTML, like Gecko)  Chrome/55.0.3552.112 Mobile Safari/536.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_9_0; like Mac OS X) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/47.0.2124.353 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/51.0.2814.318 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-N712A Build/JLS36C) AppleWebKit/601.19 (KHTML, like Gecko)  Chrome/55.0.3480.139 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_9_3; like Mac OS X) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/50.0.1935.300 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D726 Build/LRX22G) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/55.0.3189.298 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_9_3 like Mac OS X) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/53.0.3263.290 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/536.23 (KHTML, like Gecko)  Chrome/52.0.3909.264 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1_9; like Mac OS X) AppleWebKit/602.24 (KHTML, like Gecko)  Chrome/48.0.1783.154 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_6; like Mac OS X) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/47.0.1580.190 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_6_7; like Mac OS X) AppleWebKit/537.38 (KHTML, like Gecko)  Chrome/50.0.3210.365 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F-ORANGE Build/LRX22G) AppleWebKit/602.28 (KHTML, like Gecko)  Chrome/55.0.2877.336 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Lenovo P782 Build/JRO03C) AppleWebKit/601.46 (KHTML, like Gecko)  Chrome/48.0.3146.375 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 7X Build/MDB08L) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/47.0.2090.144 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-G920M Build/MDB08L) AppleWebKit/534.42 (KHTML, like Gecko)  Chrome/50.0.1113.249 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_5_2; like Mac OS X) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/50.0.1770.251 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_7_3; like Mac OS X) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/55.0.3571.373 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_3_1 like Mac OS X) AppleWebKit/534.44 (KHTML, like Gecko)  Chrome/49.0.3350.356 Mobile Safari/536.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_9_1; like Mac OS X) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/48.0.2789.396 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SGH-I337M Build/KOT49H) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/54.0.3043.293 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/48.0.3363.315 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTO E XT1021 Build/LPK23) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/55.0.3344.273 Mobile Safari/600.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_9_9 like Mac OS X) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/54.0.2138.150 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_9_3; like Mac OS X) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/49.0.2422.156 Mobile Safari/601.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; Ascend G330 Build/JLS36I) AppleWebKit/601.47 (KHTML, like Gecko)  Chrome/50.0.3075.289 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/602.15 (KHTML, like Gecko)  Chrome/49.0.3530.215 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_0_7; like Mac OS X) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/49.0.2476.398 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_0_9; like Mac OS X) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/47.0.2165.320 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_1_2; like Mac OS X) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/51.0.2369.366 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_0_3 like Mac OS X) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/48.0.3373.246 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_7_7; like Mac OS X) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/51.0.3105.270 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One809d dual sim Build/MRA58K) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/49.0.3621.216 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_9_7 like Mac OS X) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/54.0.2294.347 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/534.12 (KHTML, like Gecko)  Chrome/49.0.1739.131 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_5_4 like Mac OS X) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/47.0.1916.246 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_6_3; like Mac OS X) AppleWebKit/600.8 (KHTML, like Gecko)  Chrome/50.0.2412.228 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_0_0; like Mac OS X) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/47.0.3513.245 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_9_3 like Mac OS X) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/54.0.1040.174 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2310b Build/JSS15J) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/51.0.3220.141 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_9 like Mac OS X) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/52.0.3130.292 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_0_6 like Mac OS X) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/47.0.3978.325 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_4_8; like Mac OS X) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/55.0.3200.294 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/52.0.2517.345 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_3_7 like Mac OS X) AppleWebKit/601.6 (KHTML, like Gecko)  Chrome/47.0.1187.302 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1_3; like Mac OS X) AppleWebKit/537.13 (KHTML, like Gecko)  Chrome/49.0.2491.219 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/50.0.3364.268 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus_S_4G Build/GRJ22) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/48.0.1082.144 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_6_2 like Mac OS X) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/53.0.3216.196 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_8_1; like Mac OS X) AppleWebKit/534.40 (KHTML, like Gecko)  Chrome/52.0.1452.181 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG-SM-N915F Build/LRX22C) AppleWebKit/537.3 (KHTML, like Gecko)  Chrome/47.0.1887.141 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 7 Build/LMY48B) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/50.0.1820.298 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_2_7; like Mac OS X) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/54.0.2716.221 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-D955 Build/KOT49H) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/51.0.1104.221 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 7 Build/LMY48B) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/55.0.1805.336 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/50.0.1557.266 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_9_6; like Mac OS X) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/48.0.1166.116 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_7_0 like Mac OS X) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/53.0.2397.171 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/54.0.1167.221 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_6_6 like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/49.0.2497.190 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_5_2; like Mac OS X) AppleWebKit/600.39 (KHTML, like Gecko)  Chrome/53.0.2660.190 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/50.0.3713.384 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_7_0; like Mac OS X) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/50.0.2264.368 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_4_7; like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/50.0.1418.398 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_2_2; like Mac OS X) AppleWebKit/601.2 (KHTML, like Gecko)  Chrome/53.0.2407.142 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/50.0.1942.179 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_0 like Mac OS X) AppleWebKit/602.14 (KHTML, like Gecko)  Chrome/48.0.1694.339 Mobile Safari/602.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_3_4; like Mac OS X) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/52.0.2833.254 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_9; like Mac OS X) AppleWebKit/536.49 (KHTML, like Gecko)  Chrome/55.0.1666.256 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SM-G900W8 Build/KOT49H) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/55.0.2999.149 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One809d Build/MRA58K) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/53.0.2413.151 Mobile Safari/533.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HTC Xplorer A290s Build/GRJ90) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/50.0.3063.357 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_2_8 like Mac OS X) AppleWebKit/603.26 (KHTML, like Gecko)  Chrome/47.0.1169.373 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; XT1050 Build/SU6-7.3) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/50.0.3496.280 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_3 like Mac OS X) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/51.0.3825.259 Mobile Safari/600.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_2_9 like Mac OS X) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/53.0.3170.337 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1_9; like Mac OS X) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/48.0.2203.123 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H930 Build/NRD90C) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/49.0.2700.175 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_8_5 like Mac OS X) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/49.0.3263.187 Mobile Safari/536.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_5_3 like Mac OS X) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/54.0.3854.387 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D9350I Build/MMB29K) AppleWebKit/602.16 (KHTML, like Gecko)  Chrome/53.0.2929.389 Mobile Safari/536.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5; like Mac OS X) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/47.0.2737.243 Mobile Safari/601.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D332 Build/LRX22G) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/49.0.2797.333 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_2_0 like Mac OS X) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/49.0.2252.227 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; MOTOROLA RAZR Build/KVT49L) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/51.0.3463.231 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Lenovo P785 Build/JRO03C) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/47.0.3978.295 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; GT-I9500N Build/KOT49H) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/49.0.1685.363 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-G460 Build/LRX22G) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/49.0.2259.284 Mobile Safari/603.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9700 Build/KTU84P) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/55.0.1871.262 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/49.0.1626.315 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G925I Build/LRX21T) AppleWebKit/603.20 (KHTML, like Gecko)  Chrome/47.0.2357.353 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SM-J100F Build/KTU84P) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/52.0.2894.363 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D9350F Build/MDB08L) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/51.0.2467.175 Mobile Safari/536.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_9_0 like Mac OS X) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/53.0.1218.111 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_4_6 like Mac OS X) AppleWebKit/534.19 (KHTML, like Gecko)  Chrome/54.0.1290.354 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG Optimus G Build/KRT16M) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/48.0.3753.278 Mobile Safari/603.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; HTC Onemini 2 dual sim Build/KOT49H) AppleWebKit/602.43 (KHTML, like Gecko)  Chrome/48.0.1874.210 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/52.0.2569.400 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; ALCATEL ONETOUCH 7035D Build/KOT49H) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/47.0.2081.173 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG Optimus G Build/KRT16M) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/53.0.2364.245 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_9_0 like Mac OS X) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/55.0.1106.145 Mobile Safari/600.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; SM-G93508 Build/MDB08L) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/53.0.1245.289 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350F-ORANGE Build/LMY47X) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/54.0.3090.257 Mobile Safari/534.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-P550 Build/LRX22G) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/54.0.1472.141 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_5_1; like Mac OS X) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/53.0.1156.315 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_9_9; like Mac OS X) AppleWebKit/535.38 (KHTML, like Gecko)  Chrome/51.0.2515.244 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; LG-D770 Build/KOT49H) AppleWebKit/535.46 (KHTML, like Gecko)  Chrome/55.0.3937.201 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_0_0 like Mac OS X) AppleWebKit/536.19 (KHTML, like Gecko)  Chrome/54.0.2899.336 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5X Build/MDB08I) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/53.0.1807.374 Mobile Safari/534.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L11) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/53.0.1754.150 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_7; like Mac OS X) AppleWebKit/533.19 (KHTML, like Gecko)  Chrome/50.0.1886.158 Mobile Safari/602.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_4_0 like Mac OS X) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/48.0.3925.394 Mobile Safari/601.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D721 Build/LRX22G) AppleWebKit/601.40 (KHTML, like Gecko)  Chrome/54.0.3095.244 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-D920S Build/MDB08I) AppleWebKit/535.32 (KHTML, like Gecko)  Chrome/55.0.3927.326 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_1_3; like Mac OS X) AppleWebKit/537.31 (KHTML, like Gecko)  Chrome/55.0.2894.397 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_5_3; like Mac OS X) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/55.0.2958.144 Mobile Safari/534.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC One 801s Build/JSS15J) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/50.0.2206.191 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2_8; like Mac OS X) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/50.0.3957.378 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_7_3; like Mac OS X) AppleWebKit/535.26 (KHTML, like Gecko)  Chrome/49.0.2818.338 Mobile Safari/603.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_4_7; like Mac OS X) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/51.0.3106.225 Mobile Safari/603.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/49.0.2109.327 Mobile Safari/533.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_1_0 like Mac OS X) AppleWebKit/535.46 (KHTML, like Gecko)  Chrome/51.0.1454.211 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D724 Build/LRX22G) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/48.0.3458.196 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_0 like Mac OS X) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/55.0.3920.340 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-A800H Build/LMY47X) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/55.0.2325.246 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_1_8; like Mac OS X) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/47.0.1005.195 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; XT1060 Build/SU6-7.3) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/48.0.2472.278 Mobile Safari/601.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SGH-I337M Build/JSS15J) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/51.0.1393.106 Mobile Safari/603.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_2_1; like Mac OS X) AppleWebKit/534.2 (KHTML, like Gecko)  Chrome/53.0.2119.268 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_6_1; like Mac OS X) AppleWebKit/536.6 (KHTML, like Gecko)  Chrome/51.0.1067.217 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SGH-I337 Build/JSS15J) AppleWebKit/601.10 (KHTML, like Gecko)  Chrome/53.0.3313.252 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_5; like Mac OS X) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/48.0.2787.343 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_4_9; like Mac OS X) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/55.0.1112.169 Mobile Safari/603.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 5 Build/NME91E) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/50.0.1816.215 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_9; like Mac OS X) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/52.0.1864.369 Mobile Safari/537.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_4_0; like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/48.0.3766.388 Mobile Safari/535.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/537.5 (KHTML, like Gecko)  Chrome/50.0.2941.160 Mobile Safari/537.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; Samsung Galaxy SIV Mega GT-I9200 Build/JDQ39) AppleWebKit/602.40 (KHTML, like Gecko)  Chrome/49.0.2568.113 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC One 801s Build/JSS15J) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/52.0.3664.209 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-N915A Build/LRX22C) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/48.0.2543.196 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_4; like Mac OS X) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/52.0.3309.148 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/600.16 (KHTML, like Gecko)  Chrome/50.0.3800.320 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_5_1 like Mac OS X) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/47.0.3229.216 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G935I Build/MMB29M) AppleWebKit/537.30 (KHTML, like Gecko)  Chrome/52.0.2934.284 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/47.0.3833.358 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-G900FG Build/LRX21T) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/55.0.3236.290 Mobile Safari/537.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_6_3 like Mac OS X) AppleWebKit/600.18 (KHTML, like Gecko)  Chrome/50.0.3192.380 Mobile Safari/537.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_3_9; like Mac OS X) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/53.0.1145.137 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_7; like Mac OS X) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/52.0.1944.154 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/50.0.1212.218 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_9_3 like Mac OS X) AppleWebKit/600.36 (KHTML, like Gecko)  Chrome/54.0.3095.120 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_5_4; like Mac OS X) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/52.0.1439.147 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_6_4; like Mac OS X) AppleWebKit/601.17 (KHTML, like Gecko)  Chrome/47.0.3576.354 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5; like Mac OS X) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/47.0.3043.297 Mobile Safari/602.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; HTC One_M8 dual sim Build/KOT49H) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/49.0.3106.166 Mobile Safari/602.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-N8000 Build/KVT49L) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/52.0.1967.179 Mobile Safari/600.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SM-T532 Build/KTU84P) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/52.0.3328.112 Mobile Safari/602.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D725 Build/LRX22G) AppleWebKit/601.39 (KHTML, like Gecko)  Chrome/55.0.1269.202 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus5 V7.1 Build/KOT49H) AppleWebKit/600.28 (KHTML, like Gecko)  Chrome/55.0.3714.167 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 10_0_0 like Mac OS X) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/49.0.1174.348 Mobile Safari/536.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_2_0; like Mac OS X) AppleWebKit/535.5 (KHTML, like Gecko)  Chrome/53.0.1851.262 Mobile Safari/600.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2_5; like Mac OS X) AppleWebKit/537.9 (KHTML, like Gecko)  Chrome/49.0.3328.359 Mobile Safari/600.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_3_8; like Mac OS X) AppleWebKit/533.33 (KHTML, like Gecko)  Chrome/53.0.2418.169 Mobile Safari/600.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_2_2; like Mac OS X) AppleWebKit/602.12 (KHTML, like Gecko)  Chrome/48.0.1333.378 Mobile Safari/533.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_6 like Mac OS X) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/53.0.2367.243 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D729 Build/LRX22G) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/55.0.2702.102 Mobile Safari/536.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2; like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko)  Chrome/50.0.1503.343 Mobile Safari/601.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One809d dual sim Build/MRA58K) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/53.0.1813.222 Mobile Safari/535.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_8_6; like Mac OS X) AppleWebKit/603.1 (KHTML, like Gecko)  Chrome/51.0.3948.204 Mobile Safari/536.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_1_9 like Mac OS X) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/55.0.1146.207 Mobile Safari/534.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-P810 Build/LRX22G) AppleWebKit/602.40 (KHTML, like Gecko)  Chrome/55.0.3338.100 Mobile Safari/600.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_3_4; like Mac OS X) AppleWebKit/534.5 (KHTML, like Gecko)  Chrome/54.0.3665.248 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; GT-I9500 Build/KTU84P) AppleWebKit/603.24 (KHTML, like Gecko)  Chrome/53.0.2109.332 Mobile Safari/535.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-A700I Build/LRX22G) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/51.0.3095.332 Mobile Safari/601.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6P Build/MDB08L) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/55.0.3324.146 Mobile Safari/603.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; SM-J100G Build/KTU84P) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/51.0.2881.182 Mobile Safari/533.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1; like Mac OS X) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/50.0.1549.377 Mobile Safari/533.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; GT-I9300 Build/JDQ39) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/47.0.2616.130 Mobile Safari/602.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_5; like Mac OS X) AppleWebKit/534.29 (KHTML, like Gecko)  Chrome/53.0.1443.263 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D720 Build/LRX22G) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/49.0.2789.390 Mobile Safari/536.2"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/51.0.2540.164 Mobile Safari/601.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G920H Build/LRX22G) AppleWebKit/534.25 (KHTML, like Gecko)  Chrome/52.0.3009.356 Mobile Safari/535.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 5P Build/MDB08L) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/48.0.3980.183 Mobile Safari/535.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_8_0; like Mac OS X) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/50.0.2992.229 Mobile Safari/534.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5X Build/MDB08I) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/48.0.3553.251 Mobile Safari/534.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 8_8_7; like Mac OS X) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/53.0.2628.184 Mobile Safari/603.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D333 Build/LRX22G) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/50.0.2252.148 Mobile Safari/602.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5; like Mac OS X) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/50.0.1972.149 Mobile Safari/535.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_4_6; like Mac OS X) AppleWebKit/602.20 (KHTML, like Gecko)  Chrome/52.0.2912.312 Mobile Safari/603.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 11_3_5; like Mac OS X) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/55.0.2595.239 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SAMSUNG SM-E500F Build/KTU84P) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/55.0.2177.245 Mobile Safari/603.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC OneS Build/MRA58K) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/55.0.1379.285 Mobile Safari/601.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LRX22C) AppleWebKit/602.14 (KHTML, like Gecko)  Chrome/47.0.3557.288 Mobile Safari/533.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 7 Build/MMB29V) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/48.0.1736.174 Mobile Safari/537.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_6_6; like Mac OS X) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/52.0.3037.317 Mobile Safari/601.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_2_0; like Mac OS X) AppleWebKit/537.25 (KHTML, like Gecko)  Chrome/50.0.2915.204 Mobile Safari/600.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 6P Build/MMB29V) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/52.0.1172.376 Mobile Safari/535.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SM-G93508 Build/MDB08I) AppleWebKit/536.23 (KHTML, like Gecko)  Chrome/50.0.2597.259 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 8_9_5 like Mac OS X) AppleWebKit/536.31 (KHTML, like Gecko)  Chrome/54.0.3093.124 Mobile Safari/533.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; GT-I9600 Build/KTU84P) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/48.0.3343.398 Mobile Safari/537.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 11_7_6 like Mac OS X) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/55.0.3211.149 Mobile Safari/603.8"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/534.46 (KHTML, like Gecko)  Chrome/48.0.1005.396 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_0_0 like Mac OS X) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/48.0.2630.111 Mobile Safari/534.9"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 9_3_7 like Mac OS X) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/54.0.2351.218 Mobile Safari/535.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-T815 Build/LRX22G) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/47.0.2473.134 Mobile Safari/535.5"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_9_4; like Mac OS X) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/54.0.3550.328 Mobile Safari/537.3"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPad; CPU iPad OS 7_4_7 like Mac OS X) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/48.0.3747.370 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; ALCATEL ONE TOUCH 7047E Build/KOT49H) AppleWebKit/601.19 (KHTML, like Gecko)  Chrome/51.0.2831.340 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 7_5_3; like Mac OS X) AppleWebKit/601.24 (KHTML, like Gecko)  Chrome/55.0.2305.356 Mobile Safari/533.0"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_2_2; like Mac OS X) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/49.0.2172.287 Mobile Safari/535.4"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 9_3_5; like Mac OS X) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/52.0.3339.194 Mobile Safari/602.1"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G928S Build/LMY47X) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/50.0.2397.185 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G935M Build/MMB29M) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/47.0.1736.242 Mobile Safari/602.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPod; CPU iPod OS 10_7_1; like Mac OS X) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/52.0.1290.350 Mobile Safari/533.6"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/52.0.3525.152 Mobile Safari/536.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SAMSUNG GT-I9305I Build/KOT49H) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/55.0.3028.210 Mobile Safari/533.7"
+  },
+  {
+    "device": "mobile",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_3_0; like Mac OS X) AppleWebKit/600.2 (KHTML, like Gecko)  Chrome/52.0.1344.260 Mobile Safari/533.1"
+  }
+]

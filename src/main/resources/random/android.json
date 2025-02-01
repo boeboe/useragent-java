@@ -1,0 +1,4002 @@
+﻿[
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/55.0.2459.299 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/54.0.1259.324 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; E:number:20-23:30 Build/24.0.B.1.34) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/53.0.2576.120 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; LG-D726 Build/LRX22G) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/51.0.1746.124 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/533.15 (KHTML, like Gecko)  Chrome/55.0.1402.255 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D724 Build/LRX22G) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/55.0.2042.103 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H900 Build/NRD90C) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/54.0.2285.390 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6X Build/MMB29K) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/50.0.1056.144 Mobile Safari/535.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 5 Build/MDB08L) AppleWebKit/601.48 (KHTML, like Gecko)  Chrome/50.0.2258.309 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-T285t Build/JSS15J) AppleWebKit/537.8 (KHTML, like Gecko)  Chrome/49.0.1268.111 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G925FG Build/LRX22G) AppleWebKit/600.17 (KHTML, like Gecko)  Chrome/50.0.2563.315 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; IQ4502 Quad Build/KOT49H) AppleWebKit/533.7 (KHTML, like Gecko)  Chrome/52.0.3273.217 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 9X Build/NPD90G) AppleWebKit/536.31 (KHTML, like Gecko)  Chrome/51.0.1655.106 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/601.16 (KHTML, like Gecko)  Chrome/55.0.2692.261 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H900 Build/NRD90C) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/48.0.1521.108 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/50.0.3287.367 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-N910FY Build/LRX22C) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/52.0.3775.284 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; GT-I9400V Build/KOT49H) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/52.0.3811.374 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/49.0.1652.268 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1100 wifi Build/GRK39F) AppleWebKit/536.43 (KHTML, like Gecko)  Chrome/49.0.1194.252 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC Xplorer A290e Build/GRJ90) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/48.0.1655.277 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G9350I Build/MMB29V) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/47.0.2023.119 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Elephone P4000 Build/KTU84P) AppleWebKit/602.33 (KHTML, like Gecko)  Chrome/50.0.2029.292 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/536.38 (KHTML, like Gecko)  Chrome/52.0.1831.360 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G920S Build/LRX22G) AppleWebKit/533.32 (KHTML, like Gecko)  Chrome/52.0.3718.142 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; HTC Butterfly S 901 Build/LRX22G) AppleWebKit/537.35 (KHTML, like Gecko)  Chrome/48.0.1145.109 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Nexus 7P Build/NME91E) AppleWebKit/534.6 (KHTML, like Gecko)  Chrome/48.0.2752.322 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/54.0.2304.151 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-A800H Build/LRX22G) AppleWebKit/601.31 (KHTML, like Gecko)  Chrome/47.0.2841.281 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/602.38 (KHTML, like Gecko)  Chrome/49.0.3960.276 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; XT1029 Build/[KXB20.9|KXC21.5]) AppleWebKit/601.40 (KHTML, like Gecko)  Chrome/48.0.3118.364 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; LG-H910 Build/NRD90M) AppleWebKit/537.2 (KHTML, like Gecko)  Chrome/47.0.2076.214 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG SM-J200G Build/KTU84P) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/48.0.1144.300 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 9P Build/NME91E) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/47.0.2706.397 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H900 Build/NRD90C) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/51.0.1225.137 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 4G Build/GRK39F) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/51.0.3109.242 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 5P Build/NPD90G) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/48.0.1961.357 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/600.19 (KHTML, like Gecko)  Chrome/51.0.2548.166 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; ALCATEL ONETOUCH 7044E Build/KOT49H) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/50.0.3764.318 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D959I Build/KVT49L) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/50.0.3814.110 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G93508 Build/LMY47X) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/51.0.2771.304 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; E:number:20-23:13 Build/24.0.A.1.34) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/50.0.3660.218 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; GT-I9100 Build/KTU84P) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/50.0.2001.132 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/54.0.3916.323 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D720 Build/LRX22G) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/55.0.3239.191 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; HTC Butterfly S 919d Build/LRX22G) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/48.0.2122.381 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SM-T532 Build/KOT49H) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/51.0.1450.231 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 9 Build/LMY48B) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/54.0.1337.233 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Elephone P2000 Build/KTU84P) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/55.0.2544.164 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; GT-I9600 Build/KTU84P) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/50.0.2296.183 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG-SGH-I337 Build/KOT49H) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/52.0.2779.302 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; SM-T532 Build/KOT49H) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/52.0.1860.125 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC Onemini 2 dual sim Build/MRA58K) AppleWebKit/601.40 (KHTML, like Gecko)  Chrome/50.0.3067.216 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG-SM-N915FY Build/LRX22C) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/48.0.3463.201 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-D920F Build/MDB08I) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/49.0.2554.320 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/55.0.3012.388 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Nexus 9P Build/NME91E) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/51.0.2734.351 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 5 Build/MMB29K) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/55.0.3960.299 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-G710S Build/JLS36C) AppleWebKit/534.19 (KHTML, like Gecko)  Chrome/52.0.1527.213 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; GT-I9100 Build/KTU84P) AppleWebKit/601.10 (KHTML, like Gecko)  Chrome/47.0.2677.300 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G920H Build/LRX22G) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/53.0.2355.188 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/602.1 (KHTML, like Gecko)  Chrome/54.0.1483.184 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Nexus 6 Build/KOT49H) AppleWebKit/535.42 (KHTML, like Gecko)  Chrome/52.0.3850.331 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus_S_4G Build/GRJ22) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/49.0.1538.369 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; Nexus 5 Build/LRX22C) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/52.0.2552.177 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-G815T Build/JLS36C) AppleWebKit/533.25 (KHTML, like Gecko)  Chrome/53.0.1113.321 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus S 4G Build/GRJ22) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/49.0.1559.185 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG-SM-N910G Build/LRX22C) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/51.0.2996.212 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-D920I Build/MMB29V) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/54.0.3319.190 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-G3610A Build/JLS36C) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/55.0.2669.191 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Nexus S Build/GRJ22) AppleWebKit/602.49 (KHTML, like Gecko)  Chrome/52.0.2343.107 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G9350FD Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/53.0.1176.139 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 8X Build/NME91E) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/51.0.2833.115 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; XT1013 Build/[KXB20.9|KXC21.5]) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/47.0.3072.397 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-D954 Build/KOT49I) AppleWebKit/602.50 (KHTML, like Gecko)  Chrome/54.0.2892.174 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SM-P355 Build/LRX22G) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/48.0.2851.392 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G925S Build/KTU84F) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/47.0.3113.130 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/47.0.1724.241 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Nexus 8 Build/KTU84P) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/54.0.1127.299 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; LG Optimus G Build/KRT16M) AppleWebKit/603.28 (KHTML, like Gecko)  Chrome/53.0.1895.189 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel C Build/NME91E) AppleWebKit/535.26 (KHTML, like Gecko)  Chrome/53.0.3592.353 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One 801s Build/JSS15J) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/55.0.2511.166 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9400 Build/KTU84P) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/47.0.2025.157 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus 9 Build/KOT49H) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/54.0.1185.183 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-J110F Build/KTU84P) AppleWebKit/602.45 (KHTML, like Gecko)  Chrome/47.0.3143.277 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/53.0.1044.345 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/53.0.1634.118 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/47.0.2435.281 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-G430 Build/LRX22G) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/50.0.3405.245 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-G9288 Build/MMB29K) AppleWebKit/601.16 (KHTML, like Gecko)  Chrome/47.0.3917.346 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-P815 Build/LRX22G) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/54.0.2614.176 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/47.0.2723.123 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; Nokia 1000 4G Build/GRK39F) AppleWebKit/533.36 (KHTML, like Gecko)  Chrome/53.0.3932.154 Mobile Safari/535.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2t Build/LRX22G) AppleWebKit/536.43 (KHTML, like Gecko)  Chrome/53.0.1446.233 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-N910A Build/LRX22C) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/48.0.2066.251 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; LG-D326 Build/LRX22G) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/52.0.1721.381 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-N8000 Build/KVT49L) AppleWebKit/536.4 (KHTML, like Gecko)  Chrome/48.0.1435.134 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 6 Build/NME91E) AppleWebKit/601.14 (KHTML, like Gecko)  Chrome/50.0.3807.305 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; LG-D729 Build/LRX22G) AppleWebKit/603.13 (KHTML, like Gecko)  Chrome/49.0.1362.305 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/54.0.3733.100 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M9 dual sim Build/MRA58K) AppleWebKit/537.47 (KHTML, like Gecko)  Chrome/54.0.2452.260 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SGH-I337 Build/KOT49H) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/53.0.2906.205 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-A700H Build/LMY47X) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/50.0.3254.313 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D335 Build/LRX22G) AppleWebKit/535.8 (KHTML, like Gecko)  Chrome/52.0.2553.237 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SGH-I337M Build/KOT49H) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/50.0.2454.244 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC Xplorer A330e Build/GRJ90) AppleWebKit/603.36 (KHTML, like Gecko)  Chrome/47.0.3890.157 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/55.0.1581.204 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D715 Build/LRX22G) AppleWebKit/536.44 (KHTML, like Gecko)  Chrome/51.0.3722.215 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-A700T Build/LMY47X) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/55.0.1737.149 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G9350FD Build/LMY47X) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/47.0.3089.262 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/534.45 (KHTML, like Gecko)  Chrome/54.0.2364.347 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 7P Build/MDB08L) AppleWebKit/602.26 (KHTML, like Gecko)  Chrome/49.0.3888.181 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-G3326A Build/JLS36C) AppleWebKit/603.5 (KHTML, like Gecko)  Chrome/47.0.2393.196 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G935T Build/LMY47X) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/52.0.2164.158 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6P Build/MDB08L) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/55.0.3060.271 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-G3347I Build/JLS36C) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/50.0.2499.130 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-N810S Build/JSS15J) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/50.0.1331.273 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Nexus 6P Build/NPD90G) AppleWebKit/536.23 (KHTML, like Gecko)  Chrome/53.0.3750.346 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; Nokia 3115 Build/IMM76D) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/53.0.1070.158 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Nokia 1000 4G Build/GRK39F) AppleWebKit/533.4 (KHTML, like Gecko)  Chrome/54.0.3734.121 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G925S Build/LRX22G) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/52.0.2732.195 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/49.0.2109.118 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG SM-T800 Build/LRX22G) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/49.0.3267.139 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 6 Build/NPD90G) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/49.0.3670.104 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP 725 Notebook PC Build/JSS15J) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/47.0.1859.149 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H900 Build/NRD90M) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/52.0.2161.356 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/51.0.1395.390 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; Ascend G300 Build/JLS36I) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/47.0.3670.239 Mobile Safari/536.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D725 Build/LRX22G) AppleWebKit/533.9 (KHTML, like Gecko)  Chrome/51.0.1159.154 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-H210 Build/KOT49I) AppleWebKit/536.18 (KHTML, like Gecko)  Chrome/52.0.3240.165 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; IQ4502 Quad Build/KOT49H) AppleWebKit/537.5 (KHTML, like Gecko)  Chrome/47.0.2869.263 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 LTE Build/GRK39F) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/47.0.2518.356 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/602.29 (KHTML, like Gecko)  Chrome/47.0.2607.193 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-G93508 Build/MDB08L) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/48.0.3049.241 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/48.0.3535.205 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus_S_Build/GRJ22) AppleWebKit/603.36 (KHTML, like Gecko)  Chrome/52.0.3804.268 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G920X Build/LMY47X) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/53.0.3973.166 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; SAMSUNG GT-I9600 Build/KTU84P) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/48.0.3851.161 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/48.0.3659.313 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D722 Build/LRX22G) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/53.0.2330.374 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.13 (KHTML, like Gecko)  Chrome/52.0.2336.131 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SAMSUNG SM-N9005 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko)  Chrome/52.0.1379.240 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Lenovo P781 Build/Lenovo) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/51.0.1841.150 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NME91E) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/53.0.1456.207 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/53.0.3219.113 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; Nexus_S_Build/GRJ22) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/52.0.3886.248 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G920S Build/LMY47X) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/48.0.2947.384 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC OneS Build/MRA58K) AppleWebKit/602.40 (KHTML, like Gecko)  Chrome/51.0.3962.279 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-D928V Build/MDB08I) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/50.0.1468.223 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G920X Build/LMY47X) AppleWebKit/603.31 (KHTML, like Gecko)  Chrome/47.0.3722.268 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D328 Build/LRX22G) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/52.0.2658.359 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/49.0.2673.162 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/55.0.1811.292 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H900 Build/NRD90C) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/55.0.1998.374 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Lenovo P773 Build/Lenovo) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/50.0.3988.391 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; XT1021 Build/LPH223) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/47.0.1397.146 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; IQ4503 Quad Build/KOT49H) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/48.0.3644.148 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/52.0.3691.163 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L11) AppleWebKit/535.34 (KHTML, like Gecko)  Chrome/51.0.3719.301 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One801e Build/MRA58K) AppleWebKit/601.10 (KHTML, like Gecko)  Chrome/50.0.2526.348 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-G900T Build/KOT49H) AppleWebKit/536.39 (KHTML, like Gecko)  Chrome/54.0.3596.149 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/49.0.3065.249 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/50.0.2885.154 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-P555 Build/LRX22G) AppleWebKit/534.13 (KHTML, like Gecko)  Chrome/51.0.2809.180 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L11) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/53.0.1342.389 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D727 Build/LRX22G) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/52.0.3954.354 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SGH-I337 Build/KOT49H) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/51.0.1434.119 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/47.0.1745.188 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D333 Build/LRX22G) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/54.0.1565.380 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/601.21 (KHTML, like Gecko)  Chrome/49.0.1191.132 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-N8000 Build/JZO54K) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/51.0.2635.233 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 9P Build/NME91E) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/53.0.2978.347 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/55.0.1923.229 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; IQ4500 Quad Build/KOT49H) AppleWebKit/602.32 (KHTML, like Gecko)  Chrome/53.0.1904.179 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D729 Build/LRX22G) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/53.0.3778.267 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; SM-D928F Build/MMB29V) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/48.0.3064.131 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 9P Build/NME91E) AppleWebKit/603.23 (KHTML, like Gecko)  Chrome/52.0.3099.393 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2210b Build/JLS36C) AppleWebKit/600.24 (KHTML, like Gecko)  Chrome/54.0.3251.381 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One0P6B Build/MRA58K) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/48.0.3324.220 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Pixel C Build/NRD90M) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/49.0.3151.351 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D337 Build/LRX22G) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/49.0.1991.205 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-G925L Build/LRX21T) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/47.0.2778.289 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-D9350M Build/MMB29K) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/48.0.1028.373 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/55.0.2909.157 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/48.0.3737.277 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 7 Build/LRX22C) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/55.0.3890.351 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-T555 Build/LRX22G) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/54.0.1899.277 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 7P Build/NPD90G) AppleWebKit/536.34 (KHTML, like Gecko)  Chrome/48.0.2587.255 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-A800 Build/LRX22G) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/54.0.3617.118 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Lenovo P774 Build/JRO03C) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/48.0.3674.294 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; GT-I9500 Build/KTU84P) AppleWebKit/533.10 (KHTML, like Gecko)  Chrome/52.0.2682.193 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; HTC 80:number1-2e Build/JSS15J) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/54.0.2036.236 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTOROLA MOTO G XT1068 Build/LPC23) AppleWebKit/536.14 (KHTML, like Gecko)  Chrome/53.0.3718.338 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; LG-E988 Build/KOT49I) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/54.0.3436.371 Mobile Safari/536.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nokia 3210 Build/IMM76D) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/55.0.2274.254 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; LG-D951 Build/KOT49I) AppleWebKit/534.12 (KHTML, like Gecko)  Chrome/49.0.1073.283 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/53.0.3509.171 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Nexus 7P Build/NPD90G) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/54.0.2008.200 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SGH-N065T Build/JSS15J) AppleWebKit/533.39 (KHTML, like Gecko)  Chrome/50.0.1168.301 Mobile Safari/537.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/48.0.1199.286 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Nexus 7P Build/NPD90G) AppleWebKit/600.21 (KHTML, like Gecko)  Chrome/47.0.2730.203 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-G920M Build/MDB08L) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/51.0.2434.338 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-G350S Build/JLS36C) AppleWebKit/600.46 (KHTML, like Gecko)  Chrome/50.0.1567.207 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/537.33 (KHTML, like Gecko)  Chrome/50.0.3764.167 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG SM-N8010 Build/JZO54K) AppleWebKit/533.29 (KHTML, like Gecko)  Chrome/50.0.3368.370 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/50.0.1817.148 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/54.0.3043.359 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 6 Build/LMY48B) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/53.0.1438.128 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Xperia Build/NDE63X) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/48.0.1238.336 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 9X Build/NPD90G) AppleWebKit/600.1 (KHTML, like Gecko)  Chrome/49.0.3460.121 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G925I Build/MMB29V) AppleWebKit/536.9 (KHTML, like Gecko)  Chrome/47.0.3963.173 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-G833K Build/KVT49L) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/51.0.2822.357 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/55.0.2716.122 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 6 Build/MMB29K) AppleWebKit/534.50 (KHTML, like Gecko)  Chrome/47.0.2736.242 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350FD Build/LMY47X) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/53.0.3609.236 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-E500F Build/KTU84P) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/47.0.2519.116 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; LG-F300S Build/KOT49H) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/53.0.2745.124 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTO X PURE XT1575 Build/LPK23) AppleWebKit/534.13 (KHTML, like Gecko)  Chrome/47.0.1647.201 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NME91E) AppleWebKit/536.38 (KHTML, like Gecko)  Chrome/48.0.1903.304 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; HTC 80:number1-2t Build/JSS15J) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/50.0.2520.243 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-J200F Build/KTU84P) AppleWebKit/536.35 (KHTML, like Gecko)  Chrome/50.0.3899.251 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nokia 3010 Build/IMM76D) AppleWebKit/534.49 (KHTML, like Gecko)  Chrome/50.0.3599.236 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-G806I Build/LMY47X) AppleWebKit/535.25 (KHTML, like Gecko)  Chrome/47.0.3633.305 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-T355 Build/LRX22G) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/49.0.1222.204 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D334 Build/LRX22G) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/51.0.3641.262 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 5P Build/MMB29K) AppleWebKit/602.24 (KHTML, like Gecko)  Chrome/49.0.1762.106 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D336 Build/LRX22G) AppleWebKit/600.5 (KHTML, like Gecko)  Chrome/48.0.3331.321 Mobile Safari/533.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350FQ Build/MMB29M) AppleWebKit/533.48 (KHTML, like Gecko)  Chrome/51.0.2629.308 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SM-N8010 Build/JZO54K) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/48.0.3830.237 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-T265v Build/JSS15J) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/52.0.2193.298 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/51.0.1738.285 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO XT1575 Build/LPD23) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/52.0.2660.107 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-H210 Build/KOT49H) AppleWebKit/534.17 (KHTML, like Gecko)  Chrome/52.0.3910.306 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; GT-I9700 Build/KTU84P) AppleWebKit/533.47 (KHTML, like Gecko)  Chrome/50.0.3692.264 Mobile Safari/537.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/534.4 (KHTML, like Gecko)  Chrome/51.0.2056.371 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D714 Build/LRX22G) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/47.0.1054.299 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; LG-D720 Build/LRX22G) AppleWebKit/535.41 (KHTML, like Gecko)  Chrome/48.0.1491.103 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/537.26 (KHTML, like Gecko)  Chrome/51.0.3470.341 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SM-T355 Build/LRX22G) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/54.0.3306.313 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-D9350S Build/MMB29V) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/52.0.1287.303 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC Xplorer A340e Build/GRJ90) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/50.0.2597.184 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/533.19 (KHTML, like Gecko)  Chrome/48.0.3559.391 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H930 Build/NRD90C) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/55.0.1826.252 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/47.0.1625.364 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G925FG Build/LRX22G) AppleWebKit/536.16 (KHTML, like Gecko)  Chrome/47.0.1292.255 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; SM-G920I Build/MMB29K) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/55.0.2223.203 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G815I Build/KVT49L) AppleWebKit/537.18 (KHTML, like Gecko)  Chrome/52.0.1671.156 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 7P Build/MDB08L) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/54.0.1662.128 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5 Build/MMB29V) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/54.0.2156.337 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/54.0.3186.380 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/601.14 (KHTML, like Gecko)  Chrome/48.0.1852.229 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3010 Build/IMM76D) AppleWebKit/535.21 (KHTML, like Gecko)  Chrome/47.0.1447.263 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG-SM-N910V Build/LRX22C) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/53.0.3196.282 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; LG-H930 Build/NRD90C) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/48.0.1298.393 Mobile Safari/603.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-T555 Build/LRX22G) AppleWebKit/601.44 (KHTML, like Gecko)  Chrome/53.0.1300.327 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Nokia 3210 Build/IMM76D) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/55.0.2601.395 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Lenovo P786 Build/Lenovo) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/52.0.3947.116 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Xperia Build/NDE63X) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/51.0.2981.128 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SM-G900W8 Build/KOT49H) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/49.0.2391.366 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-A800I Build/LRX22G) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/50.0.1952.232 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/55.0.2624.341 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/536.4 (KHTML, like Gecko)  Chrome/50.0.1994.271 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D724 Build/LRX22G) AppleWebKit/536.10 (KHTML, like Gecko)  Chrome/47.0.3986.329 Mobile Safari/536.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/537.48 (KHTML, like Gecko)  Chrome/50.0.3979.375 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG-SM-N910FY Build/LRX22C) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/54.0.1996.377 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/601.16 (KHTML, like Gecko)  Chrome/48.0.2045.225 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 9 Build/NPD90G) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/48.0.3481.312 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SM-D925S Build/MMB29K) AppleWebKit/535.38 (KHTML, like Gecko)  Chrome/53.0.3730.177 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G928S Build/LMY47X) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/55.0.3687.221 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; E:number:20-23:34 Build/24.0.A.1.34) AppleWebKit/602.16 (KHTML, like Gecko)  Chrome/55.0.3593.339 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; XT1013 Build/[KXB20.9|KXC21.5]) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/47.0.1103.103 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G9350T Build/LMY47X) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/52.0.1971.329 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; Nexus 7 Build/LRX22C) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/50.0.1572.114 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H930 Build/NRD90C) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/55.0.2012.229 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia Build/NDE63X) AppleWebKit/602.49 (KHTML, like Gecko)  Chrome/47.0.3680.132 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/603.45 (KHTML, like Gecko)  Chrome/51.0.2313.354 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-D9208 Build/MDB08I) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/50.0.1894.359 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G460 Build/LRX22G) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/48.0.2901.141 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G935L Build/LMY47X) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/49.0.3880.199 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-D953 Build/KOT49H) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/53.0.3774.152 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTO E XT1021 Build/LMY47Z) AppleWebKit/600.39 (KHTML, like Gecko)  Chrome/47.0.2320.316 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/53.0.3602.355 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D332 Build/LRX22G) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/49.0.2362.271 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTEW) AppleWebKit/537.10 (KHTML, like Gecko)  Chrome/48.0.3765.310 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/50.0.1621.167 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G925F-ORANGE Build/LMY47X) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/51.0.1905.311 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; Samsung Galaxy S4 Mega GT-I9500 Build/JDQ39) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/47.0.1593.284 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H900 Build/NRD90M) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/51.0.1831.332 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; Samsung Galaxy S4 Mega GT-I9500 Build/JDQ39) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/53.0.3683.260 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; Nokia 3215 Build/IMM76D) AppleWebKit/534.25 (KHTML, like Gecko)  Chrome/54.0.1125.139 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG SM-N9007 Build/KOT49H) AppleWebKit/535.45 (KHTML, like Gecko)  Chrome/49.0.3239.193 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HP 645 Notebook PC Build/JLS36C) AppleWebKit/533.26 (KHTML, like Gecko)  Chrome/52.0.2796.232 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D729 Build/LRX22G) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/47.0.3204.385 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G928L Build/LRX22G) AppleWebKit/534.50 (KHTML, like Gecko)  Chrome/54.0.3380.273 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; ALCATEL ONETOUCH 7031D Build/KOT49H) AppleWebKit/601.34 (KHTML, like Gecko)  Chrome/50.0.1976.172 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/536.33 (KHTML, like Gecko)  Chrome/47.0.3686.110 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SAMSUNG-SM-N910FY Build/LRX22C) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/55.0.3847.197 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; SAMSUNG GT-I9200 Build/KTU84P) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/52.0.3228.229 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/536.14 (KHTML, like Gecko)  Chrome/48.0.1063.208 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/535.27 (KHTML, like Gecko)  Chrome/55.0.3214.269 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-P350 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/54.0.2113.272 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/48.0.1537.271 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-D925M Build/MDB08I) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/53.0.3963.253 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-D9350I Build/MDB08L) AppleWebKit/533.6 (KHTML, like Gecko)  Chrome/51.0.2221.374 Mobile Safari/603.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 7P Build/NPD90G) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/50.0.3972.110 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LXB22) AppleWebKit/533.50 (KHTML, like Gecko)  Chrome/53.0.2459.225 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D725 Build/LRX22G) AppleWebKit/601.9 (KHTML, like Gecko)  Chrome/50.0.3343.163 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; Nokia 1100 wifi Build/GRK39F) AppleWebKit/533.33 (KHTML, like Gecko)  Chrome/52.0.2358.318 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/55.0.1322.318 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G928FQ Build/LRX22G) AppleWebKit/535.38 (KHTML, like Gecko)  Chrome/49.0.2899.326 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/51.0.3270.241 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MMB29K) AppleWebKit/534.15 (KHTML, like Gecko)  Chrome/48.0.3631.201 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/50.0.2974.167 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 5 Build/MDB08L) AppleWebKit/536.47 (KHTML, like Gecko)  Chrome/54.0.3299.284 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; GT-I9100 Build/KTU84P) AppleWebKit/602.19 (KHTML, like Gecko)  Chrome/48.0.1481.335 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H900 Build/NRD90M) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/51.0.1608.197 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-V410 Build/KOT49I) AppleWebKit/536.20 (KHTML, like Gecko)  Chrome/47.0.1958.345 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 6 Build/LRX22C) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/49.0.1223.304 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Nexus 10 Build/KTU84P) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/55.0.2126.311 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG-SM-N910V Build/LRX22C) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/53.0.2236.242 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/533.14 (KHTML, like Gecko)  Chrome/49.0.1597.378 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; GT-I9200 Build/KTU84P) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/54.0.2547.396 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/51.0.2079.286 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H900 Build/NRD90M) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/53.0.3477.281 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; HTC 80:number1-2t Build/JSS15J) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/47.0.2505.363 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/603.8 (KHTML, like Gecko)  Chrome/47.0.1463.386 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 9 Build/LRX22C) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/50.0.1220.210 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/47.0.2274.253 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/47.0.1227.382 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G9350X Build/LMY47X) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/54.0.2159.146 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G935F-ORANGE Build/MMB29M) AppleWebKit/535.41 (KHTML, like Gecko)  Chrome/54.0.2029.278 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G935FD Build/LMY47X) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/51.0.1773.323 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G920M Build/LRX22G) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/48.0.2656.338 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; IQ4503 Quad Build/KOT49H) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/51.0.2168.228 Mobile Safari/533.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; HTC 80:number1-2s Build/JSS15J) AppleWebKit/537.19 (KHTML, like Gecko)  Chrome/50.0.2724.299 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Lenovo P775 Build/Lenovo) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/51.0.2266.268 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G935I Build/LMY47X) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/55.0.2748.361 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/55.0.1038.199 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-D928F Build/MMB29K) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/53.0.3113.287 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/535.28 (KHTML, like Gecko)  Chrome/54.0.3463.362 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-A700T Build/LRX22G) AppleWebKit/534.30 (KHTML, like Gecko)  Chrome/47.0.2976.189 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 7P Build/MDB08L) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/54.0.3178.148 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 9 Build/LRX22C) AppleWebKit/536.49 (KHTML, like Gecko)  Chrome/52.0.1440.167 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G920T Build/LRX22G) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/55.0.2407.388 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H930 Build/NRD90C) AppleWebKit/533.45 (KHTML, like Gecko)  Chrome/50.0.1553.147 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-F500K Build/KOT49H) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/52.0.3473.379 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Pro Build/MRA58K) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/54.0.2030.306 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-T531 Build/KOT49H) AppleWebKit/534.38 (KHTML, like Gecko)  Chrome/49.0.1122.199 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus S 4G Build/GRJ22) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/52.0.1892.289 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 8 Build/NME91E) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/51.0.1263.354 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTO E XT1021 Build/LPC23) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/53.0.3983.192 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G925H Build/LMY47X) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/52.0.3596.141 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HP 705 Notebook PC Build/JLS36C) AppleWebKit/534.16 (KHTML, like Gecko)  Chrome/52.0.3909.397 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG-E987 Build/KOT49I) AppleWebKit/537.47 (KHTML, like Gecko)  Chrome/50.0.3321.242 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-D810I Build/KVT49L) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/54.0.3775.376 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO G XT1068 Build/LPK23) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/50.0.1138.389 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Pixel XL Build/NME91E) AppleWebKit/537.11 (KHTML, like Gecko)  Chrome/49.0.2208.278 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3310 Build/IMM76D) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/51.0.3942.240 Mobile Safari/533.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SGH-N075S Build/JSS15J) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/55.0.2320.128 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; LG-D954 Build/KOT49I) AppleWebKit/533.46 (KHTML, like Gecko)  Chrome/52.0.1630.382 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5P Build/MDB08L) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/55.0.3835.209 Mobile Safari/536.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; E:number:20-23:03 Build/24.0.B.1.34) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/50.0.3784.389 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D705 Build/LRX22G) AppleWebKit/600.6 (KHTML, like Gecko)  Chrome/51.0.2481.157 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One 801s Build/JLS36C) AppleWebKit/536.42 (KHTML, like Gecko)  Chrome/47.0.2465.294 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; Nexus 5P Build/MMB29V) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/55.0.1356.332 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO X FORCE XT1580 Build/LPH223) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/48.0.2334.230 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/54.0.3711.266 Mobile Safari/600.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; HTC 80:number1-2t Build/LRX22G) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/48.0.1508.368 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-G925F-ORANGE Build/LRX21T) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/54.0.1768.293 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG SM-E500L Build/KTU84P) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/55.0.3561.149 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SAMSUNG SM-N8010 Build/KVT49L) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/52.0.1794.397 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; SAMSUNG SM-E500L Build/KTU84P) AppleWebKit/536.38 (KHTML, like Gecko)  Chrome/55.0.3516.224 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 8 Build/LMY48B) AppleWebKit/536.27 (KHTML, like Gecko)  Chrome/54.0.2449.170 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NME91E) AppleWebKit/603.35 (KHTML, like Gecko)  Chrome/52.0.2523.107 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-D958 Build/KOT49H) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/54.0.1535.248 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D900 Build/KOT49I) AppleWebKit/601.38 (KHTML, like Gecko)  Chrome/47.0.1440.292 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G925FD Build/LMY47X) AppleWebKit/533.27 (KHTML, like Gecko)  Chrome/49.0.2471.176 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SM-G420 Build/LRX22C) AppleWebKit/603.44 (KHTML, like Gecko)  Chrome/54.0.2834.219 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/47.0.2549.271 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G935S Build/MMB29M) AppleWebKit/600.35 (KHTML, like Gecko)  Chrome/47.0.3434.258 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG-SM-N915A Build/LRX22C) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/54.0.1304.298 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 8 Build/LRX22C) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/47.0.2840.398 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SGH-N065T Build/JSS15J) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/54.0.2141.262 Mobile Safari/536.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; Lenovo A7000-a Build/LRX21M;) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/52.0.2389.355 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G920H Build/LRX22G) AppleWebKit/602.25 (KHTML, like Gecko)  Chrome/54.0.3782.100 Mobile Safari/533.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; GT-I9100 Build/KTU84P) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/47.0.3005.182 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 9P Build/NME91E) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/49.0.3794.368 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/601.50 (KHTML, like Gecko)  Chrome/47.0.1172.330 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/535.13 (KHTML, like Gecko)  Chrome/52.0.3177.206 Mobile Safari/533.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG Optimus G Build/KRT16M) AppleWebKit/601.48 (KHTML, like Gecko)  Chrome/51.0.3861.158 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTO XT1562 Build/LXB22) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/54.0.2200.336 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nexus_S_Build/GRJ22) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/48.0.1105.116 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Lenovo P786 Build/JRO03C) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/55.0.2786.392 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/53.0.2217.319 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NME91E) AppleWebKit/537.8 (KHTML, like Gecko)  Chrome/52.0.1072.344 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/603.37 (KHTML, like Gecko)  Chrome/55.0.3205.329 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nexus 6 Build/KOT49H) AppleWebKit/534.22 (KHTML, like Gecko)  Chrome/47.0.2784.388 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC Butterfly S 901d Build/LRX22G) AppleWebKit/536.6 (KHTML, like Gecko)  Chrome/47.0.3928.137 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/53.0.2738.339 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG SM-E500F Build/KTU84P) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/52.0.2839.248 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Google Nexus 6 Build/KOT49H) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/51.0.1896.353 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-G925T Build/KTU84F) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/54.0.1033.328 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; HTC One801e Build/KTU84L) AppleWebKit/535.35 (KHTML, like Gecko)  Chrome/48.0.3679.206 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO X PLAY XT1562 Build/LXB22) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/53.0.1007.384 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-G839 Build/LMY47X) AppleWebKit/535.1 (KHTML, like Gecko)  Chrome/53.0.3239.145 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SM-E500F Build/KTU84P) AppleWebKit/601.24 (KHTML, like Gecko)  Chrome/51.0.2238.387 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D726 Build/LRX22G) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/54.0.2709.134 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SAMSUNG SM-G925S Build/LMY47X) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/53.0.3264.217 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nexus_ 6 Build/KTU84P) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/50.0.2873.382 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G928S Build/LRX22G) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/48.0.3387.391 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/53.0.1535.337 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SAMSUNG SM-T531 Build/KTU84P) AppleWebKit/536.45 (KHTML, like Gecko)  Chrome/48.0.3968.387 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; Ascend G310 Build/JLS36I) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/54.0.2928.310 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G920H Build/KTU84F) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/49.0.2900.189 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-N815T Build/JLS36C) AppleWebKit/536.16 (KHTML, like Gecko)  Chrome/49.0.3546.266 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/49.0.1739.207 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/55.0.3555.257 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/534.37 (KHTML, like Gecko)  Chrome/54.0.3922.366 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SM-N9007 Build/KOT49H) AppleWebKit/536.34 (KHTML, like Gecko)  Chrome/49.0.3550.184 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G935FG Build/LMY47X) AppleWebKit/536.5 (KHTML, like Gecko)  Chrome/50.0.3375.198 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-F300L Build/KOT49I) AppleWebKit/603.49 (KHTML, like Gecko)  Chrome/47.0.1732.400 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Pixel XL Build/NRD90M) AppleWebKit/535.7 (KHTML, like Gecko)  Chrome/54.0.3453.202 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D728 Build/LRX22G) AppleWebKit/603.36 (KHTML, like Gecko)  Chrome/55.0.3101.344 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/48.0.3975.181 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-G717S Build/JSS15J) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/50.0.2770.242 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H930 Build/NRD90C) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/51.0.2790.294 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-T355 Build/LRX22G) AppleWebKit/533.23 (KHTML, like Gecko)  Chrome/48.0.1960.287 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-N915V Build/LRX22C) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/54.0.2119.333 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-D750 Build/KOT49H) AppleWebKit/537.31 (KHTML, like Gecko)  Chrome/50.0.3480.326 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; XT1019 Build/[KXB20.9|KXC21.5]) AppleWebKit/534.3 (KHTML, like Gecko)  Chrome/51.0.2293.134 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One0P8B2 dual sim Build/MRA58K) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/50.0.3838.141 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC Xplorer A310s Build/GRJ90) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/49.0.3147.323 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-N9006 Build/KOT49H) AppleWebKit/537.38 (KHTML, like Gecko)  Chrome/52.0.3637.157 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-E988 Build/KOT49I) AppleWebKit/533.37 (KHTML, like Gecko)  Chrome/51.0.3003.372 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-T265t Build/JLS36C) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/49.0.1790.216 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D325 Build/LRX22G) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/54.0.2073.287 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 7 Build/NME91E) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/48.0.1656.257 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90M) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/48.0.2195.274 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/53.0.1868.237 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; Nexus 7 Build/MMB29K) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/54.0.2812.124 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; MOTOROLA MSM8960 Build/KVT49L) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/51.0.2681.338 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; GT-I9100 Build/KTU84P) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/49.0.1882.147 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G935X Build/MMB29M) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/48.0.2742.231 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-A800F Build/LMY47X) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/52.0.3377.277 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/49.0.2085.208 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; XT1028 Build/[KXB20.9|KXC21.5]) AppleWebKit/601.16 (KHTML, like Gecko)  Chrome/52.0.1148.157 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; ALCATEL ONETOUCH 7032E Build/KOT49H) AppleWebKit/534.45 (KHTML, like Gecko)  Chrome/48.0.1961.226 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG-SM-N910G Build/LRX22C) AppleWebKit/537.17 (KHTML, like Gecko)  Chrome/55.0.2139.368 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; Nexus S Build/GRJ22) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/50.0.1651.144 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 7X Build/MDB08I) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/49.0.2826.246 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G460 Build/LRX22C) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/50.0.3912.372 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-G320A Build/JLS36C) AppleWebKit/537.3 (KHTML, like Gecko)  Chrome/49.0.1566.183 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Lenovo P786 Build/Lenovo) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/53.0.1853.108 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 5P Build/NPD90G) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/48.0.3290.304 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-G3536A Build/JLS36C) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/50.0.2089.123 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; LG-H900 Build/NRD90C) AppleWebKit/601.20 (KHTML, like Gecko)  Chrome/49.0.2332.269 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/602.14 (KHTML, like Gecko)  Chrome/51.0.1183.267 Mobile Safari/533.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG-SM-N910FY Build/LRX22C) AppleWebKit/534.37 (KHTML, like Gecko)  Chrome/54.0.1422.143 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-T275v Build/JLS36C) AppleWebKit/603.16 (KHTML, like Gecko)  Chrome/50.0.2033.119 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; ALCATEL ONE TOUCH 7030A Build/KOT49H) AppleWebKit/603.40 (KHTML, like Gecko)  Chrome/50.0.3406.200 Mobile Safari/603.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SM-G920V Build/MDB08L) AppleWebKit/602.30 (KHTML, like Gecko)  Chrome/48.0.1708.137 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG-D955 Build/KOT49H) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/49.0.1941.290 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; GT-I9100 Build/KTU84P) AppleWebKit/535.41 (KHTML, like Gecko)  Chrome/54.0.1710.304 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 7 Build/LMY48B) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/54.0.3784.327 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTO X FORCE XT1580 Build/LPC23) AppleWebKit/601.29 (KHTML, like Gecko)  Chrome/47.0.2764.189 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; LG-D728 Build/LRX22G) AppleWebKit/534.40 (KHTML, like Gecko)  Chrome/53.0.1365.390 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G9350F Build/MMB29M) AppleWebKit/535.17 (KHTML, like Gecko)  Chrome/52.0.1619.114 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1000 wifi Build/GRK39F) AppleWebKit/537.6 (KHTML, like Gecko)  Chrome/50.0.2274.133 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G9350FD Build/MMB29M) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/54.0.1606.103 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/49.0.2950.333 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC One 801e Build/JSS15J) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/50.0.1514.105 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Lenovo P785 Build/JRO03C) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/53.0.1824.355 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D715 Build/LRX22G) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/55.0.1814.278 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-A800H Build/LRX22G) AppleWebKit/535.20 (KHTML, like Gecko)  Chrome/50.0.3800.106 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/537.11 (KHTML, like Gecko)  Chrome/47.0.2610.171 Mobile Safari/535.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 8 Build/LRX22C) AppleWebKit/533.13 (KHTML, like Gecko)  Chrome/49.0.2790.306 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-J100F Build/KTU84P) AppleWebKit/535.41 (KHTML, like Gecko)  Chrome/49.0.2671.300 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/601.19 (KHTML, like Gecko)  Chrome/55.0.1727.194 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/48.0.2814.386 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; LG-H930 Build/NRD90M) AppleWebKit/534.50 (KHTML, like Gecko)  Chrome/50.0.3012.331 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nokia 3010 Build/IMM76D) AppleWebKit/536.45 (KHTML, like Gecko)  Chrome/55.0.2894.290 Mobile Safari/537.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/535.30 (KHTML, like Gecko)  Chrome/54.0.3944.191 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G920L Build/LRX21T) AppleWebKit/602.32 (KHTML, like Gecko)  Chrome/51.0.1536.359 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G928X Build/LRX22G) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/51.0.3931.177 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G925FG Build/LMY47X) AppleWebKit/537.15 (KHTML, like Gecko)  Chrome/48.0.1133.377 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; SAMSUNG GT-I9200 Build/KTU84P) AppleWebKit/534.26 (KHTML, like Gecko)  Chrome/49.0.2929.268 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/603.49 (KHTML, like Gecko)  Chrome/52.0.2147.281 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; SGH-I337M Build/KOT49H) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/52.0.1521.113 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-G3663S Build/JLS36C) AppleWebKit/601.33 (KHTML, like Gecko)  Chrome/50.0.2850.169 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/53.0.2271.111 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L11) AppleWebKit/603.18 (KHTML, like Gecko)  Chrome/55.0.3262.212 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/48.0.2202.364 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-G900FG Build/KOT49H) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/52.0.3594.238 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; XT1021 Build/LXB22) AppleWebKit/600.17 (KHTML, like Gecko)  Chrome/55.0.2682.367 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SM-G420 Build/LRX22C) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/48.0.3220.256 Mobile Safari/603.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-E500L Build/KTU84P) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/53.0.3503.116 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; LG-H220 Build/KOT49H) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/52.0.1259.343 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; GT-I9300 Build/KTU84P) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/52.0.2087.292 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SM-G450 Build/LRX22C) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/50.0.1804.309 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-N8010 Build/KVT49L) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/53.0.3398.233 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H910 Build/NRD90C) AppleWebKit/534.17 (KHTML, like Gecko)  Chrome/50.0.1013.350 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 6P Build/MDB08I) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/55.0.2646.181 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H910 Build/NRD90M) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/55.0.3821.353 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-G310A Build/JLS36C) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/52.0.1919.279 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-H200 Build/KOT49H) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/52.0.3591.347 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/53.0.1484.111 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/536.26 (KHTML, like Gecko)  Chrome/53.0.3557.363 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/536.14 (KHTML, like Gecko)  Chrome/48.0.3494.230 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/54.0.2810.194 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia Build/NDE63X) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/55.0.1921.127 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 5X Build/NME91E) AppleWebKit/536.34 (KHTML, like Gecko)  Chrome/54.0.3102.346 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-N910V Build/LRX22C) AppleWebKit/534.14 (KHTML, like Gecko)  Chrome/48.0.3470.340 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/47.0.3238.132 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; LG-D724 Build/LRX22G) AppleWebKit/534.36 (KHTML, like Gecko)  Chrome/51.0.2515.234 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/49.0.2556.283 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SGH-N095T Build/JSS15J) AppleWebKit/602.19 (KHTML, like Gecko)  Chrome/49.0.3204.369 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G935I Build/MMB29M) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/49.0.1073.149 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; Nexus 5 Build/MDB08L) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/53.0.3503.118 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SAMSUNG SM-E500F Build/KTU84P) AppleWebKit/603.33 (KHTML, like Gecko)  Chrome/52.0.1885.109 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia Build/NDE63X) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/47.0.3602.189 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Xperia Build/NDE63X) AppleWebKit/537.11 (KHTML, like Gecko)  Chrome/54.0.3727.320 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; LG-D724 Build/LRX22G) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/50.0.2240.314 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; SAMSUNG GT-I9301T Build/KOT49H) AppleWebKit/601.40 (KHTML, like Gecko)  Chrome/55.0.1482.345 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; ALCATEL ONETOUCH 7032A Build/KOT49H) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/47.0.2252.123 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/600.44 (KHTML, like Gecko)  Chrome/49.0.3423.242 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; GT-I9404N Build/KOT49H) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/49.0.3663.281 Mobile Safari/600.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; XT1025 Build/[KXB20.9|KXC21.5]) AppleWebKit/533.42 (KHTML, like Gecko)  Chrome/54.0.1826.182 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G925F Build/LMY47X) AppleWebKit/537.41 (KHTML, like Gecko)  Chrome/49.0.2236.254 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HTC One 801e Build/JSS15J) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/51.0.1584.251 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SAMSUNG SM-T245t Build/JLS36C) AppleWebKit/601.25 (KHTML, like Gecko)  Chrome/52.0.3215.142 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia Build/NDE63X) AppleWebKit/603.34 (KHTML, like Gecko)  Chrome/48.0.1242.196 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 8 Build/LRX22C) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/47.0.2323.355 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC Butterfly S 901 Build/LRX22G) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/49.0.1791.107 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 Build/MRA58K) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/51.0.3762.285 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; LG-D331 Build/LRX22G) AppleWebKit/536.50 (KHTML, like Gecko)  Chrome/54.0.3916.241 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H900 Build/NRD90C) AppleWebKit/602.45 (KHTML, like Gecko)  Chrome/54.0.2347.234 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D728 Build/LRX22G) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/53.0.2271.124 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-V310 Build/KOT49I) AppleWebKit/534.9 (KHTML, like Gecko)  Chrome/51.0.3416.160 Mobile Safari/533.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One809d dual sim Build/MRA58K) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/48.0.2752.117 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; E:number:20-23:22 Build/24.0.B.1.34) AppleWebKit/533.47 (KHTML, like Gecko)  Chrome/47.0.2716.152 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-A800I Build/LRX22G) AppleWebKit/533.41 (KHTML, like Gecko)  Chrome/50.0.2223.211 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; GT-I9100 Build/KTU84P) AppleWebKit/536.49 (KHTML, like Gecko)  Chrome/52.0.3211.270 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; E:number:20-23:30 Build/24.0.B.1.34) AppleWebKit/535.32 (KHTML, like Gecko)  Chrome/55.0.2219.330 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG SM-N9005 Build/KOT49H) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/53.0.1060.220 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/51.0.3211.371 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Nexus5 V7.1 Build/KOT49H) AppleWebKit/535.32 (KHTML, like Gecko)  Chrome/48.0.2290.213 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-A800H Build/LMY47X) AppleWebKit/535.16 (KHTML, like Gecko)  Chrome/51.0.3726.373 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-A800H Build/LMY47X) AppleWebKit/537.7 (KHTML, like Gecko)  Chrome/51.0.3033.206 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H930 Build/NRD90M) AppleWebKit/601.43 (KHTML, like Gecko)  Chrome/54.0.3633.386 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SAMSUNG GT-I9406N Build/KOT49H) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/55.0.2730.248 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia V Build/NDE63X) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/53.0.1345.371 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; MOTO XT1562 Build/LPC23) AppleWebKit/537.18 (KHTML, like Gecko)  Chrome/51.0.1287.123 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTOROLA MOTO XT1580 Build/LMY47Z) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/49.0.1692.194 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/535.15 (KHTML, like Gecko)  Chrome/52.0.3319.196 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; XT1060 Build/SU6-7.3) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/50.0.1206.235 Mobile Safari/535.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/47.0.2196.194 Mobile Safari/533.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; MOTOROLA MOTOG Build/KVT49L) AppleWebKit/534.17 (KHTML, like Gecko)  Chrome/55.0.3799.307 Mobile Safari/534.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-V400 Build/KOT49I) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/47.0.2126.174 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; SM-D920I Build/MMB29V) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/49.0.3701.363 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Elephone P2000 Build/KTU84P) AppleWebKit/535.41 (KHTML, like Gecko)  Chrome/48.0.1359.344 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 5 Build/LRX22C) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/51.0.2795.310 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; GT-I9200 Build/JDQ39) AppleWebKit/533.31 (KHTML, like Gecko)  Chrome/50.0.3101.102 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D327 Build/LRX22G) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/50.0.1949.326 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC OneS Build/MRA58K) AppleWebKit/537.29 (KHTML, like Gecko)  Chrome/49.0.1720.107 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G450 Build/LRX22C) AppleWebKit/603.38 (KHTML, like Gecko)  Chrome/48.0.2705.307 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/55.0.1989.287 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-P355 Build/LRX22G) AppleWebKit/536.13 (KHTML, like Gecko)  Chrome/48.0.1298.108 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; E:number:20-23:01 Build/24.0.B.1.34) AppleWebKit/603.14 (KHTML, like Gecko)  Chrome/53.0.2517.268 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/51.0.3853.113 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/534.50 (KHTML, like Gecko)  Chrome/53.0.1947.126 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D330 Build/LRX22G) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/53.0.3779.217 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; XT1050 Build/[KXB20.9|KXC21.5]) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/51.0.2984.242 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; GT-I9400 Build/KTU84P) AppleWebKit/535.23 (KHTML, like Gecko)  Chrome/52.0.3134.101 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-D928F Build/MMB29V) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/50.0.3955.371 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; LG-E989 Build/KOT49I) AppleWebKit/533.46 (KHTML, like Gecko)  Chrome/50.0.2730.108 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HUAWEI G6-L11 Build/HuaweiG6-L11) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/52.0.1072.182 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/49.0.2408.171 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/50.0.2378.331 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SAMSUNG SM-G430 Build/LRX22G) AppleWebKit/535.27 (KHTML, like Gecko)  Chrome/51.0.1809.249 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One801e dual sim Build/MRA58K) AppleWebKit/537.6 (KHTML, like Gecko)  Chrome/50.0.3205.379 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/47.0.3281.362 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/534.32 (KHTML, like Gecko)  Chrome/47.0.3828.247 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G928FD Build/LRX22G) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/53.0.1789.397 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Lenovo P774 Build/Lenovo) AppleWebKit/537.22 (KHTML, like Gecko)  Chrome/49.0.2419.379 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG SM-A800F Build/LMY47X) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/54.0.2645.226 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G9350T Build/MMB29M) AppleWebKit/600.5 (KHTML, like Gecko)  Chrome/54.0.3717.148 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG SM-E500L Build/KTU84P) AppleWebKit/537.14 (KHTML, like Gecko)  Chrome/52.0.3575.220 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-G340R5 Build/JLS36C) AppleWebKit/533.32 (KHTML, like Gecko)  Chrome/49.0.3869.198 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 6 Build/MMB29K) AppleWebKit/536.1 (KHTML, like Gecko)  Chrome/55.0.2900.282 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One0P8B2 Build/MRA58K) AppleWebKit/534.7 (KHTML, like Gecko)  Chrome/51.0.3245.275 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; HTC 80:number1-2w Build/LRX22G) AppleWebKit/535.12 (KHTML, like Gecko)  Chrome/55.0.3006.157 Mobile Safari/535.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP Compaq 2310b Build/JLS36C) AppleWebKit/602.4 (KHTML, like Gecko)  Chrome/48.0.3348.215 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; Nokia 1100 LTE Build/GRK39F) AppleWebKit/535.20 (KHTML, like Gecko)  Chrome/50.0.2753.355 Mobile Safari/600.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One0P8B2 Build/MRA58K) AppleWebKit/603.20 (KHTML, like Gecko)  Chrome/54.0.3742.247 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D704 Build/LRX22G) AppleWebKit/535.39 (KHTML, like Gecko)  Chrome/47.0.3495.293 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D726 Build/LRX22G) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/55.0.1187.188 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 9P Build/NME91E) AppleWebKit/535.22 (KHTML, like Gecko)  Chrome/54.0.1414.357 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 8 Build/NPD90G) AppleWebKit/537.10 (KHTML, like Gecko)  Chrome/55.0.3719.241 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G920M Build/KOT49H) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/53.0.2217.220 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; IQ4501 Quad Build/KOT49H) AppleWebKit/536.31 (KHTML, like Gecko)  Chrome/54.0.3155.190 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG SM-P355 Build/LRX22G) AppleWebKit/600.37 (KHTML, like Gecko)  Chrome/54.0.1224.295 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SM-T550 Build/LRX22G) AppleWebKit/602.32 (KHTML, like Gecko)  Chrome/54.0.1568.311 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HP 685 Notebook PC Build/JLS36C) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/48.0.3755.155 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/51.0.3471.358 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Xperia Build/NDE63X) AppleWebKit/602.4 (KHTML, like Gecko)  Chrome/55.0.3284.239 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Nexus 8X Build/NME91E) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/52.0.2385.320 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; LG-H920 Build/NRD90C) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/54.0.3271.170 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 5 Build/NPD90G) AppleWebKit/535.20 (KHTML, like Gecko)  Chrome/50.0.3870.257 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; GT-I9100 Build/KTU84P) AppleWebKit/600.25 (KHTML, like Gecko)  Chrome/47.0.1081.230 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTO XT1562 Build/LMY47Z) AppleWebKit/603.26 (KHTML, like Gecko)  Chrome/54.0.1721.373 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-T810 Build/LRX22G) AppleWebKit/536.25 (KHTML, like Gecko)  Chrome/52.0.2418.345 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G330 Build/JLS36I) AppleWebKit/537.46 (KHTML, like Gecko)  Chrome/47.0.1333.164 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-G350A Build/JLS36C) AppleWebKit/603.32 (KHTML, like Gecko)  Chrome/55.0.2990.350 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/49.0.1881.102 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-T285t Build/JSS15J) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/54.0.1598.293 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nexus_ 8 Build/KOT49H) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/50.0.2841.328 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; Nexus 5P Build/MMB29V) AppleWebKit/602.7 (KHTML, like Gecko)  Chrome/48.0.3181.332 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/537.42 (KHTML, like Gecko)  Chrome/52.0.2350.384 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HTC Xplorer A290s Build/GRJ90) AppleWebKit/601.24 (KHTML, like Gecko)  Chrome/54.0.3174.114 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G9258 Build/LRX22G) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/48.0.2445.159 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Nexus 5X Build/NPD90G) AppleWebKit/533.26 (KHTML, like Gecko)  Chrome/51.0.1399.394 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/536.3 (KHTML, like Gecko)  Chrome/47.0.1290.185 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; LG-V400 Build/KOT49I) AppleWebKit/601.22 (KHTML, like Gecko)  Chrome/55.0.2532.150 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-G320V Build/JLS36C) AppleWebKit/600.16 (KHTML, like Gecko)  Chrome/51.0.3611.330 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/55.0.3025.176 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G928F Build/LMY47X) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/53.0.3188.326 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350I Build/LMY47X) AppleWebKit/536.29 (KHTML, like Gecko)  Chrome/50.0.1337.368 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/53.0.1294.388 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SM-G925M Build/MDB08I) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/47.0.2944.316 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; LG-D958 Build/KOT49H) AppleWebKit/534.8 (KHTML, like Gecko)  Chrome/52.0.2268.110 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; HTC Butterfly S 901s Build/LRX22G) AppleWebKit/601.37 (KHTML, like Gecko)  Chrome/49.0.3578.272 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-G925H Build/KTU84F) AppleWebKit/602.46 (KHTML, like Gecko)  Chrome/49.0.3831.182 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-G910T Build/KOT49I) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/49.0.1564.367 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G900FD Build/KOT49H) AppleWebKit/602.38 (KHTML, like Gecko)  Chrome/49.0.1624.112 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SAMSUNG SM-N8000 Build/JZO54K) AppleWebKit/603.27 (KHTML, like Gecko)  Chrome/50.0.2750.394 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-E988 Build/KOT49I) AppleWebKit/537.14 (KHTML, like Gecko)  Chrome/53.0.1586.250 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; Nexus 5 Build/KOT49H) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/55.0.3567.391 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 6P Build/MMB29V) AppleWebKit/600.38 (KHTML, like Gecko)  Chrome/48.0.2761.301 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/49.0.2226.157 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; HTC Butterfly S 919 Build/LRX22G) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/54.0.1839.249 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MDB08L) AppleWebKit/600.17 (KHTML, like Gecko)  Chrome/48.0.1999.394 Mobile Safari/536.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SM-E500L Build/KTU84P) AppleWebKit/603.1 (KHTML, like Gecko)  Chrome/55.0.2298.333 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC Butterfly S 901 Build/LRX22G) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/51.0.3547.232 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M9 Build/MRA58K) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/48.0.3092.246 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; HTC 80:number1-2e Build/JSS15J) AppleWebKit/600.46 (KHTML, like Gecko)  Chrome/50.0.1341.391 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M9 Build/MRA58K) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/52.0.3278.111 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; Nokia 1000 4G Build/GRK39F) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/55.0.1047.260 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NME91E) AppleWebKit/602.45 (KHTML, like Gecko)  Chrome/51.0.2854.180 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 8P Build/NPD90G) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/49.0.2998.393 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G935F-ORANGE Build/LMY47X) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/53.0.2071.109 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H900 Build/NRD90M) AppleWebKit/535.35 (KHTML, like Gecko)  Chrome/50.0.2952.211 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/48.0.1823.199 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/600.11 (KHTML, like Gecko)  Chrome/54.0.2786.111 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 6P Build/NPD90G) AppleWebKit/534.25 (KHTML, like Gecko)  Chrome/49.0.1849.337 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/534.25 (KHTML, like Gecko)  Chrome/49.0.2609.336 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-N9006 Build/KOT49H) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/55.0.2618.192 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One M8 Build/MRA58K) AppleWebKit/602.39 (KHTML, like Gecko)  Chrome/49.0.1985.206 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-G420 Build/LRX22C) AppleWebKit/535.19 (KHTML, like Gecko)  Chrome/51.0.3176.293 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G9358 Build/LMY47X) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/55.0.2337.202 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H900 Build/NRD90M) AppleWebKit/533.44 (KHTML, like Gecko)  Chrome/52.0.1054.346 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/601.12 (KHTML, like Gecko)  Chrome/53.0.3831.245 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO XT1570 MOTO X STYLE Build/LPH223) AppleWebKit/537.45 (KHTML, like Gecko)  Chrome/55.0.3429.313 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One 801e Build/JLS36C) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/54.0.3163.323 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTO G Build/LPC23) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/47.0.3968.378 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9400 Build/KTU84P) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/48.0.3635.300 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HTC One 801s Build/JLS36C) AppleWebKit/603.39 (KHTML, like Gecko)  Chrome/53.0.1674.127 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/49.0.2059.229 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; LG-F500S Build/KOT49I) AppleWebKit/600.26 (KHTML, like Gecko)  Chrome/52.0.2699.274 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/54.0.3666.229 Mobile Safari/603.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-G925FG Build/LRX21T) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/54.0.1384.376 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 5P Build/MMB29V) AppleWebKit/537.12 (KHTML, like Gecko)  Chrome/47.0.2208.245 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/535.35 (KHTML, like Gecko)  Chrome/51.0.3178.152 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Nexus 8X Build/NPD90G) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/47.0.3883.378 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-T255s Build/JLS36C) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/53.0.2193.233 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-A700T Build/LMY47X) AppleWebKit/534.6 (KHTML, like Gecko)  Chrome/55.0.2595.345 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D724 Build/LRX22G) AppleWebKit/537.17 (KHTML, like Gecko)  Chrome/55.0.1422.176 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SAMSUNG SM-T245t Build/JLS36C) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/55.0.1534.223 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 7 Build/NPD90G) AppleWebKit/536.13 (KHTML, like Gecko)  Chrome/48.0.3391.101 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920T Build/LRX22G) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/49.0.1392.161 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9200 Build/KTU84P) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/54.0.3929.385 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; SM-N8000 Build/KVT49L) AppleWebKit/537.47 (KHTML, like Gecko)  Chrome/49.0.1798.194 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 5 Build/LMY48B) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/49.0.2320.122 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; XT1026 Build/[KXB20.9|KXC21.5]) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/55.0.1897.324 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; XT1021 Build/LPK23) AppleWebKit/602.27 (KHTML, like Gecko)  Chrome/49.0.1170.379 Mobile Safari/537.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SM-G3430A Build/JLS36C) AppleWebKit/603.11 (KHTML, like Gecko)  Chrome/50.0.2448.334 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H900 Build/NRD90M) AppleWebKit/603.43 (KHTML, like Gecko)  Chrome/51.0.2528.230 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H900 Build/NRD90C) AppleWebKit/534.43 (KHTML, like Gecko)  Chrome/55.0.3983.321 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H920 Build/NRD90C) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/51.0.3310.281 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; SM-G920T Build/LMY47X) AppleWebKit/534.23 (KHTML, like Gecko)  Chrome/51.0.2912.251 Mobile Safari/536.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SM-P805 Build/LRX22G) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/47.0.2099.203 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 7 Build/NPD90G) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/55.0.1544.205 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; [HM NOTE|NOTE-III|NOTE2 1LTET) AppleWebKit/601.11 (KHTML, like Gecko)  Chrome/54.0.2070.190 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/535.41 (KHTML, like Gecko)  Chrome/53.0.3770.357 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/603.50 (KHTML, like Gecko)  Chrome/55.0.3955.115 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO G Build/LMY47Z) AppleWebKit/602.33 (KHTML, like Gecko)  Chrome/50.0.2030.100 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC OneS Build/MRA58K) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/55.0.3202.263 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 8X Build/NPD90G) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/51.0.1221.176 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 7 Build/MDB08I) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/54.0.2256.269 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; HTC Butterfly S 901s Build/LRX22G) AppleWebKit/535.28 (KHTML, like Gecko)  Chrome/48.0.1707.208 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/537.46 (KHTML, like Gecko)  Chrome/50.0.3257.135 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-A700T Build/LMY47X) AppleWebKit/534.13 (KHTML, like Gecko)  Chrome/51.0.1833.385 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; LG-H920 Build/NRD90C) AppleWebKit/536.6 (KHTML, like Gecko)  Chrome/50.0.1284.372 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/533.28 (KHTML, like Gecko)  Chrome/51.0.2471.218 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G925H Build/LRX22G) AppleWebKit/601.6 (KHTML, like Gecko)  Chrome/50.0.3095.224 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 7 Build/MMB29K) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/54.0.1610.331 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 8X Build/NME91E) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/53.0.3890.310 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; MOTOROLA MOTO XT1580 Build/LMY47Z) AppleWebKit/533.34 (KHTML, like Gecko)  Chrome/54.0.3213.290 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Xperia Build/NDE63X) AppleWebKit/600.4 (KHTML, like Gecko)  Chrome/48.0.3853.189 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/537.1 (KHTML, like Gecko)  Chrome/47.0.3961.342 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC 80:number1-2w Build/JSS15J) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/52.0.2127.271 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/534.20 (KHTML, like Gecko)  Chrome/47.0.1670.349 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG SM-T532 Build/KOT49H) AppleWebKit/537.3 (KHTML, like Gecko)  Chrome/52.0.1832.373 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; SM-E500L Build/KTU84P) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/48.0.2072.216 Mobile Safari/536.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/48.0.1440.327 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/48.0.3271.296 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D841P Build/KVT49L) AppleWebKit/603.9 (KHTML, like Gecko)  Chrome/53.0.2954.269 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; XT1043 Build/[KXB20.9|KXC21.5]) AppleWebKit/603.15 (KHTML, like Gecko)  Chrome/55.0.1715.314 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SM-G900W8 Build/KOT49H) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/47.0.1720.372 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NME91E) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/53.0.2688.257 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; SAMSUNG SM-T355 Build/LRX22G) AppleWebKit/534.37 (KHTML, like Gecko)  Chrome/52.0.2473.146 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M9 dual sim Build/MRA58K) AppleWebKit/603.35 (KHTML, like Gecko)  Chrome/50.0.2053.153 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D334 Build/LRX22G) AppleWebKit/533.22 (KHTML, like Gecko)  Chrome/54.0.2537.272 Mobile Safari/536.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/603.36 (KHTML, like Gecko)  Chrome/51.0.2464.277 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-A700H Build/LRX22G) AppleWebKit/536.17 (KHTML, like Gecko)  Chrome/47.0.2484.345 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/50.0.1689.115 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; MOTOROLA MOTOG Build/KVT49L) AppleWebKit/601.36 (KHTML, like Gecko)  Chrome/55.0.1663.302 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G925FG Build/LRX22G) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/50.0.2875.300 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 8 Build/NME91E) AppleWebKit/601.48 (KHTML, like Gecko)  Chrome/50.0.2155.259 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G9350S Build/MMB29M) AppleWebKit/537.3 (KHTML, like Gecko)  Chrome/54.0.1566.172 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; Ascend G310 Build/JLS36I) AppleWebKit/535.33 (KHTML, like Gecko)  Chrome/47.0.2476.205 Mobile Safari/601.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-N915A Build/LRX22C) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/48.0.1024.303 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D729 Build/LRX22G) AppleWebKit/534.37 (KHTML, like Gecko)  Chrome/49.0.1681.260 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D325 Build/LRX22G) AppleWebKit/602.41 (KHTML, like Gecko)  Chrome/54.0.1648.299 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G920FG Build/LMY47X) AppleWebKit/600.15 (KHTML, like Gecko)  Chrome/51.0.2484.398 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; SM-D925F Build/MMB29V) AppleWebKit/536.2 (KHTML, like Gecko)  Chrome/53.0.1399.166 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G9350F-ORANGE Build/MMB29M) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/53.0.3675.371 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SAMSUNG-SM-N910A Build/LRX22C) AppleWebKit/534.22 (KHTML, like Gecko)  Chrome/54.0.1792.118 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G925H Build/LRX22G) AppleWebKit/534.25 (KHTML, like Gecko)  Chrome/51.0.3876.159 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; MOTOROLA RAZR Build/KVT49L) AppleWebKit/601.21 (KHTML, like Gecko)  Chrome/47.0.2869.177 Mobile Safari/536.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia Build/NDE63X) AppleWebKit/535.20 (KHTML, like Gecko)  Chrome/51.0.2496.396 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One801e Build/MRA58K) AppleWebKit/536.30 (KHTML, like Gecko)  Chrome/48.0.2227.348 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/535.43 (KHTML, like Gecko)  Chrome/49.0.3227.281 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One0P8B2 Build/MRA58K) AppleWebKit/535.37 (KHTML, like Gecko)  Chrome/54.0.3324.134 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One_M9 dual sim Build/MRA58K) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/54.0.2591.185 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; SAMSUNG SM-D9350I Build/MDB08I) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/53.0.1290.103 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G9358 Build/MMB29M) AppleWebKit/536.47 (KHTML, like Gecko)  Chrome/54.0.3535.282 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/535.36 (KHTML, like Gecko)  Chrome/49.0.1910.297 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; ALCATEL ONE TOUCH 7029D Build/KOT49H) AppleWebKit/601.48 (KHTML, like Gecko)  Chrome/50.0.2404.258 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G935I Build/LMY47X) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/55.0.3368.108 Mobile Safari/537.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 dual sim Build/MRA58K) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/55.0.1213.284 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; E:number:20-23:34 Build/24.0.A.1.34) AppleWebKit/602.28 (KHTML, like Gecko)  Chrome/49.0.3622.118 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC Onemini 2 Build/MRA58K) AppleWebKit/602.43 (KHTML, like Gecko)  Chrome/49.0.3896.169 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Nexus 7 Build/NPD90G) AppleWebKit/534.41 (KHTML, like Gecko)  Chrome/49.0.2026.152 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 5 Build/NME91E) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/48.0.1838.293 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G9350I Build/LMY47X) AppleWebKit/534.21 (KHTML, like Gecko)  Chrome/48.0.1214.277 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G928FD Build/LRX22G) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/53.0.3613.100 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC One_M8 Build/MRA58K) AppleWebKit/533.14 (KHTML, like Gecko)  Chrome/53.0.2933.374 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/600.35 (KHTML, like Gecko)  Chrome/52.0.1746.291 Mobile Safari/537.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/601.27 (KHTML, like Gecko)  Chrome/55.0.3183.270 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTOROLA MOTO XT1562 Build/LPK23) AppleWebKit/601.39 (KHTML, like Gecko)  Chrome/48.0.2731.184 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; LG-H930 Build/NRD90M) AppleWebKit/533.24 (KHTML, like Gecko)  Chrome/53.0.1901.121 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus 4 Build/KOT49H) AppleWebKit/601.15 (KHTML, like Gecko)  Chrome/48.0.2723.264 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; GT-I9505N Build/KOT49H) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/53.0.2510.280 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; SM-G430 Build/LRX22G) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/53.0.2286.122 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; Lenovo P773 Build/JRO03C) AppleWebKit/600.16 (KHTML, like Gecko)  Chrome/47.0.3210.303 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D332 Build/LRX22G) AppleWebKit/600.47 (KHTML, like Gecko)  Chrome/52.0.3836.155 Mobile Safari/533.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/52.0.1267.146 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HP 655 Notebook PC Build/JSS15J) AppleWebKit/602.13 (KHTML, like Gecko)  Chrome/48.0.2930.121 Mobile Safari/602.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-H220 Build/KOT49H) AppleWebKit/534.31 (KHTML, like Gecko)  Chrome/49.0.3835.135 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SAMSUNG SM-D928M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/53.0.2779.255 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/534.30 (KHTML, like Gecko)  Chrome/52.0.3561.200 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTO G Build/LPD23) AppleWebKit/601.41 (KHTML, like Gecko)  Chrome/55.0.1936.324 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; XT1070 Build/SU6-7.3) AppleWebKit/533.16 (KHTML, like Gecko)  Chrome/54.0.3848.400 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 7X Build/MMB29V) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/49.0.3817.233 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-P355 Build/LRX22G) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/49.0.2120.206 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/601.35 (KHTML, like Gecko)  Chrome/55.0.2444.319 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 7X Build/MDB08L) AppleWebKit/535.7 (KHTML, like Gecko)  Chrome/51.0.1783.341 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G9350X Build/MMB29M) AppleWebKit/601.42 (KHTML, like Gecko)  Chrome/55.0.3673.314 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HP 725 Notebook PC Build/JLS36C) AppleWebKit/536.13 (KHTML, like Gecko)  Chrome/47.0.2570.166 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/534.12 (KHTML, like Gecko)  Chrome/48.0.1596.209 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SAMSUNG SM-D925I Build/MDB08I) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/52.0.3216.197 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Google Nexus 7 Build/KOT49H) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/51.0.3236.107 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D913I Build/KVT49L) AppleWebKit/537.32 (KHTML, like Gecko)  Chrome/53.0.3490.251 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SM-G9350H Build/LMY47X) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/47.0.1487.358 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; Nokia 1100 4G Build/GRK39F) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/49.0.1888.278 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-A700 Build/LMY47X) AppleWebKit/602.15 (KHTML, like Gecko)  Chrome/54.0.2770.163 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G928X Build/LRX22G) AppleWebKit/603.40 (KHTML, like Gecko)  Chrome/51.0.3248.214 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SM-G9350F Build/MMB29M) AppleWebKit/600.7 (KHTML, like Gecko)  Chrome/53.0.2042.375 Mobile Safari/537.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/600.28 (KHTML, like Gecko)  Chrome/47.0.3189.357 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-D841T1 Build/KOT49I) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/53.0.2302.344 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; Nokia 1000 4G Build/GRK39F) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/47.0.1053.171 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; GT-I9800 Build/KTU84P) AppleWebKit/537.43 (KHTML, like Gecko)  Chrome/54.0.2198.270 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; ALCATEL ONE TOUCH 7036A Build/KOT49H) AppleWebKit/536.48 (KHTML, like Gecko)  Chrome/48.0.3419.300 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; Nokia 1100 wifi Build/GRK39F) AppleWebKit/600.40 (KHTML, like Gecko)  Chrome/50.0.1691.344 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G920FD Build/LRX22G) AppleWebKit/602.9 (KHTML, like Gecko)  Chrome/47.0.2554.388 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus_ 6 Build/KTU84P) AppleWebKit/600.22 (KHTML, like Gecko)  Chrome/50.0.2826.213 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/600.47 (KHTML, like Gecko)  Chrome/51.0.1536.195 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; HTC One max Build/JLS36C) AppleWebKit/602.11 (KHTML, like Gecko)  Chrome/54.0.1139.191 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; HTC Butterfly S 919d Build/LRX22G) AppleWebKit/534.11 (KHTML, like Gecko)  Chrome/48.0.2774.356 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G920H Build/LRX22G) AppleWebKit/535.50 (KHTML, like Gecko)  Chrome/52.0.1998.170 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; MOTOROLA MOTO G Build/LPD23) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/50.0.1473.285 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; GT-I9800 Build/KTU84P) AppleWebKit/533.32 (KHTML, like Gecko)  Chrome/49.0.2530.166 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel C Build/NME91E) AppleWebKit/534.8 (KHTML, like Gecko)  Chrome/48.0.2646.227 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG-SM-N910V Build/LRX22C) AppleWebKit/601.7 (KHTML, like Gecko)  Chrome/54.0.2789.145 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G935M Build/MMB29M) AppleWebKit/535.12 (KHTML, like Gecko)  Chrome/51.0.3121.156 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Nexus 5X Build/NPD90G) AppleWebKit/603.12 (KHTML, like Gecko)  Chrome/54.0.1944.234 Mobile Safari/533.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; SM-T532 Build/KOT49H) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/48.0.2401.228 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; SAMSUNG GT-I9500 Build/KTU84P) AppleWebKit/533.17 (KHTML, like Gecko)  Chrome/53.0.1479.378 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; MOTO XT1562 Build/LPK23) AppleWebKit/535.4 (KHTML, like Gecko)  Chrome/47.0.2261.351 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; GT-I9300 Build/JDQ39) AppleWebKit/536.8 (KHTML, like Gecko)  Chrome/55.0.1760.143 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-G9208 Build/LRX21T) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/54.0.3339.158 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G925L Build/LRX22G) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/50.0.2131.372 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-G920I Build/MDB08I) AppleWebKit/536.21 (KHTML, like Gecko)  Chrome/47.0.1041.153 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; LG-H930 Build/NRD90C) AppleWebKit/534.22 (KHTML, like Gecko)  Chrome/50.0.1250.384 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-D941P Build/KVT49L) AppleWebKit/602.6 (KHTML, like Gecko)  Chrome/47.0.3413.342 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.2; LG-D330 Build/LRX22G) AppleWebKit/536.14 (KHTML, like Gecko)  Chrome/55.0.3724.165 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Pixel C Build/NRD90M) AppleWebKit/600.12 (KHTML, like Gecko)  Chrome/53.0.3964.323 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; Nexus 8 Build/NME91E) AppleWebKit/600.35 (KHTML, like Gecko)  Chrome/55.0.3578.276 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; GT-I9500 Build/JDQ39) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/49.0.2188.136 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/601.2 (KHTML, like Gecko)  Chrome/52.0.3209.258 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; SAMSUNG SM-T275a Build/JLS36C) AppleWebKit/603.49 (KHTML, like Gecko)  Chrome/47.0.2473.226 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G935M Build/LMY47X) AppleWebKit/602.31 (KHTML, like Gecko)  Chrome/55.0.1383.135 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; LG-D326 Build/LRX22G) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/49.0.1399.105 Mobile Safari/535.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-D808T1 Build/LMY47X) AppleWebKit/534.49 (KHTML, like Gecko)  Chrome/54.0.2179.336 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D721 Build/LRX22G) AppleWebKit/534.43 (KHTML, like Gecko)  Chrome/53.0.3207.137 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-G835K Build/KVT49L) AppleWebKit/601.30 (KHTML, like Gecko)  Chrome/53.0.1619.250 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G925I Build/KOT49H) AppleWebKit/536.44 (KHTML, like Gecko)  Chrome/52.0.1480.168 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/601.49 (KHTML, like Gecko)  Chrome/54.0.2733.119 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D329 Build/LRX22G) AppleWebKit/601.26 (KHTML, like Gecko)  Chrome/55.0.1273.143 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; GT-I9400 Build/JDQ39) AppleWebKit/603.38 (KHTML, like Gecko)  Chrome/47.0.2979.162 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; GT-I9500 Build/KTU84P) AppleWebKit/600.49 (KHTML, like Gecko)  Chrome/50.0.3896.329 Mobile Safari/533.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; LG-D722 Build/LRX22G) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/49.0.1402.161 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; ALCATEL ONE TOUCH 7029A Build/KOT49H) AppleWebKit/536.44 (KHTML, like Gecko)  Chrome/51.0.3272.229 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; SM-G3449R5 Build/JLS36C) AppleWebKit/533.20 (KHTML, like Gecko)  Chrome/53.0.1667.240 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-G920I Build/MDB08I) AppleWebKit/537.14 (KHTML, like Gecko)  Chrome/48.0.2700.120 Mobile Safari/600.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; SAMSUNG SM-G928T Build/LMY47X) AppleWebKit/536.32 (KHTML, like Gecko)  Chrome/53.0.3103.102 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; SAMSUNG GT-I9800 Build/KTU84P) AppleWebKit/600.9 (KHTML, like Gecko)  Chrome/55.0.1961.271 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1.1; MOTO G XT1068 Build/LPK23) AppleWebKit/602.24 (KHTML, like Gecko)  Chrome/52.0.2504.331 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9300 Build/KTU84P) AppleWebKit/600.31 (KHTML, like Gecko)  Chrome/52.0.1510.176 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-G900FD Build/LRX21T) AppleWebKit/533.33 (KHTML, like Gecko)  Chrome/53.0.1797.144 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; SAMSUNG SM-D925F Build/MDB08I) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/51.0.2254.346 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Pixel XL Build/NRD90M) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/47.0.2917.360 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H910 Build/NRD90C) AppleWebKit/535.24 (KHTML, like Gecko)  Chrome/54.0.3459.192 Mobile Safari/602.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; GT-I9200 Build/JDQ39) AppleWebKit/602.22 (KHTML, like Gecko)  Chrome/52.0.3154.246 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-G480 Build/LRX22G) AppleWebKit/535.17 (KHTML, like Gecko)  Chrome/49.0.1974.187 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G928S Build/MMB29K) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/54.0.1533.379 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; HTC Onemini 2 Build/MRA58K) AppleWebKit/603.36 (KHTML, like Gecko)  Chrome/47.0.2131.344 Mobile Safari/602.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-G9350I Build/MMB29V) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/47.0.1719.303 Mobile Safari/533.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/51.0.1651.313 Mobile Safari/533.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/601.32 (KHTML, like Gecko)  Chrome/52.0.2243.245 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 8 Build/LRX22C) AppleWebKit/600.28 (KHTML, like Gecko)  Chrome/52.0.3719.284 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; ALCATEL ONETOUCH 7043E Build/KOT49H) AppleWebKit/534.50 (KHTML, like Gecko)  Chrome/47.0.2532.340 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 7X Build/NPD90G) AppleWebKit/600.13 (KHTML, like Gecko)  Chrome/50.0.3357.364 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3310 Build/IMM76D) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/48.0.2350.363 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 6P Build/NME91E) AppleWebKit/600.33 (KHTML, like Gecko)  Chrome/48.0.2147.234 Mobile Safari/603.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One_M8 Pro Build/MRA58K) AppleWebKit/533.2 (KHTML, like Gecko)  Chrome/51.0.3308.156 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SM-D925L Build/MDB08I) AppleWebKit/600.30 (KHTML, like Gecko)  Chrome/47.0.2309.226 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One max Build/JSS15J) AppleWebKit/535.45 (KHTML, like Gecko)  Chrome/51.0.2890.264 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-V400 Build/KOT49I) AppleWebKit/535.40 (KHTML, like Gecko)  Chrome/52.0.1473.371 Mobile Safari/601.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G920FD Build/LMY47X) AppleWebKit/602.35 (KHTML, like Gecko)  Chrome/51.0.1086.229 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus5 V6.1 Build/KOT49H) AppleWebKit/533.45 (KHTML, like Gecko)  Chrome/53.0.3359.379 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H910 Build/NRD90M) AppleWebKit/536.25 (KHTML, like Gecko)  Chrome/48.0.3031.354 Mobile Safari/603.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9700 Build/KTU84P) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/53.0.3542.388 Mobile Safari/537.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG GT-I9100 Build/KTU84P) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/53.0.2340.343 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HP 735 Notebook PC Build/JSS15J) AppleWebKit/534.24 (KHTML, like Gecko)  Chrome/48.0.1142.162 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG SM-G900W8 Build/KOT49H) AppleWebKit/600.21 (KHTML, like Gecko)  Chrome/50.0.2731.300 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; IQ4504 Quad Build/KOT49H) AppleWebKit/602.37 (KHTML, like Gecko)  Chrome/49.0.1222.231 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 9X Build/NME91E) AppleWebKit/537.49 (KHTML, like Gecko)  Chrome/52.0.2846.340 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3110 Build/IMM76D) AppleWebKit/601.23 (KHTML, like Gecko)  Chrome/48.0.3434.193 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-G470 Build/LRX22G) AppleWebKit/533.30 (KHTML, like Gecko)  Chrome/50.0.1413.123 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus_ 6 Build/KTU84P) AppleWebKit/536.41 (KHTML, like Gecko)  Chrome/51.0.2371.360 Mobile Safari/601.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; XT1050 Build/[KXB20.9|KXC21.5]) AppleWebKit/603.28 (KHTML, like Gecko)  Chrome/54.0.3841.137 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.0; Pixel XL Build/NRD90M) AppleWebKit/600.50 (KHTML, like Gecko)  Chrome/47.0.1976.186 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-F500K Build/KOT49I) AppleWebKit/600.45 (KHTML, like Gecko)  Chrome/52.0.2578.274 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; GT-I9500 Build/JDQ39) AppleWebKit/533.43 (KHTML, like Gecko)  Chrome/49.0.3447.392 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; HTC One0P6B Build/KOT49H) AppleWebKit/603.35 (KHTML, like Gecko)  Chrome/54.0.1203.124 Mobile Safari/534.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 6 Build/NPD90G) AppleWebKit/536.36 (KHTML, like Gecko)  Chrome/50.0.1113.324 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MDB08L) AppleWebKit/602.33 (KHTML, like Gecko)  Chrome/50.0.3840.110 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; Nokia 1100 4G Build/GRK39F) AppleWebKit/603.22 (KHTML, like Gecko)  Chrome/55.0.3466.118 Mobile Safari/600.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; SM-G430 Build/LRX22C) AppleWebKit/600.39 (KHTML, like Gecko)  Chrome/47.0.3046.230 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/55.0.1752.201 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; E:number:20-23:32 Build/24.0.A.1.34) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/50.0.1337.325 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; LG-H920 Build/NRD90M) AppleWebKit/537.50 (KHTML, like Gecko)  Chrome/48.0.1953.384 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HP 695 Notebook PC Build/JLS36C) AppleWebKit/534.45 (KHTML, like Gecko)  Chrome/53.0.2421.263 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-D924 Build/KVT49L) AppleWebKit/602.42 (KHTML, like Gecko)  Chrome/50.0.3999.114 Mobile Safari/601.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; SAMSUNG GT-I9400 Build/KTU84P) AppleWebKit/600.48 (KHTML, like Gecko)  Chrome/48.0.2029.147 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; LG-D954 Build/KOT49I) AppleWebKit/537.30 (KHTML, like Gecko)  Chrome/49.0.3554.141 Mobile Safari/537.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.10 (KHTML, like Gecko)  Chrome/52.0.2273.290 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Nexus 8 Build/NPD90G) AppleWebKit/535.15 (KHTML, like Gecko)  Chrome/55.0.3851.338 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; HTC 80:number1-2e Build/LRX22G) AppleWebKit/533.3 (KHTML, like Gecko)  Chrome/48.0.1566.317 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/536.11 (KHTML, like Gecko)  Chrome/48.0.3072.395 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G935H Build/MMB29M) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/49.0.3821.392 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/533.8 (KHTML, like Gecko)  Chrome/52.0.1948.269 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/603.13 (KHTML, like Gecko)  Chrome/50.0.3218.175 Mobile Safari/603.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G9350FQ Build/LMY47X) AppleWebKit/603.42 (KHTML, like Gecko)  Chrome/48.0.1965.326 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; Nexus 7P Build/MDB08L) AppleWebKit/535.49 (KHTML, like Gecko)  Chrome/53.0.1910.327 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; SAMSUNG SM-G920FD Build/LRX22G) AppleWebKit/534.12 (KHTML, like Gecko)  Chrome/54.0.3313.344 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel C Build/NME91E) AppleWebKit/600.29 (KHTML, like Gecko)  Chrome/52.0.1432.256 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; SM-D915F Build/KVT49L) AppleWebKit/534.44 (KHTML, like Gecko)  Chrome/47.0.1517.167 Mobile Safari/535.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; MOTOROLA MSM8960 Build/KVT49L) AppleWebKit/603.19 (KHTML, like Gecko)  Chrome/54.0.1481.342 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC Onemini 2 Build/MRA58K) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/54.0.3835.390 Mobile Safari/601.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; Google Nexus 6 Build/KOT49H) AppleWebKit/536.39 (KHTML, like Gecko)  Chrome/49.0.2068.177 Mobile Safari/535.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/600.20 (KHTML, like Gecko)  Chrome/55.0.2700.353 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; LG-D951 Build/KOT49H) AppleWebKit/603.4 (KHTML, like Gecko)  Chrome/55.0.3634.172 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G928T Build/LMY47X) AppleWebKit/534.12 (KHTML, like Gecko)  Chrome/50.0.1036.159 Mobile Safari/603.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; IQ4503 Quad Build/KOT49H) AppleWebKit/600.2 (KHTML, like Gecko)  Chrome/52.0.1653.362 Mobile Safari/537.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nokia 3110 Build/IMM76D) AppleWebKit/600.23 (KHTML, like Gecko)  Chrome/47.0.2043.375 Mobile Safari/603.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SM-G9009D Build/KOT49H) AppleWebKit/537.16 (KHTML, like Gecko)  Chrome/48.0.1695.118 Mobile Safari/600.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 9 Build/LRX22C) AppleWebKit/533.38 (KHTML, like Gecko)  Chrome/51.0.3815.277 Mobile Safari/603.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-G925FQ Build/LRX21T) AppleWebKit/533.5 (KHTML, like Gecko)  Chrome/53.0.1642.143 Mobile Safari/534.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-A700I Build/LRX22G) AppleWebKit/602.36 (KHTML, like Gecko)  Chrome/52.0.2167.236 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; Nexus 8 Build/LRX22C) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/47.0.3783.213 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SM-G928F-ORANGE Build/LRX22G) AppleWebKit/536.47 (KHTML, like Gecko)  Chrome/51.0.3708.156 Mobile Safari/600.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; [HM NOTE|NOTE-III|NOTE2 1LTETD) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/54.0.2379.350 Mobile Safari/601.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SAMSUNG SM-G9350FQ Build/MMB29M) AppleWebKit/601.40 (KHTML, like Gecko)  Chrome/50.0.1566.245 Mobile Safari/535.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.1; Nexus 9 Build/LRX22C) AppleWebKit/601.8 (KHTML, like Gecko)  Chrome/47.0.1068.321 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SAMSUNG GT-I9500I Build/KOT49H) AppleWebKit/537.37 (KHTML, like Gecko)  Chrome/54.0.1590.356 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; Lenovo A7000-a Build/LRX21M;) AppleWebKit/602.18 (KHTML, like Gecko)  Chrome/53.0.1664.377 Mobile Safari/537.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SM-T534 Build/KOT49H) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/49.0.3092.139 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/534.34 (KHTML, like Gecko)  Chrome/48.0.1186.382 Mobile Safari/534.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; Xperia V Build/NDE63X) AppleWebKit/601.18 (KHTML, like Gecko)  Chrome/51.0.3757.230 Mobile Safari/534.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Xperia Build/NDE63X) AppleWebKit/600.43 (KHTML, like Gecko)  Chrome/54.0.2822.254 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; Lenovo A7000-a Build/LRX21M;) AppleWebKit/603.47 (KHTML, like Gecko)  Chrome/52.0.2968.345 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; Nokia 1000 wifi Build/GRK39F) AppleWebKit/534.35 (KHTML, like Gecko)  Chrome/50.0.3365.282 Mobile Safari/600.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; HTC Onemini 2 dual sim Build/KTU84L) AppleWebKit/601.1 (KHTML, like Gecko)  Chrome/52.0.1994.216 Mobile Safari/600.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SM-N9008 Build/KOT49H) AppleWebKit/536.12 (KHTML, like Gecko)  Chrome/50.0.2256.154 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.0; Pixel C Build/NRD90M) AppleWebKit/534.33 (KHTML, like Gecko)  Chrome/47.0.2662.148 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; HTC One M8 Pro Build/MRA58K) AppleWebKit/533.18 (KHTML, like Gecko)  Chrome/55.0.1061.251 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus_S_4G Build/GRJ22) AppleWebKit/536.15 (KHTML, like Gecko)  Chrome/50.0.1685.203 Mobile Safari/602.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 6 Build/LRX22C) AppleWebKit/602.2 (KHTML, like Gecko)  Chrome/55.0.1382.355 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 8 Build/LMY48B) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/50.0.3870.310 Mobile Safari/533.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; Nexus5 V7.1 Build/KOT49H) AppleWebKit/537.8 (KHTML, like Gecko)  Chrome/50.0.3322.289 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; LG-D723 Build/LRX22G) AppleWebKit/534.4 (KHTML, like Gecko)  Chrome/52.0.3303.260 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-G925I Build/LRX21T) AppleWebKit/535.47 (KHTML, like Gecko)  Chrome/50.0.1464.298 Mobile Safari/600.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; SM-J110G Build/KTU84P) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/54.0.1683.269 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; Nokia 1100 LTE Build/GRK39F) AppleWebKit/535.6 (KHTML, like Gecko)  Chrome/51.0.3136.139 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; SAMSUNG SM-N9006 Build/KOT49H) AppleWebKit/600.8 (KHTML, like Gecko)  Chrome/47.0.3870.160 Mobile Safari/601.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.3.1; HP 665 Notebook PC Build/JSS15J) AppleWebKit/603.48 (KHTML, like Gecko)  Chrome/54.0.1695.179 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0; SM-D93508 Build/MMB29K) AppleWebKit/603.26 (KHTML, like Gecko)  Chrome/53.0.1117.185 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; LG-V610 Build/KOT49I) AppleWebKit/603.10 (KHTML, like Gecko)  Chrome/49.0.3207.130 Mobile Safari/537.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; SM-N915A Build/LRX22C) AppleWebKit/600.27 (KHTML, like Gecko)  Chrome/54.0.2902.344 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; LG-E988 Build/KOT49I) AppleWebKit/534.12 (KHTML, like Gecko)  Chrome/54.0.2732.262 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.1; Nexus_S_4G Build/GRJ22) AppleWebKit/535.15 (KHTML, like Gecko)  Chrome/49.0.3777.348 Mobile Safari/603.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D9258 Build/MMB29K) AppleWebKit/600.6 (KHTML, like Gecko)  Chrome/47.0.3171.238 Mobile Safari/536.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1; MOTOROLA MOTO X FORCE XT1580 Build/LPC23) AppleWebKit/536.10 (KHTML, like Gecko)  Chrome/48.0.1121.156 Mobile Safari/537.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.1; SM-E500F Build/KTU84P) AppleWebKit/600.42 (KHTML, like Gecko)  Chrome/49.0.2328.170 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0; SAMSUNG SM-A800I Build/LRX22G) AppleWebKit/600.3 (KHTML, like Gecko)  Chrome/52.0.3481.156 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29K) AppleWebKit/537.17 (KHTML, like Gecko)  Chrome/48.0.2872.187 Mobile Safari/533.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HTC One 801s Build/JSS15J) AppleWebKit/535.28 (KHTML, like Gecko)  Chrome/50.0.3501.285 Mobile Safari/603.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; Nexus 6P Build/MDB08I) AppleWebKit/602.25 (KHTML, like Gecko)  Chrome/52.0.3117.169 Mobile Safari/535.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; Nexus 7 Build/LRX22C) AppleWebKit/602.23 (KHTML, like Gecko)  Chrome/53.0.1074.178 Mobile Safari/536.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; Nexus 5P Build/MMB29K) AppleWebKit/533.23 (KHTML, like Gecko)  Chrome/47.0.1209.111 Mobile Safari/537.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; SGH-N095S Build/JSS15J) AppleWebKit/537.39 (KHTML, like Gecko)  Chrome/55.0.3016.177 Mobile Safari/600.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/602.17 (KHTML, like Gecko)  Chrome/48.0.2775.309 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; Nexus 9 Build/LMY48B) AppleWebKit/534.28 (KHTML, like Gecko)  Chrome/54.0.2275.200 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G928FD Build/LMY47X) AppleWebKit/534.39 (KHTML, like Gecko)  Chrome/47.0.2458.289 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 9P Build/NPD90G) AppleWebKit/536.7 (KHTML, like Gecko)  Chrome/47.0.2722.228 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC OneS Build/MRA58K) AppleWebKit/603.25 (KHTML, like Gecko)  Chrome/52.0.1895.246 Mobile Safari/534.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One0P6B dual sim Build/MRA58K) AppleWebKit/537.20 (KHTML, like Gecko)  Chrome/52.0.1258.222 Mobile Safari/533.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 6.0.1; HTC One_M8 Build/MRA58K) AppleWebKit/536.28 (KHTML, like Gecko)  Chrome/54.0.1426.186 Mobile Safari/534.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; Ascend G320 Build/JLS36I) AppleWebKit/537.31 (KHTML, like Gecko)  Chrome/49.0.1027.323 Mobile Safari/600.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTOROLA MOTO X PURE XT1575 Build/LPC23) AppleWebKit/600.10 (KHTML, like Gecko)  Chrome/48.0.2266.251 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1.1; Xperia V Build/NDE63X) AppleWebKit/603.21 (KHTML, like Gecko)  Chrome/52.0.1826.178 Mobile Safari/600.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1; LG-H920 Build/NRD90C) AppleWebKit/600.41 (KHTML, like Gecko)  Chrome/50.0.2726.288 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; SM-D925V Build/MMB29K) AppleWebKit/602.10 (KHTML, like Gecko)  Chrome/55.0.1350.170 Mobile Safari/603.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SAMSUNG-SGH-I337M Build/KOT49H) AppleWebKit/600.32 (KHTML, like Gecko)  Chrome/48.0.2836.239 Mobile Safari/601.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.2; LG-D726 Build/LRX22G) AppleWebKit/533.25 (KHTML, like Gecko)  Chrome/49.0.1525.150 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; SM-G920F Build/LRX22G) AppleWebKit/533.12 (KHTML, like Gecko)  Chrome/49.0.2561.327 Mobile Safari/534.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; SM-G900T Build/KOT49H) AppleWebKit/601.5 (KHTML, like Gecko)  Chrome/48.0.1617.396 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.4; LG-D957 Build/KOT49I) AppleWebKit/537.49 (KHTML, like Gecko)  Chrome/47.0.1320.219 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 7.1; GT-I9800 Build/KTU84P) AppleWebKit/602.47 (KHTML, like Gecko)  Chrome/53.0.1315.145 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; HTC One_M8 Pro Build/MRA58K) AppleWebKit/534.24 (KHTML, like Gecko)  Chrome/48.0.1673.133 Mobile Safari/603.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4.4; Nokia 3410 Build/IMM76D) AppleWebKit/537.38 (KHTML, like Gecko)  Chrome/51.0.2170.127 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One M8 Build/MRA58K) AppleWebKit/536.37 (KHTML, like Gecko)  Chrome/52.0.1485.114 Mobile Safari/534.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H930 Build/NRD90C) AppleWebKit/537.4 (KHTML, like Gecko)  Chrome/48.0.1815.288 Mobile Safari/534.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4; Nexus5 V6.1 Build/KOT49H) AppleWebKit/533.40 (KHTML, like Gecko)  Chrome/55.0.3845.385 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.2; LG-D707 Build/LRX22G) AppleWebKit/603.40 (KHTML, like Gecko)  Chrome/50.0.3466.334 Mobile Safari/535.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1; SAMSUNG SM-G9350FQ Build/LMY47X) AppleWebKit/600.14 (KHTML, like Gecko)  Chrome/53.0.2724.227 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; GT-I9300 Build/JDQ39) AppleWebKit/603.17 (KHTML, like Gecko)  Chrome/55.0.3193.150 Mobile Safari/602.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 7.1; Nexus 8P Build/NPD90G) AppleWebKit/535.9 (KHTML, like Gecko)  Chrome/48.0.3942.302 Mobile Safari/602.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4; E:number:20-23:10 Build/24.0.B.1.34) AppleWebKit/534.27 (KHTML, like Gecko)  Chrome/49.0.2342.141 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.3.1; Nokia 3115 Build/IMM76D) AppleWebKit/602.8 (KHTML, like Gecko)  Chrome/51.0.1025.390 Mobile Safari/601.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.1.1; GT-I9600 Build/KTU84P) AppleWebKit/601.45 (KHTML, like Gecko)  Chrome/54.0.2009.385 Mobile Safari/536.9"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.1.1; MOTO G XT1068 Build/LPD23) AppleWebKit/533.11 (KHTML, like Gecko)  Chrome/47.0.2606.400 Mobile Safari/533.5"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-G900F-ORANGE Build/LRX21T) AppleWebKit/601.28 (KHTML, like Gecko)  Chrome/47.0.1160.113 Mobile Safari/602.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One M8 Pro Build/MRA58K) AppleWebKit/536.22 (KHTML, like Gecko)  Chrome/55.0.2122.279 Mobile Safari/602.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SAMSUNG SM-G920F-ORANGE Build/LRX21T) AppleWebKit/600.34 (KHTML, like Gecko)  Chrome/50.0.3862.363 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0.1; HTC [M8|M9|M8 Pro Build/LRX22G) AppleWebKit/536.40 (KHTML, like Gecko)  Chrome/52.0.2041.344 Mobile Safari/602.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 7.0; LG-H900 Build/NRD90C) AppleWebKit/603.7 (KHTML, like Gecko)  Chrome/54.0.1035.284 Mobile Safari/535.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0.1; HTC One0P6B Build/MRA58K) AppleWebKit/537.28 (KHTML, like Gecko)  Chrome/50.0.3477.101 Mobile Safari/533.3"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; HTC One801e dual sim Build/MRA58K) AppleWebKit/533.49 (KHTML, like Gecko)  Chrome/51.0.2688.296 Mobile Safari/602.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 5.0; SM-G470 Build/LRX22C) AppleWebKit/601.21 (KHTML, like Gecko)  Chrome/54.0.3372.183 Mobile Safari/533.0"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.3.1; HUAWEI G6-L10 Build/HuaweiG6-L11) AppleWebKit/603.29 (KHTML, like Gecko)  Chrome/50.0.3802.252 Mobile Safari/535.8"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.1.1; MOTO XT1570 MOTO X STYLE Build/LPK23) AppleWebKit/601.3 (KHTML, like Gecko)  Chrome/50.0.1975.376 Mobile Safari/536.6"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; U; Android 4.4; XT1020 Build/[KXB20.9|KXC21.5]) AppleWebKit/535.15 (KHTML, like Gecko)  Chrome/52.0.2202.187 Mobile Safari/601.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 4.4.1; SGH-I337M Build/JSS15J) AppleWebKit/537.27 (KHTML, like Gecko)  Chrome/47.0.3929.236 Mobile Safari/535.1"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Linux; Android 5.0.1; LG-D728 Build/LRX22G) AppleWebKit/602.48 (KHTML, like Gecko)  Chrome/48.0.1631.129 Mobile Safari/535.7"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 4.4.4; SM-G900H Build/KOT49H) AppleWebKit/535.10 (KHTML, like Gecko)  Chrome/50.0.2731.240 Mobile Safari/536.4"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 5.0.1; SM-N915A Build/LRX22C) AppleWebKit/603.41 (KHTML, like Gecko)  Chrome/47.0.1579.176 Mobile Safari/536.2"
+  },
+  {
+    "device": "android",
+    "useragent": "Mozilla/5.0 (Android; Android 6.0; SAMSUNG SM-D928I Build/MDB08I) AppleWebKit/602.5 (KHTML, like Gecko)  Chrome/47.0.3370.265 Mobile Safari/600.3"
+  }
+]
