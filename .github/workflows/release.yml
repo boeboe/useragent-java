@@ -6,6 +6,9 @@ on:
       - "v*.*.*" # Match versions like v1.0.0, v1.2.3
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   release:
     name: Build & Release
@@ -33,12 +36,6 @@ jobs:
           RELEASE_VERSION: ${{ env.RELEASE_VERSION }}
         run: echo "Release version is ${RELEASE_VERSION}"
 
-      - name: Debug GH_PAT Token
-        run: |
-          echo "GH_PAT length: ${#GH_PAT}"
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-
       - name: Update `pom.xml` version
         env:
           RELEASE_VERSION: ${{ env.RELEASE_VERSION }}
@@ -50,9 +47,7 @@ jobs:
             git fetch origin main
             git checkout main
             git commit -am "Set version to ${RELEASE_VERSION}"
-            git remote set-url origin https://x-access-token:${GH_PAT}@github.com/boeboe/useragent-java.git
-            git remote -v
-            git push origin HEAD:main
+            git push origin main
           else
             echo "No changes to commit. pom.xml is already up-to-date."
           fi
