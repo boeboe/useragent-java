@@ -38,6 +38,8 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
+    <gpg.executable>gpg</gpg.executable>
+    <gpg.passphrase>${env.GPG_PASSPHRASE}</gpg.passphrase>
 
     <!-- Dependencies -->
     <jackson-databind.version>2.18.2</jackson-databind.version>
@@ -57,6 +59,7 @@
     <maven-failsafe-plugin.version>3.5.2</maven-failsafe-plugin.version>
     <jacoco-maven-plugin.version>0.8.12</jacoco-maven-plugin.version>
     <central-publishing-maven-plugin.version>0.7.0</central-publishing-maven-plugin.version>
+    <maven-gpg-plugin.version>3.2.7</maven-gpg-plugin.version>
   </properties>
 
   <dependencies>
@@ -227,6 +230,22 @@
           <publishingServerId>central</publishingServerId>
           <autoPublish>true</autoPublish>
         </configuration>
+      </plugin>
+
+      <!-- Maven GPG Plugin -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-gpg-plugin</artifactId>
+        <version>${maven-gpg-plugin.version}</version>
+        <executions>
+          <execution>
+            <id>sign-artifacts</id>
+            <phase>verify</phase>
+            <goals>
+              <goal>sign</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
 
     </plugins>
