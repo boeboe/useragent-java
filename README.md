@@ -37,7 +37,7 @@ Add the following dependency to your `pom.xml`:
 
 ```groovy
 dependencies {
-  implementation("be.boeboe:user-agent:1.0.4") // Update to latest
+  implementation("be.boeboe:user-agent:1.0.0") // Update to latest
 }
 ```
 
