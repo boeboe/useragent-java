@@ -38,8 +38,6 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
-    <gpg.executable>gpg</gpg.executable>
-    <gpg.passphrase>${env.GPG_PASSPHRASE}</gpg.passphrase>
 
     <!-- Dependencies -->
     <jackson-databind.version>2.18.2</jackson-databind.version>
