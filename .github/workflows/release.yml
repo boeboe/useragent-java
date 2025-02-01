@@ -44,9 +44,9 @@ jobs:
           if ! git diff --exit-code; then
             git config --global user.name "github-actions[bot]"
             git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git fetch origin main
             git checkout main
-            git commit -am "Set version to ${RELEASE_VERSION}"
+            git add pom.xml
+            git commit -m "Set version to ${RELEASE_VERSION}"
             git push origin main
           else
             echo "No changes to commit. pom.xml is already up-to-date."
