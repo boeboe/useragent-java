@@ -142,7 +142,3 @@ This project is licensed under the **MIT License**.
 
 - **User agent data** is sourced from known browser user agents.
 - Built with ❤️ by **[boeboe](https://github.com/boeboe)**.
-
----
-
-🚀 **Now your `README.md` is properly formatted, escaped, and structured for developers!** Copy and paste this directly into your repository. 😊
