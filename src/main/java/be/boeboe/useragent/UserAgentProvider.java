@@ -127,13 +127,15 @@ public class UserAgentProvider {
    */
   private UserAgent getRandomUserAgentFromDir(Path dir) {
     try {
-      List<Path> files = Files.list(dir).collect(Collectors.toList());
+      List<Path> jsonFiles = Files.list(dir)
+          .filter(file -> Files.isRegularFile(file) && file.toString().endsWith(".json"))
+          .collect(Collectors.toList());
 
-      if (files.isEmpty()) {
+      if (jsonFiles.isEmpty()) {
         throw new RuntimeException("No user agent files found in directory: " + dir);
       }
 
-      Path randomFile = files.get(RANDOM.nextInt(files.size()));
+      Path randomFile = jsonFiles.get(RANDOM.nextInt(jsonFiles.size()));
       return getRandomUserAgentFromFile(randomFile);
     } catch (IOException e) {
       throw new RuntimeException("Error reading user agent files from directory: " + dir, e);
