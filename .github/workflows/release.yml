@@ -3,7 +3,7 @@ name: Release & Deploy
 on:
   push:
     tags:
-      - "v*.*.*"
+      - "v*.*.*" # Match versions like v1.0.0, v1.2.3
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,26 @@ jobs:
         with:
           distribution: "temurin"
           java-version: "21"
+
+      - name: Extract version from tag
+        run: |
+          echo "RELEASE_VERSION=${GITHUB_REF#refs/tags/v}" >> $GITHUB_ENV
+          echo "Extracted RELEASE_VERSION=${GITHUB_REF#refs/tags/v}"
+
+      - name: Verify RELEASE_VERSION
+        env:
+          RELEASE_VERSION: ${{ env.RELEASE_VERSION }}
+        run: echo "Release version is ${RELEASE_VERSION}"
+
+      - name: Update `pom.xml` version
+        env:
+          RELEASE_VERSION: ${{ env.RELEASE_VERSION }}
+        run: |
+          ./mvnw versions:set -DnewVersion=${RELEASE_VERSION} -DgenerateBackupPoms=false
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -am "Set version to ${RELEASE_VERSION}"
+          git push origin main
 
       - name: Build & Package
         run: |
