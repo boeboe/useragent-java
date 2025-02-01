@@ -36,10 +36,14 @@ jobs:
           RELEASE_VERSION: ${{ env.RELEASE_VERSION }}
         run: |
           ./mvnw versions:set -DnewVersion=${RELEASE_VERSION} -DgenerateBackupPoms=false
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git commit -am "Set version to ${RELEASE_VERSION}"
-          git push origin main
+          if ! git diff --exit-code; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -am "Set version to ${RELEASE_VERSION}"
+            git push origin main
+          else
+            echo "No changes to commit. pom.xml is already up-to-date."
+          fi
 
       - name: Build & Package
         run: |
