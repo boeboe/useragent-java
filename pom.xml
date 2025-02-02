@@ -5,7 +5,7 @@
 
   <groupId>io.github.boeboe</groupId>
   <artifactId>user-agent</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <name>User Agent Library</name>
   <description>Library to generate random and latest browser user agents.</description>
   <url>https://github.com/boeboe/useragent-java</url>
