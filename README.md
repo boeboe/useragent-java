@@ -3,7 +3,7 @@
 [![Build & Test](https://github.com/boeboe/useragent-java/actions/workflows/ci.yml/badge.svg)](https://github.com/boeboe/useragent-java/actions/workflows/ci.yml)  
 [![Release & Deploy](https://github.com/boeboe/useragent-java/actions/workflows/release.yml/badge.svg)](https://github.com/boeboe/useragent-java/actions/workflows/release.yml)  
 [![Latest Release](https://img.shields.io/github/v/release/boeboe/useragent-java)](https://github.com/boeboe/useragent-java/releases)  
-[![Maven Central](https://img.shields.io/maven-central/v/be.boeboe/user-agent)](https://search.maven.org/artifact/be.boeboe/user-agent)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.boebo/user-agent)](https://search.maven.org/artifact/io.github.boebo/user-agent)
 
 A lightweight **Java library** for retrieving **random** and **latest** user-agent strings for various browsers and devices.
 
