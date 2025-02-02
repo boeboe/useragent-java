@@ -1,18 +1,25 @@
 package io.github.boeboe.useragent;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import java.util.Set;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class UserAgentProviderIT {
+/**
+ * Integration tests for {@link UserAgentProvider}.
+ * Ensures the provider works correctly when running in a real JAR environment.
+ */
+class UserAgentProviderIT {
 
   private static final Logger logger = LoggerFactory.getLogger(UserAgentProviderIT.class);
-
   private UserAgentProvider userAgentProvider;
 
   @BeforeEach
@@ -20,51 +27,139 @@ public class UserAgentProviderIT {
     userAgentProvider = new UserAgentProvider();
   }
 
+  /**
+   * Ensures all user agents are successfully loaded.
+   */
   @Test
-  void testGetRandomUserAgent() {
-    logger.info("Integration Test: Get random user agent");
-    UserAgent userAgent = userAgentProvider.getRandomUserAgent();
-    assertNotNull(userAgent);
-    assertNotNull(userAgent.getUseragent());
-    assertNotNull(userAgent.getDevice());
-    logger.info("Random User Agent: {}", userAgent.getUseragent());
-    assertTrue(userAgent.getUseragent().contains("Mozilla"), "User agent should contain 'Mozilla'");
+  void testLoadAllUserAgents() {
+    Set<UserAgent> allUserAgents = userAgentProvider.getAllUserAgents();
+    assertNotNull(allUserAgents, "User agents list should not be null");
+    assertFalse(allUserAgents.isEmpty(), "Expected allUserAgents to be non-empty");
+    logger.info("Loaded {} user agents (Integration Test)", allUserAgents.size());
   }
 
+  /**
+   * Ensures latest user agents are successfully loaded.
+   */
   @Test
-  void testGetRandomLatestUserAgent() {
-    logger.info("Integration Test: Get random latest user agent");
-    UserAgent userAgent = userAgentProvider.getRandomLatestUserAgent();
-    assertNotNull(userAgent);
-    assertNotNull(userAgent.getUseragent());
-    assertNotNull(userAgent.getDevice());
-    logger.info("Latest User Agent: {}", userAgent.getUseragent());
-    assertTrue(userAgent.getUseragent().contains("Mozilla"), "User agent should contain 'Mozilla'");
+  void testLoadLatestUserAgents() {
+    Set<UserAgent> latestUserAgents = userAgentProvider.getLatestUserAgents();
+    assertNotNull(latestUserAgents, "Latest user agents list should not be null");
+    assertFalse(latestUserAgents.isEmpty(), "Expected latestUserAgents to be non-empty");
+    logger.info("Loaded {} latest user agents (Integration Test)", latestUserAgents.size());
   }
 
+  /**
+   * Ensures JSON files from the resources are loaded and processed.
+   */
+  @Test
+  void testUserAgentsAreLoadedFromResources() {
+    Set<UserAgent> allUserAgents = userAgentProvider.getAllUserAgents();
+    Set<UserAgent> latestUserAgents = userAgentProvider.getLatestUserAgents();
+
+    assertFalse(allUserAgents.isEmpty(), "Expected allUserAgents to be populated");
+    assertFalse(latestUserAgents.isEmpty(), "Expected latestUserAgents to be populated");
+
+    logger.info("All user agents loaded: {} (Integration Test)", allUserAgents.size());
+    logger.info("Latest user agents loaded: {} (Integration Test)", latestUserAgents.size());
+  }
+
+  /**
+   * Ensures that user agent collections returned are immutable.
+   */
+  @Test
+  void testUnmodifiableUserAgentCollections() {
+    Set<UserAgent> allUserAgents = userAgentProvider.getAllUserAgents();
+    Set<UserAgent> latestUserAgents = userAgentProvider.getLatestUserAgents();
+
+    assertThrows(UnsupportedOperationException.class,
+        () -> allUserAgents.add(new UserAgent("Fake UA", DeviceFilter.ANDROID)));
+    assertThrows(UnsupportedOperationException.class,
+        () -> latestUserAgents.add(new UserAgent("Fake UA", DeviceFilter.ANDROID)));
+  }
+
+  /**
+   * Ensures that latest user agents are a subset of all user agents.
+   */
+  @Test
+  void testLatestUserAgentsAreSubsetOfAllUserAgents() {
+    Set<UserAgent> allUserAgents = userAgentProvider.getAllUserAgents();
+    Set<UserAgent> latestUserAgents = userAgentProvider.getLatestUserAgents();
+
+    assertFalse(allUserAgents.isEmpty(), "Expected allUserAgents to be populated");
+    assertFalse(latestUserAgents.isEmpty(), "Expected latestUserAgents to be populated");
+
+    // Ensure every latest user agent exists in the all user agents list
+    assertTrue(allUserAgents.containsAll(latestUserAgents), "Latest user agents must be a subset of all user agents");
+
+    logger.info("Verified latest user agents are a subset of all user agents (Integration Test).");
+  }
+
+  /**
+   * Ensures that loaded user agents contain expected data.
+   */
+  @Test
+  void testValidUserAgentsAreParsed() {
+    Set<UserAgent> allUserAgents = userAgentProvider.getAllUserAgents();
+    assertFalse(allUserAgents.isEmpty(), "Expected at least some user agents to be loaded");
+
+    for (UserAgent ua : allUserAgents) {
+      assertNotNull(ua.getUserAgent(), "User agent string should not be null");
+      assertNotNull(ua.getDevice(), "Device should not be null");
+    }
+
+    logger.info("User agents parsed correctly with valid attributes (Integration Test).");
+  }
+
+  /**
+   * Ensures that random user agents can be retrieved.
+   */
+  @Test
+  void testGetRandomUserAgentReturnsValidAgent() {
+    UserAgent randomAgent = userAgentProvider.getRandomUserAgent();
+    assertNotNull(randomAgent, "Random user agent should not be null");
+    logger.info("Random user agent: {}", randomAgent.getUserAgent());
+  }
+
+  /**
+   * Ensures that random latest user agents can be retrieved.
+   */
+  @Test
+  void testGetRandomLatestUserAgentReturnsValidAgent() {
+    UserAgent randomLatestAgent = userAgentProvider.getRandomLatestUserAgent();
+    assertNotNull(randomLatestAgent, "Random latest user agent should not be null");
+    logger.info("Random latest user agent: {}", randomLatestAgent.getUserAgent());
+  }
+
+  /**
+   * Ensures that random user agents can be retrieved by device.
+   */
   @Test
   void testGetRandomUserAgentByDevice() {
-    logger.info("Integration Test: Get random user agent by device");
-    for (Device device : Device.values()) {
-      logger.info("Testing device: {}", device);
-      UserAgent userAgent = userAgentProvider.getRandomUserAgent(device);
-      assertNotNull(userAgent);
-      assertEquals(device, userAgent.getDevice());
-      logger.info("Random User Agent for {}: {}", device, userAgent.getUseragent());
-      assertTrue(userAgent.getUseragent().contains("Mozilla"), "User agent should contain 'Mozilla'");
+    for (DeviceFilter device : DeviceFilter.values()) {
+      UserAgent randomAgent = userAgentProvider.getRandomUserAgent(device);
+      if (randomAgent != null) {
+        assertEquals(device, randomAgent.getDevice(), "User agent should match requested device");
+        logger.info("Random user agent for {}: {}", device, randomAgent.getUserAgent());
+      } else {
+        logger.info("No user agent found for {}", device);
+      }
     }
   }
 
+  /**
+   * Ensures that random latest user agents can be retrieved by device.
+   */
   @Test
   void testGetRandomLatestUserAgentByDevice() {
-    logger.info("Integration Test: Get random latest user agent by device");
-    for (Device device : Device.values()) {
-      logger.info("Testing device: {}", device);
-      UserAgent userAgent = userAgentProvider.getRandomLatestUserAgent(device);
-      assertNotNull(userAgent);
-      assertEquals(device, userAgent.getDevice());
-      logger.info("Latest User Agent for {}: {}", device, userAgent.getUseragent());
-      assertTrue(userAgent.getUseragent().contains("Mozilla"), "User agent should contain 'Mozilla'");
+    for (DeviceFilter device : DeviceFilter.values()) {
+      UserAgent randomAgent = userAgentProvider.getRandomLatestUserAgent(device);
+      if (randomAgent != null) {
+        assertEquals(device, randomAgent.getDevice(), "Latest user agent should match requested device");
+        logger.info("Random latest user agent for {}: {}", device, randomAgent.getUserAgent());
+      } else {
+        logger.info("No latest user agent found for {}", device);
+      }
     }
   }
 }

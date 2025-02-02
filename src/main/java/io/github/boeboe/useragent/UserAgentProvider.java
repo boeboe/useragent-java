@@ -1,180 +1,234 @@
 package io.github.boeboe.useragent;
 
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.io.InputStream;
+import java.net.URL;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
-import java.util.Random;
+import java.util.Set;
+import java.util.concurrent.ThreadLocalRandom;
+import java.util.jar.JarEntry;
+import java.util.jar.JarFile;
 import java.util.stream.Collectors;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * Provides access to user agent strings for different devices and browsers.
- * <p>
- * This class allows users to retrieve either a random user agent or the latest
- * available user agent. It supports filtering by device type.
- * </p>
- *
- * <h2>Usage Examples:</h2>
- * 
- * <pre>
- * UserAgentProvider provider = new UserAgentProvider();
- * 
- * // Get a completely random user agent
- * UserAgent randomAgent = provider.getRandomUserAgent();
- * 
- * // Get the latest user agent available
- * UserAgent latestAgent = provider.getRandomLatestUserAgent();
- * 
- * // Get a random user agent for a specific device
- * UserAgent androidAgent = provider.getRandomUserAgent(Device.ANDROID);
- * 
- * // Get the latest user agent for a specific device
- * UserAgent latestWindowsAgent = provider.getRandomLatestUserAgent(Device.WINDOWS);
- * </pre>
+ * Provides user agents from embedded JSON files inside the JAR.
  */
 public class UserAgentProvider {
-  private static final Path LATEST_DIR = Paths.get("src/main/resources/latest");
-  private static final Path RANDOM_DIR = Paths.get("src/main/resources/random");
-  private static final Random RANDOM = new Random();
-  private static final ObjectMapper MAPPER = new ObjectMapper();
+  private static final Logger logger = LoggerFactory.getLogger(UserAgentProvider.class);
 
-  private final Path latestDir;
-  private final Path randomDir;
+  private static final ObjectMapper MAPPER = new ObjectMapper();
+  private static final String RANDOM_DIR = "random/";
+  private static final String LATEST_DIR = "latest/";
+
+  private final Set<UserAgent> allUserAgents = new HashSet<>();
+  private final Set<UserAgent> latestUserAgents = new HashSet<>();
 
   /**
-   * Creates an instance of {@code UserAgentProvider}.
-   * <p>
-   * This provider will return either a random or latest user agent
-   * from a predefined set.
-   * </p>
+   * Initializes the provider by loading user agents from resources.
    */
   public UserAgentProvider() {
-    this.latestDir = LATEST_DIR;
-    this.randomDir = RANDOM_DIR;
+    loadUserAgents(RANDOM_DIR, allUserAgents);
+    loadUserAgents(LATEST_DIR, latestUserAgents);
+    allUserAgents.addAll(latestUserAgents);
   }
 
   /**
-   * Protected constructor for testing purposes to override the JSON file
-   * directory paths.
+   * Returns all loaded user agents.
    *
-   * @param latestDir Directory containing the latest user agent JSON files.
-   * @param randomDir Directory containing randomized user agent JSON files.
+   * @return Set of all user agents.
    */
-  protected UserAgentProvider(Path latestDir, Path randomDir) {
-    this.latestDir = latestDir;
-    this.randomDir = randomDir;
+  public Set<UserAgent> getAllUserAgents() {
+    return Collections.unmodifiableSet(allUserAgents);
   }
 
   /**
-   * Retrieves a random user agent.
-   * 
-   * @return a randomly selected {@link UserAgent}.
-   * @throws RuntimeException if an error occurs while retrieving the user agent.
+   * Returns only the latest user agents.
+   *
+   * @return Set of latest user agents.
    */
-  public UserAgent getRandomUserAgent() {
-    return getRandomUserAgentFromDir(randomDir);
+  public Set<UserAgent> getLatestUserAgents() {
+    return Collections.unmodifiableSet(latestUserAgents);
   }
 
   /**
-   * Retrieves a random latest available user agent.
-   * 
-   * @return the latest available {@link UserAgent}.
-   * @throws RuntimeException if an error occurs while retrieving the user agent.
+   * Returns a random user agent from the latest user agents.
+   *
+   * @return A randomly selected {@link UserAgent} or null if none exist.
    */
   public UserAgent getRandomLatestUserAgent() {
-    return getRandomUserAgentFromDir(latestDir);
+    return getRandomUserAgentFromSet(latestUserAgents, null);
   }
 
   /**
-   * Retrieves a random user agent for a specific device type.
-   * 
-   * @param device the {@link Device} type for which to retrieve a user agent.
-   * @return a randomly selected {@link UserAgent} for the specified device.
-   * @throws RuntimeException if an error occurs while retrieving the user agent.
+   * Returns a random user agent from all user agents.
+   *
+   * @return A randomly selected {@link UserAgent} or null if none exist.
    */
-  public UserAgent getRandomUserAgent(Device device) {
-    return getRandomUserAgentFromFile(randomDir.resolve(device.name().toLowerCase() + ".json"));
+  public UserAgent getRandomUserAgent() {
+    return getRandomUserAgentFromSet(allUserAgents, null);
   }
 
   /**
-   * Retrieves the latest available user agent for a specific device type.
-   * 
-   * @param device the {@link Device} type for which to retrieve a user agent.
-   * @return the latest available {@link UserAgent} for the specified device.
-   * @throws RuntimeException if an error occurs while retrieving the user agent.
+   * Returns a random latest user agent filtered by device type.
+   *
+   * @param device The device type to filter by.
+   * @return A randomly selected {@link UserAgent} matching the device filter, or
+   *         null if none exist.
    */
-  public UserAgent getRandomLatestUserAgent(Device device) {
-    return getRandomUserAgentFromFile(latestDir.resolve(device.name().toLowerCase() + ".json"));
+  public UserAgent getRandomLatestUserAgent(DeviceFilter device) {
+    return getRandomUserAgentFromSet(latestUserAgents, device);
   }
 
   /**
-   * Retrieves a random user agent from any available JSON file within the
-   * specified directory.
-   * <p>
-   * This method selects a random JSON file from the given directory, then
-   * extracts a user agent from it.
-   * </p>
-   * 
-   * @param dir the directory from which to fetch the user agent.
-   * @return a randomly selected {@link UserAgent} from one of the available
-   *         files.
-   * @throws RuntimeException if an error occurs while reading the files or if no
-   *                          valid files are found.
+   * Returns a random user agent from all loaded user agents, filtered by device
+   * type.
+   *
+   * @param device The device type to filter by.
+   * @return A randomly selected {@link UserAgent} matching the device filter, or
+   *         null if none exist.
    */
-  private UserAgent getRandomUserAgentFromDir(Path dir) {
+  public UserAgent getRandomUserAgent(DeviceFilter device) {
+    return getRandomUserAgentFromSet(allUserAgents, device);
+  }
+
+  /**
+   * Loads user agents from JSON files in a given directory inside resources.
+   *
+   * @param resourceDir The resource directory containing JSON files.
+   * @param targetList  The set where parsed user agents should be stored.
+   */
+  private void loadUserAgents(String resourceDir, Set<UserAgent> targetList) {
+    List<String> jsonFiles = listJsonFiles(resourceDir);
+    for (String filePath : jsonFiles) {
+      try {
+        List<UserAgent> parsedAgents = readUserAgentsFromFile(filePath);
+        targetList.addAll(parsedAgents);
+        logger.debug("Loaded {} user agents from {}", parsedAgents.size(), filePath);
+      } catch (IOException e) {
+        logger.error("Failed to load user agents from {}: {}", filePath, e.getMessage());
+        throw new RuntimeException("Failed to load user agents from: " + filePath, e);
+      }
+    }
+  }
+
+  /**
+   * Retrieves all JSON file names in the given resource directory.
+   *
+   * @param resourceDir The directory inside `src/main/resources` (or JAR).
+   * @return List of JSON file paths.
+   */
+  private List<String> listJsonFiles(String resourceDir) {
     try {
-      List<Path> jsonFiles = Files.list(dir)
-          .filter(file -> Files.isRegularFile(file) && file.toString().endsWith(".json"))
+      URL resourceURL = getClass().getClassLoader().getResource(resourceDir);
+      if (resourceURL == null) {
+        logger.error("Resource directory not found: {}", resourceDir);
+        throw new RuntimeException("Resource directory not found: " + resourceDir);
+      }
+
+      switch (resourceURL.getProtocol()) {
+        case "file":
+          logger.debug("Listing JSON files from file system: {}", resourceDir);
+          return listJsonFilesFromFileSystem(resourceURL, resourceDir);
+        case "jar":
+          logger.debug("Listing JSON files from JAR: {}", resourceDir);
+          return listJsonFilesFromJar(resourceURL, resourceDir);
+        default:
+          logger.error("Unsupported resource protocol: {}", resourceURL.getProtocol());
+          throw new IOException("Unsupported resource protocol: " + resourceURL.getProtocol());
+      }
+    } catch (Exception e) {
+      logger.error("Failed to list JSON files in {}: {}", resourceDir, e.getMessage());
+      throw new RuntimeException("Failed to list JSON files in: " + resourceDir, e);
+    }
+  }
+
+  /**
+   * Retrieves JSON file names from a directory in the file system.
+   *
+   * @param resourceURL The URL pointing to the resource directory.
+   * @param resourceDir The directory path inside resources.
+   * @return List of JSON file paths.
+   * @throws Exception If reading fails.
+   */
+  private List<String> listJsonFilesFromFileSystem(URL resourceURL, String resourceDir) throws Exception {
+    java.io.File dir = new java.io.File(resourceURL.toURI());
+    String[] files = dir.list((d, name) -> name.endsWith(".json"));
+
+    if (files == null || files.length == 0) {
+      return Collections.emptyList();
+    }
+
+    return Arrays.stream(files)
+        .map(name -> resourceDir + name)
+        .collect(Collectors.toList());
+  }
+
+  /**
+   * Retrieves JSON file names from a directory inside a JAR file.
+   *
+   * @param resourceURL The URL pointing to the resource inside the JAR.
+   * @param resourceDir The directory path inside the JAR.
+   * @return List of JSON file paths.
+   * @throws Exception If reading fails.
+   */
+  private List<String> listJsonFilesFromJar(URL resourceURL, String resourceDir) throws Exception {
+    String jarPath = resourceURL.getPath().substring(5, resourceURL.getPath().indexOf("!"));
+
+    try (JarFile jarFile = new JarFile(jarPath)) {
+      return jarFile.stream()
+          .map(JarEntry::getName)
+          .filter(name -> name.startsWith(resourceDir) && name.endsWith(".json"))
           .collect(Collectors.toList());
-
-      if (jsonFiles.isEmpty()) {
-        throw new RuntimeException("No user agent files found in directory: " + dir);
-      }
-
-      Path randomFile = jsonFiles.get(RANDOM.nextInt(jsonFiles.size()));
-      return getRandomUserAgentFromFile(randomFile);
-    } catch (IOException e) {
-      throw new RuntimeException("Error reading user agent files from directory: " + dir, e);
     }
   }
 
   /**
-   * Reads a JSON file containing user agents and returns a randomly selected one.
-   * <p>
-   * This method reads the file and deserializes the content into a list of
-   * {@link UserAgent} objects.
-   * If the file is empty or cannot be parsed, an exception is thrown.
-   * </p>
-   * 
-   * @param filePath the path to the JSON file containing user agent data.
-   * @return a randomly selected {@link UserAgent} from the file.
-   * @throws RuntimeException if the file is empty, missing, or cannot be parsed
-   *                          correctly.
+   * Reads a list of user agents from a JSON file inside resources.
+   *
+   * @param resourcePath Path to the JSON file in the classpath.
+   * @return List of parsed UserAgent objects.
+   * @throws IOException If reading fails.
    */
-  private UserAgent getRandomUserAgentFromFile(Path filePath) {
-    try {
-      if (!Files.exists(filePath)) {
-        throw new RuntimeException("User agent file does not exist: " + filePath);
+  private List<UserAgent> readUserAgentsFromFile(String resourcePath) throws IOException {
+    try (InputStream inputStream = getClass().getClassLoader().getResourceAsStream(resourcePath)) {
+      if (inputStream == null) {
+        throw new IOException("Resource not found: " + resourcePath);
       }
-
-      if (Files.size(filePath) == 0) {
-        throw new RuntimeException("User agent file is empty: " + filePath);
-      }
-
-      List<UserAgent> userAgents = MAPPER.readValue(filePath.toFile(), new TypeReference<List<UserAgent>>() {
+      return MAPPER.readValue(inputStream, new TypeReference<List<UserAgent>>() {
       });
-
-      if (userAgents.isEmpty()) {
-        throw new RuntimeException("User agent file contains an empty JSON array: " + filePath);
-      }
-
-      return userAgents.get(RANDOM.nextInt(userAgents.size()));
-    } catch (IOException e) {
-      throw new RuntimeException("Error reading user agent file: " + filePath, e);
     }
+  }
+
+  /**
+   * Retrieves a random user agent from a given set, with optional filtering by
+   * device type.
+   *
+   * @param userAgents The set of user agents to pick from.
+   * @param device     (Optional) The device type to filter by; if null, no
+   *                   filtering is applied.
+   * @return A randomly selected {@link UserAgent} matching the device filter, or
+   *         null if none exist.
+   */
+  private UserAgent getRandomUserAgentFromSet(Set<UserAgent> userAgents, DeviceFilter device) {
+    List<UserAgent> filteredAgents = (device == null)
+        ? new ArrayList<>(userAgents)
+        : userAgents.stream()
+            .filter(ua -> ua.getDevice() == device)
+            .collect(Collectors.toList());
+
+    if (filteredAgents.isEmpty()) {
+      return null;
+    }
+    return filteredAgents.get(ThreadLocalRandom.current().nextInt(filteredAgents.size()));
   }
 }

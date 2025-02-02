@@ -27,9 +27,9 @@ Add the following dependency to your `pom.xml`:
 
 ```xml
 <dependency>
-  <groupId>be.boeboe</groupId>
+  <groupId>io.github.boeboe</groupId>
   <artifactId>user-agent</artifactId>
-  <version>1.0.0</version> <!-- Update to latest -->
+  <version>1.0.2</version> <!-- Update to latest -->
 </dependency>
 ```
 
@@ -37,7 +37,7 @@ Add the following dependency to your `pom.xml`:
 
 ```groovy
 dependencies {
-  implementation("be.boeboe:user-agent:1.0.0") // Update to latest
+  implementation("io.github.boeboe:user-agent:1.0.2") // Update to latest
 }
 ```
 
@@ -45,38 +45,46 @@ dependencies {
 
 ## **🛠️ Usage**
 
-### **1️⃣ Create an Instance**
+### **1️⃣ Retrieve Random or Latest User Agents**
 
 ```java
 UserAgentProvider provider = new UserAgentProvider();
-```
 
-### **2️⃣ Get a Random User Agent**
-
-```java
+// Get a completely random user agent
 UserAgent randomAgent = provider.getRandomUserAgent();
-System.out.println(randomAgent.getUseragent()); // Prints random UA
-```
+System.out.println("Random UA: " + randomAgent.getUserAgent());
 
-### **3️⃣ Get Latest User Agent**
-
-```java
+// Get a random latest user agent
 UserAgent latestAgent = provider.getRandomLatestUserAgent();
-System.out.println(latestAgent.getUseragent());
+System.out.println("Latest UA: " + latestAgent.getUserAgent());
 ```
 
-### **4️⃣ Get Random User Agent for a Specific Device**
+### **2️⃣ Retrieve Random or Latest User Agents by Device Type**
 
 ```java
-UserAgent androidAgent = provider.getRandomUserAgent(Device.ANDROID);
-System.out.println(androidAgent.getUseragent());
+UserAgentProvider provider = new UserAgentProvider();
+
+// Get a random user agent for a specific device
+UserAgent androidAgent = provider.getRandomUserAgent(DeviceFilter.ANDROID);
+System.out.println("Random Android UA: " + androidAgent.getUserAgent());
+
+// Get a latest user agent for a specific device
+UserAgent latestWindowsAgent = provider.getRandomLatestUserAgent(DeviceFilter.WINDOWS);
+System.out.println("Latest Windows UA: " + latestWindowsAgent.getUserAgent());
 ```
 
-### **5️⃣ Get Latest User Agent for a Specific Device**
+### **3️⃣ Access Full User Agent Data**
 
 ```java
-UserAgent latestWindowsAgent = provider.getRandomLatestUserAgent(Device.WINDOWS);
-System.out.println(latestWindowsAgent.getUseragent());
+UserAgentProvider provider = new UserAgentProvider();
+
+// Retrieve all available user agents
+Set<UserAgent> allUserAgents = provider.getAllUserAgents();
+System.out.println("Total user agents loaded: " + allUserAgents.size());
+
+// Retrieve only the latest user agents
+Set<UserAgent> latestUserAgents = provider.getLatestUserAgents();
+System.out.println("Total latest user agents loaded: " + latestUserAgents.size());
 ```
 
 ---
@@ -85,18 +93,19 @@ System.out.println(latestWindowsAgent.getUseragent());
 
 ```
 useragent-java/
-├── src/main/java/be/boeboe/useragent/
-│   ├── Device.java              # Enum representing device types
-│   ├── UserAgent.java           # Model for user-agent strings
-│   ├── UserAgentProvider.java   # Main provider for user-agent retrieval
+├── src/main/java/io/github/boeboe/useragent/
+│   ├── DeviceFilter.java          # Enum representing device types
+│   ├── UserAgent.java             # Model for user-agent strings
+│   └── UserAgentProvider.java     # Main provider for user-agent retrieval
 ├── src/main/resources/
-│   ├── latest/                  # JSON files for latest user-agents
-│   ├── random/                  # JSON files for random user-agents
-├── src/test/java/be/boeboe/useragent/
-│   ├── UserAgentProviderTest.java # Unit tests
-├── pom.xml                      # Maven project configuration
-├── Makefile                     # Makefile helper
-└── README.md                    # Documentation
+│   ├── latest/                    # JSON files for latest user-agents
+│   └── random/                    # JSON files for random user-agents
+├── src/test/java/io/github/boeboe/useragent/
+│   ├── UserAgentProviderIT.java   # Integration tests
+│   └── UserAgentProviderTest.java # Unit tests
+├── pom.xml                        # Maven project configuration
+├── Makefile                       # Makefile helper
+└── README.md                      # Documentation
 ```
 
 ---

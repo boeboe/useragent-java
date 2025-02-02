@@ -21,7 +21,7 @@ import com.fasterxml.jackson.annotation.JsonValue;
  * <li>{@link #WINDOWS} - Represents Windows operating system.</li>
  * </ul>
  */
-public enum Device {
+public enum DeviceFilter {
   /**
    * Represents Android devices.
    */
@@ -91,8 +91,8 @@ public enum Device {
    *                                  constant.
    */
   @JsonCreator
-  public static Device fromString(String value) {
-    for (Device device : Device.values()) {
+  public static DeviceFilter fromString(String value) {
+    for (DeviceFilter device : DeviceFilter.values()) {
       if (device.name().equalsIgnoreCase(value)) {
         return device;
       }
