@@ -27,6 +27,15 @@ jobs:
           distribution: "temurin"
           java-version: "21"
 
+      - name: Import and Trust GPG Key
+        run: |
+          echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode > private.key
+          gpg --batch --import private.key
+          rm private.key
+          gpg --list-secret-keys --keyid-format LONG
+          KEY_FINGERPRINT=$(gpg --list-secret-keys --with-colons --fingerprint | awk -F: '/^fpr:/ {print $10}' | head -n1)
+          echo "$KEY_FINGERPRINT:6:" | gpg --batch --import-ownertrust
+
       - name: Extract version from tag
         run: |
           echo "RELEASE_VERSION=${GITHUB_REF#refs/tags/v}" >> $GITHUB_ENV
@@ -64,15 +73,6 @@ jobs:
           files: target/*.jar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Import and Trust GPG Key
-        run: |
-          echo "${{ secrets.GPG_PRIVATE_KEY }}" | base64 --decode > private.key
-          gpg --batch --import private.key
-          rm private.key
-          gpg --list-secret-keys --keyid-format LONG
-          KEY_FINGERPRINT=$(gpg --list-secret-keys --with-colons --fingerprint | awk -F: '/^fpr:/ {print $10}' | head -n1)
-          echo "$KEY_FINGERPRINT:6:" | gpg --batch --import-ownertrust
 
       - name: Create Maven settings.xml
         run: |
