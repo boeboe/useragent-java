@@ -8,6 +8,9 @@ on:
     branches:
       - main
 
+env:
+  MAVEN_GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+
 jobs:
   build:
     name: Build & Test

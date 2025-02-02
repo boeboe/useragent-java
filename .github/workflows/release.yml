@@ -6,6 +6,9 @@ on:
       - "v*.*.*" # Match versions like v1.0.0, v1.2.3
   workflow_dispatch:
 
+env:
+  MAVEN_GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+
 permissions:
   contents: write
   packages: write
@@ -93,5 +96,3 @@ jobs:
       - name: Release to Maven Central
         run: |
           make deploy
-        env:
-          MAVEN_GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
